@@ -1,0 +1,44 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1}Team PML 30 ${\varphi }$}{4}
+\contentsline {subsubsection}{\numberline {1.0.1}Instructors}{5}
+\contentsline {subsubsection}{\numberline {1.0.2}Team members}{7}
+\contentsline {section}{\numberline {2}Events}{9}
+\contentsline {subsubsection}{\numberline {2.0.3}Qualifying competitions}{9}
+\contentsline {subsubsection}{\numberline {2.0.4}Regional final. 11-13.02.2015}{10}
+\contentsline {subsubsection}{\numberline {2.0.5}CRDI RTC. 24.11.2014}{11}
+\contentsline {subsubsection}{\numberline {2.0.6}PML30 POLYGON. 08.02.2015}{11}
+\contentsline {subsubsection}{\numberline {2.0.7}GeoScan. 10.03.2015}{11}
+\contentsline {subsubsection}{\numberline {2.0.8}PTC live Tech Forum. 24.03.2015}{12}
+\contentsline {subsubsection}{\numberline {2.0.9}Summer camp on Robotics}{12}
+\contentsline {section}{\numberline {3}Business plan}{13}
+\contentsline {subsection}{\numberline {3.1}introduction}{13}
+\contentsline {subsection}{\numberline {3.2}Our sponsors and their support}{13}
+\contentsline {subsubsection}{\numberline {3.2.1}PTC and Irisoft}{13}
+\contentsline {subsubsection}{\numberline {3.2.2}Robofinist}{13}
+\contentsline {subsubsection}{\numberline {3.2.3}Volnoe Delo}{13}
+\contentsline {subsubsection}{\numberline {3.2.4}Physics-Mathematics Lyceum \IeC {\textnumero }30}{13}
+\contentsline {subsection}{\numberline {3.3}Purchase of materials.}{13}
+\contentsline {subsubsection}{\numberline {3.3.1}Our method}{13}
+\contentsline {subsubsection}{\numberline {3.3.2}Our materials}{13}
+\contentsline {section}{\numberline {4}Engineering section}{14}
+\contentsline {subsection}{\numberline {4.1}Concept of robot}{14}
+\contentsline {subsubsection}{\numberline {4.1.1}Construction}{14}
+\contentsline {subsubsection}{\numberline {4.1.2}Autonomous period}{14}
+\contentsline {subsubsection}{\numberline {4.1.3}Driver-controlled period}{14}
+\contentsline {subsection}{\numberline {4.2}Strategy}{15}
+\contentsline {subsubsection}{\numberline {4.2.1}Autonomous period}{15}
+\contentsline {subsubsection}{\numberline {4.2.2}Driver-controlled period - main part}{15}
+\contentsline {subsubsection}{\numberline {4.2.3}Driver-controlled period - final}{15}
+\contentsline {subsection}{\numberline {4.3}Planned steps for creating of the robot}{16}
+\contentsline {subsubsection}{\numberline {4.3.1}1 Meeting}{17}
+\contentsline {section}{\numberline {5}Key summary}{19}
+\contentsline {subsection}{\numberline {5.1}Model}{19}
+\contentsline {subsection}{\numberline {5.2}Strategy}{20}
+\contentsline {section}{\numberline {6}Thanks and prospects}{21}
+\contentsline {section}{\numberline {7}Appendix}{22}
+\contentsline {subsection}{\numberline {7.1}Programm}{22}
+\contentsline {subsubsection}{\numberline {7.1.1}Driver control period}{22}
+\contentsline {subsubsection}{\numberline {7.1.2}Autonomus period from the parking zone}{22}
+\contentsline {subsubsection}{\numberline {7.1.3}Autonomus period from the ramp}{22}
+\contentsline {subsection}{\numberline {7.2}Electical scheme}{22}
+\contentsline {subsection}{\numberline {7.3}Supplementary materials which were used in the robot's construction}{24}
