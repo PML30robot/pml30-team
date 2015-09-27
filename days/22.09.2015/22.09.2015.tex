@@ -1,7 +1,7 @@
 \addtocounter{number_of_meeting}{1}
-\subsubsection{\arabic{number_of_meeting} Meeting}
+\subsubsection{Strategy discussing (22.09.2015)}
 	\textit{\textbf{Time frame:}} 22.09.2015 17:00-21:00 \newline
-	\textit{\textbf{Preview:}} Today we put the priorities during the building of simple robot and performing tasks of the game.\newline \newline
+	\textit{\textbf{Preview:}} Today we put the priorities during the building of the robot and performing tasks of the game.\newline \newline
   
   \newline
   \textit{\textbf{Detailed explaination:}}
@@ -10,34 +10,35 @@
   	\begin{enumerate}
   		\item Autonomous period:
   		\begin{enumerate}
-  			\item Push the button and score climbers.
-  			\item Ride to opposite mountain and collect balls and bricks.
-  			\item Go to middle or high zone of the mountain.
+  			\item Push the button and score climbers. It give 60 points (20 - button 10x2 - climbers in autonomous 10x2 - climbers in tele op).
+  			\item Ride to opposite mountain and collect balls and bricks. It help us to save a time because when start tele op we already have 5 bricks. 
+  			\item Go to middle or high zone of the mountain. It give 40 points. In addition we start driver control period near the top box. So we can put 5 bricks here immediately.
   		\end{enumerate}
   		\item Driver control period:
   		\begin{enumerate}
 	  		\item Put elements that we collected in autonomous period to the top box.
-	  		\item Go from the mountain and collect 5 bricks.
-	  		\item Put 5 bricks to the top box.
+	  		\item Go from the mountain and collect 5 bricks. We decided to collect only bricks because the balls take up much space in the box. So if we collect only bricks we can put more elements to one goal and get more points.
+	  		\item Put 5 bricks to the top box. After that the top box most likely will be full. So we won't be able to put another five bricks.
 	  		\item Collect and put 5 bricks to the middle box.
-	  		\item Score climbers.
+	  		\item Start moving to the crossbar and score climbers.
 	  		\item Turn clear signal.
 	  		\item Pullup.
   		\end{enumerate}
   	\end{enumerate}
   	\item Implementation of robot that can perform next tasks (tasks are in order of priority)
   	\begin{enumerate}
-  		\item Stable scoring to the middle box.
-  		\item Scoring the climbers in driver control period.
-  		\item Scoring climbers in autonomous period.
-  		\item Riding to the high zone.
-  		\item Pulling.
-  		\item Turning clear signal.
-  		\item Pushing button.
+  		\item Stable scoring to the middle box. This task is very simple and give a lot of points.
+  		\item Scoring to the high box. This task is more complex but is give more points.
+  		\item Scoring the climbers in driver control period. We can do it very fast and get 60 points but for scoring the top climber we must be able to climb to high zone.
+  		\item Scoring climbers in autonomous period. It is very easy task that give 40 points (as 4 bricks in the middle box).
+  		\item Riding to the high zone. It can give 40 points in autonomous period and 40 points in tele op.
+  		\item Pulling. This task give the most points.
+  		\item Turning clear signal. It give us 20 points and our opponent lose 20 points.
+  		\item Pushing button. This task is difficult in terms of programmeing and give only 20 points.
   	\end{enumerate}
 	\newline
 	
-	Task for the next meeting: to elaborate concept of the simple robot.
+	Task for the next meeting: to elaborate concept of the robot.
   	
   \end{enumerate*}
   
