@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  25 SEP 2015 21:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  27 SEP 2015 13:39
 entering extended mode
 **tech_doc.tex
 ("D:\tech book 2015-2016\tech_doc.tex"
@@ -472,30 +472,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
  []
 
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6   \newline
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Overfull \hbox (2.38367pt too wide) in paragraph at lines 13--14
+[]\T2A/cmr/m/n/10.95 Push the button and score climbers. It give 60 points (20 
+- button 10x2 - climbers in autonomous
+ []
 
 
-! LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 	\newline
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -505,15 +490,15 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 48.
+(epstopdf)             \includegraphics on input line 49.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-48.
-(pdftex.def)             Requested size: 514.75555pt x 174.56265pt.
+49.
+(pdftex.def)             Requested size: 514.75555pt x 6.35857pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 48--48
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 49--49
 [][] 
  []
 
@@ -523,59 +508,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
  []
 
 
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--17
+Underfull \hbox (badness 1028) in paragraph at lines 20--20
+[]\T2A/cmr/m/n/10.95 Slopes for collecting
+ []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--25
  [] 
  []
 
 File: 00.00.2015/images/01.jpg Graphic file (type jpg)
 <use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 26.
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 34.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 File: 00.00.2015/images/02.jpg Graphic file (type jpg)
  <use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 34.
+Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 42.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
-
-
-! LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44   \end{enumerate*}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.44   \end{enumerate*}
-                       
-Things are pretty mixed up, but I think the worst is over.
-
-
-! LaTeX Error: \begin{document} ended by \end{enumerate*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44   \end{enumerate*}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.44   \end{enumerate*}
-                       
-Things are pretty mixed up, but I think the worst is over.
-
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -584,15 +533,16 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 46.
+(epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-46.
-(pdftex.def)             Requested size: 514.75555pt x 186.98482pt.
+52.
+(pdftex.def)             Requested size: 514.75555pt x 92.31082pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 46--46
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 52--52
 [][] 
  []
 
@@ -602,84 +552,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
  []
 
 
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--17
+Underfull \hbox (badness 5036) in paragraph at lines 20--20
+[]\T2A/cmr/m/n/10.95 Scoring autonomous
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 22--22
+[]\T2A/cmr/m/n/10.95 Scoring climbers in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]\T2A/cmr/m/n/10.95 clear
+ []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--29
  [] 
  []
 
 
-! LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 00.00.2015/images/01.jpg Graphic file (type jpg)
-<use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 26.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
-File: 00.00.2015/images/02.jpg Graphic file (type jpg)
- <use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 34.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 \end{enumerate*}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.44 \end{enumerate*}
-                     
-Things are pretty mixed up, but I think the worst is over.
-
-
-! LaTeX Error: \begin{document} ended by \end{enumerate*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 \end{enumerate*}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.44 \end{enumerate*}
-                     
-Things are pretty mixed up, but I think the worst is over.
+ []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -689,15 +584,15 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 46.
+(epstopdf)             \includegraphics on input line 55.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-46.
-(pdftex.def)             Requested size: 514.75555pt x 214.18578pt.
+55.
+(pdftex.def)             Requested size: 514.75555pt x 11.17667pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 46--46
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 55--55
 [][] 
  []
 
@@ -754,10 +649,10 @@ ponsors/images/05.jpg> <D:/tech book 2015-2016/days/Thanks_for_sponsors/images/
 04.jpg>])
 ("D:\tech book 2015-2016\tech_doc.aux") ) 
 Here is how much of TeX's memory you used:
- 5114 strings out of 493921
- 68428 string characters out of 3144879
+ 5113 strings out of 493921
+ 68423 string characters out of 3144879
  138000 words of memory out of 3000000
- 8245 multiletter control sequences out of 15000+200000
+ 8244 multiletter control sequences out of 15000+200000
  15706 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  42i,10n,43p,515b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -768,9 +663,9 @@ Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1095.pk> <C:\Users\User\A
 ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users
 \User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on tech_doc.pdf (6 pages, 252869 bytes).
+Output written on tech_doc.pdf (6 pages, 261797 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
+ 212 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
