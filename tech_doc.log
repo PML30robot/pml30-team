@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  30 SEP 2015 08:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  30 SEP 2015 23:54
 entering extended mode
 **tech_doc.tex
 ("D:\tech book 2015-2016\tech_doc.tex"
@@ -297,8 +297,6 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-\c@number_of_meeting=\count106
-
 ("D:\tech book 2015-2016\tech_doc.aux"
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
@@ -325,16 +323,16 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
+\scratchcounter=\count106
 \scratchdimen=\dimen123
 \scratchbox=\box30
-\nofMPsegments=\count108
-\nofMParguments=\count109
+\nofMPsegments=\count107
+\nofMParguments=\count108
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count110
+\MPscratchCnt=\count109
 \MPscratchDim=\dimen124
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
 \everyMPtoPDFconversion=\toks33
 )
 *geometry* driver: auto-detecting
@@ -371,43 +369,57 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("D:\tech book 2015-2016\days/21.09.2015/21.09.2015.tex"
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+("D:\tech book 2015-2016\session/session.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 6477) in paragraph at lines 26--26
-\T2A/cmr/m/n/10.95 up require high moment on motors.
- []
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 34--34
-\T2A/cmr/m/n/10.95 at the same place. Furthermore, robots
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 36--36
-[]\T2A/cmr/m/n/10.95 It's not restricted to collect debris in
- []
-
-
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 12--39
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 9--18
  [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--40
+(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+("D:\tech book 2015-2016\00.00.2015/00.00.2015-in.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 8--17
+ [] 
+ []
+
+<00.00.2015/images/01.jpg, id=1, 624.83438pt x 344.03531pt>
+File: 00.00.2015/images/01.jpg Graphic file (type jpg)
+
+<use 00.00.2015/images/01.jpg>
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 26.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+
+<00.00.2015/images/02.jpg, id=2, 624.83438pt x 344.03531pt>
+File: 00.00.2015/images/02.jpg Graphic file (type jpg)
+
+<use 00.00.2015/images/02.jpg>
+Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 34.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+
+<00.00.2015/images/03.jpg, id=3, 624.83438pt x 344.03531pt>
+File: 00.00.2015/images/03.jpg Graphic file (type jpg)
+
+<use 00.00.2015/images/03.jpg>
+Package pdftex.def Info: 00.00.2015/images/03.jpg used on input line 50.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -419,27 +431,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 ) [1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-]
-Overfull \hbox (2.3253pt too wide) in paragraph at lines 50--51
-[]\T2A/cmr/m/n/10.95 a high-quality one, which will take a lot of time to desig
-n and assemble to perform in further competitions. 
- []
-
-<00.00.2015/images/01.jpg, id=9, 624.83438pt x 344.03531pt>
-File: 00.00.2015/images/01.jpg Graphic file (type jpg)
-
-<use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 64.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
-
-<00.00.2015/images/02.jpg, id=10, 624.83438pt x 344.03531pt>
-File: 00.00.2015/images/02.jpg Graphic file (type jpg)
-
-<use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 78.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
- [2 <D:/tech book 2015-2016/00.00.2015/images/01.jpg> <D:/tech book 2015-2016/0
-0.00.2015/images/02.jpg>]
+ <D:/tech book 2015-2016/00.00.2015/images/01.jpg> <D:/tech book 2015-2016/00.0
+0.2015/images/02.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -448,34 +441,164 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 98.
+(epstopdf)             \includegraphics on input line 58.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/fill_page-eps-converted-to.pdf, id=14, 446.66875pt x 214.8025pt>
+<img/fill_page-eps-converted-to.pdf, id=13, 446.66875pt x 214.8025pt>
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-98.
-(pdftex.def)             Requested size: 514.75555pt x 579.1682pt.
+58.
+(pdftex.def)             Requested size: 514.75555pt x 495.13335pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 98--98
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 58--58
 [][] 
  []
 
-[3 <D:/tech book 2015-2016/img/fill_page-eps-converted-to.pdf>])
-("D:\tech book 2015-2016\days/22.09.2015/22.09.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
+[2 <D:/tech book 2015-2016/00.00.2015/images/03.jpg> <D:/tech book 2015-2016/im
+g/fill_page-eps-converted-to.pdf>])
+("D:\tech book 2015-2016\00.00.2015/00.00.2015-in.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 8--17
+ [] 
+ []
+
+File: 00.00.2015/images/01.jpg Graphic file (type jpg)
+<use 00.00.2015/images/01.jpg>
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 26.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+File: 00.00.2015/images/02.jpg Graphic file (type jpg)
+ <use 00.00.2015/images/02.jpg>
+Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 34.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+File: 00.00.2015/images/03.jpg Graphic file (type jpg)
+
+<use 00.00.2015/images/03.jpg>
+Package pdftex.def Info: 00.00.2015/images/03.jpg used on input line 50.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+58.
+(pdftex.def)             Requested size: 514.75555pt x -11.09145pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 58--58
+[][] 
+ []
+
+[3])
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]\T2A/cmr/m/n/10.95 Label to
+ []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 32--41
+ [] 
+ []
+
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 44.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+<use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+44.
+(pdftex.def)             Requested size: 514.75555pt x 554.78271pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 44--44
+[][] 
+ []
+
+[4]) ("D:\tech book 2015-2016\days/21.09.2015/21.09.2015.tex"
+Underfull \hbox (badness 6477) in paragraph at lines 22--22
+\T2A/cmr/m/n/10.95 up require high moment on motors.
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 30--30
+\T2A/cmr/m/n/10.95 at the same place. Furthermore, robots
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 32--32
+[]\T2A/cmr/m/n/10.95 It's not restricted to collect debris in
+ []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 8--35
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--36
+
+ []
+
+[5]
+Overfull \hbox (2.3253pt too wide) in paragraph at lines 46--47
+[]\T2A/cmr/m/n/10.95 a high-quality one, which will take a lot of time to desig
+n and assemble to perform in further competitions. 
+ []
+
+File: 00.00.2015/images/01.jpg Graphic file (type jpg)
+<use 00.00.2015/images/01.jpg>
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 60.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+File: 00.00.2015/images/02.jpg Graphic file (type jpg)
+ <use 00.00.2015/images/02.jpg>
+Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 74.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+ [6]
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+94.
+(pdftex.def)             Requested size: 514.75555pt x 579.1682pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 94--94
+[][] 
+ []
+
+[7]) ("D:\tech book 2015-2016\days/22.09.2015/22.09.2015.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
 
-Overfull \hbox (2.38367pt too wide) in paragraph at lines 13--14
+Overfull \hbox (2.38367pt too wide) in paragraph at lines 10--11
 []\T2A/cmr/m/n/10.95 Push the button and score climbers. It give 60 points (20 
 - button 10x2 - climbers in autonomous
  []
@@ -488,40 +611,40 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 49.
+(epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-49.
-(pdftex.def)             Requested size: 514.75555pt x 20.95708pt.
+46.
+(pdftex.def)             Requested size: 514.75555pt x 48.15804pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 49--49
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 46--46
 [][] 
  []
 
-[4]) ("D:\tech book 2015-2016\days/23.09.2015/23.09.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
+[8]) ("D:\tech book 2015-2016\days/23.09.2015/23.09.2015.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 22--22
+Underfull \hbox (badness 1028) in paragraph at lines 21--21
 []\T2A/cmr/m/n/10.95 Slopes for collecting
  []
 
 
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--27
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 9--26
  [] 
  []
 
 File: 00.00.2015/images/01.jpg Graphic file (type jpg)
 <use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 36.
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 35.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 File: 00.00.2015/images/02.jpg Graphic file (type jpg)
  <use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 44.
+Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 43.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -531,46 +654,46 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 54.
+(epstopdf)             \includegraphics on input line 53.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-54.
+53.
 (pdftex.def)             Requested size: 514.75555pt x 64.71pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 54--54
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 53--53
 [][] 
  []
 
-[5]) ("D:\tech book 2015-2016\days/24.09.2015/24.09.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
+[9]) ("D:\tech book 2015-2016\days/24.09.2015/24.09.2015.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
 
-Underfull \hbox (badness 5036) in paragraph at lines 22--22
+Underfull \hbox (badness 5036) in paragraph at lines 21--21
 []\T2A/cmr/m/n/10.95 Scoring autonomous
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 24--24
+Underfull \hbox (badness 3746) in paragraph at lines 23--23
 []\T2A/cmr/m/n/10.95 Scoring climbers in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 []\T2A/cmr/m/n/10.95 clear
  []
 
 
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--31
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 9--30
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
@@ -582,26 +705,26 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 57.
+(epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-57.
+56.
 (pdftex.def)             Requested size: 514.75555pt x -30.0197pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 57--57
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 56--56
 [][] 
  []
 
-[6] [7])
+[10] [11])
 ("D:\tech book 2015-2016\days/Thanks_for_sponsors/Thanks_for_sponsors.tex"
 Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
 []\T2A/cmr/m/n/10.95 Also we thank our sponsors: company PTC and it's Russian r
 epresentative "Irisoft"and charitable foundation
  []
 
-<days/Thanks_for_sponsors/images/01.jpg, id=33, 169.63374pt x 63.23625pt>
+<days/Thanks_for_sponsors/images/01.jpg, id=47, 169.63374pt x 63.23625pt>
 File: days/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/01.jpg>
@@ -609,7 +732,7 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/01.jpg used on input l
 ine 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<days/Thanks_for_sponsors/images/02.jpg, id=34, 925.056pt x 367.1316pt>
+<days/Thanks_for_sponsors/images/02.jpg, id=48, 925.056pt x 367.1316pt>
 File: days/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/02.jpg>
@@ -617,7 +740,7 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/02.jpg used on input l
 ine 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<days/Thanks_for_sponsors/images/03.png, id=35, 37.94176pt x 56.6115pt>
+<days/Thanks_for_sponsors/images/03.png, id=49, 37.94176pt x 56.6115pt>
 File: days/Thanks_for_sponsors/images/03.png Graphic file (type png)
 
 <use days/Thanks_for_sponsors/images/03.png>
@@ -625,7 +748,7 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/03.png used on input l
 ine 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<days/Thanks_for_sponsors/images/05.jpg, id=37, 382.42876pt x 383.4325pt>
+<days/Thanks_for_sponsors/images/05.jpg, id=51, 382.42876pt x 383.4325pt>
 File: days/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/05.jpg>
@@ -633,37 +756,39 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/05.jpg used on input l
 ine 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<days/Thanks_for_sponsors/images/04.jpg, id=38, 102.3825pt x 91.34125pt>
+<days/Thanks_for_sponsors/images/04.jpg, id=52, 102.3825pt x 91.34125pt>
 File: days/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/04.jpg>
 Package pdftex.def Info: days/Thanks_for_sponsors/images/04.jpg used on input l
 ine 44.
 (pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
- [8 <D:/tech book 2015-2016/days/Thanks_for_sponsors/images/01.jpg> <D:/tech bo
-ok 2015-2016/days/Thanks_for_sponsors/images/02.jpg> <D:/tech book 2015-2016/da
-ys/Thanks_for_sponsors/images/03.png> <D:/tech book 2015-2016/days/Thanks_for_s
-ponsors/images/05.jpg> <D:/tech book 2015-2016/days/Thanks_for_sponsors/images/
-04.jpg>])
+ [12 <D:/tech book 2015-2016/days/Thanks_for_sponsors/images/01.jpg> <D:/tech b
+ook 2015-2016/days/Thanks_for_sponsors/images/02.jpg> <D:/tech book 2015-2016/d
+ays/Thanks_for_sponsors/images/03.png> <D:/tech book 2015-2016/days/Thanks_for_
+sponsors/images/05.jpg> <D:/tech book 2015-2016/days/Thanks_for_sponsors/images
+/04.jpg>])
 ("D:\tech book 2015-2016\tech_doc.aux") ) 
 Here is how much of TeX's memory you used:
- 5114 strings out of 493921
- 68438 string characters out of 3144879
- 138000 words of memory out of 3000000
- 8245 multiletter control sequences out of 15000+200000
- 15706 words of font info for 41 fonts, out of 3000000 for 9000
+ 5132 strings out of 493921
+ 68937 string characters out of 3144879
+ 137976 words of memory out of 3000000
+ 8247 multiletter control sequences out of 15000+200000
+ 17288 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,10n,43p,787b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,43p,787b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\AppData\Local\MiKTeX\2
 .9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\User\AppData\Local\M
 iKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi1095.pk> <C:\Users\User\AppData\
 Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1095.pk> <C:\Users\User\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users
-\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on tech_doc.pdf (8 pages, 266024 bytes).
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users
+\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C
+:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095
+.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b>
+Output written on tech_doc.pdf (12 pages, 318214 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
+ 257 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
