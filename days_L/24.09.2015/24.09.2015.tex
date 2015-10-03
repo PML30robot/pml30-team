@@ -1,56 +1,55 @@
-\subsection{Concept discussing (24.09 - 27.09)}
-\textit{\textbf{Time frame:}} 24.09 - 27.09 \newline
-\textit{\textbf{Preview:}} The main purpose for current meeting was to figure out how the modules of high-quality robot should look and how they will be developed. \newline \newline
-\textit{\textbf{Modules:}}
+\subsubsection{24.09.2015}
+	\textit{\textbf{Time frame:}} 17:00-21:30 \newline
+	\textit{\textbf{Preview:}} The main purpose for current meeting was to figure out how the modules of simple robot should look and how they will be developed. \newline \newline
+	\textit{\textbf{Modules:}}
 
-\begin{table}[H]
+  \begin{table}[H]
 	\vspace{-2mm}
 	\begin{center}
 		\begin{tabular}{|p{0.2\linewidth}|p{0.7\linewidth}|p{0.1\linewidth}|}
 			\hline
-			Modules & Conclusive solutions & Label \\
+			Module & Solution & Label \\
 			\hline
-			Wheel base & Six standard wheels & wheel base \\
+			Wheel base & 6 standard wheels with 6 DC motors. The center of gravity is between second pair of wheels; corner wheels are equidistant from the center of gravity. & chassis \\
 			\hline
-			Lift & Retracktable rails with the bucket on it & lift \\
+			Heaviness & Robot should be as light as possible to afford gear ratio for speed 2:1 on drive motors. & chassis \\
 			\hline
-			Bucket for debris & Bucket mounted on rails that can overturn backwards to put debris into the box & bucket \\
+			Elevator for debris & Crank elevator with one degree of freedom. & elevator \\
 			\hline
-			Gripper & Rotating brush ahead of the bucket & gripper\\
+			Bucket for debris & Bucket with turning cover which will close entry inside the bucket to prevent scoring elements from accidental falling out & bucket \\
 			\hline
-			Scoring autonomous climber and pushing button & F - shaped beam & climbers + button\\
+			Slopes for collecting debris & To increase collecting area on both sides of the bucket will be placed slopes & gripper \\
 			\hline
-			Scoring climbers in tele op & Retracktable slat & climbers\\
+			Separator for debris & Turnable beam before the bucket, which prevents balls from getting into the bucket in it's lower position (5cm from floor). & gripper \\
 			\hline
-			Pulling up & A hook with the winch & pullup\\
-			\hline
-			Push the clear signal & Servo with beam & clear signal\\
+			Beam for scoring autonomus alpinists & L-shaped beam turning by servo. Alpinists placed in small bucket on the remote side of the beam. & alpinists \\
 			\hline
 		\end{tabular}
 	\end{center}
-\end{table}
-
- \newline
-\textit{\textbf{Detailed explaination:}}
-\begin{enumerate}
-	\item Wheel base will consists of six standard wheels which will rotate with help of six DC motors. It allows to climb to low and middle zone fast enough.
-	
-	\item We decided to use the lift in our robot. It help us to score elements to high goal from low or middle zone. So we don't need to climb to the high zone. We chose the construction with inclined retracktable construction profiles because it is the most simple and relliable solution.
-	
-	\item The robot will collect elements with help of rotating brush which pull them to the special bucket which connected with the lift. This method is the most simple and fast. After collecting elements the bucket rises by the lift. Then it overturns to the side and elements fall to the box.
-	
-	\item We decided to make one mechanism for scoring autonomous climbers and pushing the button. It will be the F-shaped beam. In the top beam is the bucket for climbers, in the bottom - axle which push button. When we turn this mechanism the axle push the button and at the same time climbers fall into the goal.
-	
-	\item For scoring climbers in tele op we decided to use horizontal retracktable slat that move to the both sides by the wheel that rotates with help of continuous rotation servo. When the slat extracts, it pushes the hook that fix one of alpinists on the zip line.
-	
-	\item The pulling mechanism is the winch turning by 2 DC motors that reel the rope connected with the hook that fixed on the lift. Also this motors rise the lift. When lift is rising the rope is extracting. When the robot pull up rope is reeling and lift is lowering. 
-	
-	\item For pushing clear signal we decided use the servo with beam that fixed on the lift.
-
-	
-\end{enumerate}
-
- \newline
-%\textit{\textbf{Additional comments:}} 
+  \end{table}
+  
+   \newline
+  \textit{\textbf{Detailed explaination:}}
+  \begin{enumerate*}
+  	\item Detailed explaination of robot...
+  	\begin{figure}[H]
+  		\begin{minipage}[h]{1\linewidth}
+  			\center{\includegraphics[scale=0.2]{00.00.2015/images/01}}
+  			\caption{robot}
+  		\end{minipage}
+  	\end{figure}
+  	
+  	\item Detailed explaination of program...
+  	\begin{figure}[H]
+  		\begin{minipage}[h]{1\linewidth}
+  			\center{\includegraphics[scale=0.2]{00.00.2015/images/02}}
+  			\caption{robot}
+  		\end{minipage}
+  	\end{figure}
+  	
+  \end{enumerate*}
+  
+   \newline
+  \textit{\textbf{Additional comments:}} For the next meeting we need to consider the high-quality robot's modules.
 
 \fillpage

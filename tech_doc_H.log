@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  3 OCT 2015 17:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  3 OCT 2015 23:51
 entering extended mode
 **tech_doc_H.tex
 ("D:\tech book 2015-2016\tech_doc_H.tex"
@@ -388,8 +388,8 @@ Underfull \hbox (badness 6477) in paragraph at lines 22--22
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 30--30
-\T2A/cmr/m/n/10.95 at the same place. Furthermore, robots
+Underfull \hbox (badness 2884) in paragraph at lines 30--30
+[]\T2A/cmr/m/n/10.95 The only main difficulty of this year
  []
 
 
@@ -408,6 +408,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--36
  []
 
 
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
@@ -418,26 +422,46 @@ File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 ) [1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-Overfull \hbox (2.3253pt too wide) in paragraph at lines 46--47
-[]\T2A/cmr/m/n/10.95 a high-quality one, which will take a lot of time to desig
-n and assemble to perform in further competitions. 
- []
-
 <00.00.2015/images/01.jpg, id=8, 624.83438pt x 344.03531pt>
 File: 00.00.2015/images/01.jpg Graphic file (type jpg)
 
 <use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 60.
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 48.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 
 <00.00.2015/images/02.jpg, id=9, 624.83438pt x 344.03531pt>
 File: 00.00.2015/images/02.jpg Graphic file (type jpg)
 
 <use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 74.
+Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 62.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
- [2 <D:/tech book 2015-2016/00.00.2015/images/01.jpg> <D:/tech book 2015-2016/0
-0.00.2015/images/02.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+[2 <D:/tech book 2015-2016/00.00.2015/images/01.jpg> <D:/tech book 2015-2016/00
+.00.2015/images/02.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Overfull \hbox (9.51575pt too wide) in paragraph at lines 91--92
+[]\T2A/cmr/m/n/10.95 So, the robot should be capable of executing equal tasks p
+laying for each alliance. The major unconvenience
+ []
+
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -446,18 +470,17 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 94.
+(epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
-
-<img/fill_page-eps-converted-to.pdf, id=13, 446.66875pt x 214.8025pt>
+<img/fill_page-eps-converted-to.pdf, id=17, 446.66875pt x 214.8025pt>
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-94.
-(pdftex.def)             Requested size: 514.75555pt x 579.1682pt.
+108.
+(pdftex.def)             Requested size: 514.75555pt x 66.43076pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 94--94
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 108--108
 [][] 
  []
 
@@ -577,7 +600,7 @@ epresentative "Irisoft"and charitable foundation
  []
 
 
-<key_chapters/Thanks_for_sponsors/images/01.jpg, id=30, 169.63374pt x 63.23625p
+<key_chapters/Thanks_for_sponsors/images/01.jpg, id=34, 169.63374pt x 63.23625p
 t>
 File: key_chapters/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/01.jpg>
@@ -585,21 +608,21 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/01.jpg used on
  input line 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<key_chapters/Thanks_for_sponsors/images/02.jpg, id=31, 925.056pt x 367.1316pt>
+<key_chapters/Thanks_for_sponsors/images/02.jpg, id=35, 925.056pt x 367.1316pt>
 File: key_chapters/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
 <use key_chapters/Thanks_for_sponsors/images/02.jpg>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/02.jpg used on
  input line 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<key_chapters/Thanks_for_sponsors/images/03.png, id=32, 37.94176pt x 56.6115pt>
+<key_chapters/Thanks_for_sponsors/images/03.png, id=36, 37.94176pt x 56.6115pt>
 File: key_chapters/Thanks_for_sponsors/images/03.png Graphic file (type png)
 <use key_chapters/Thanks_for_sponsors/images/03.png>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/03.png used on
  input line 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<key_chapters/Thanks_for_sponsors/images/05.jpg, id=34, 382.42876pt x 383.4325p
+<key_chapters/Thanks_for_sponsors/images/05.jpg, id=38, 382.42876pt x 383.4325p
 t>
 File: key_chapters/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/05.jpg>
@@ -607,7 +630,7 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/05.jpg used on
  input line 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<key_chapters/Thanks_for_sponsors/images/04.jpg, id=35, 102.3825pt x 91.34125pt
+<key_chapters/Thanks_for_sponsors/images/04.jpg, id=39, 102.3825pt x 91.34125pt
 >
 File: key_chapters/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/04.jpg>
@@ -621,10 +644,10 @@ ook 2015-2016/key_chapters/Thanks_for_sponsors/images/03.png> <D:/tech book 201
 key_chapters/Thanks_for_sponsors/images/04.jpg>]) ("D:\tech book 2015-2016\tech
 _doc_H.aux") ) 
 Here is how much of TeX's memory you used:
- 5107 strings out of 493921
- 68548 string characters out of 3144879
+ 5109 strings out of 493921
+ 68578 string characters out of 3144879
  137976 words of memory out of 3000000
- 8243 multiletter control sequences out of 15000+200000
+ 8245 multiletter control sequences out of 15000+200000
  17288 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  42i,10n,43p,787b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -635,10 +658,13 @@ jfour\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\labi1095.pk> <C:\Users\User\AppData\Local\MiKTeX\
 2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\User\AppData\Local\
 MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on tech_doc_H.pdf (7 pages, 269475 bytes).
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on tech_doc_H.pdf (7 pages, 296344 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
+ 246 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
