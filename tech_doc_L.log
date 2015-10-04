@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  3 OCT 2015 23:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  4 OCT 2015 23:32
 entering extended mode
 **tech_doc_L.tex
 ("D:\tech book 2015-2016\tech_doc_L.tex"
@@ -522,27 +522,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 23--23
+Underfull \hbox (badness 1028) in paragraph at lines 25--25
 []\T2A/cmr/m/n/10.95 Slopes for collecting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
 []\T2A/cmr/m/n/10.95 Beam for scoring
  []
 
 
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 9--28
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 9--30
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 []\T2A/cmr/m/n/10.95 elevator
  []
 
 
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 37--50
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 39--52
  [] 
  []
 
@@ -650,6 +650,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
  []
 
 
+Underfull \hbox (badness 5908) in paragraph at lines 13--13
+[]\T2A/cmr/m/n/10.95 Gear ratio 2:1 on
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 13--13
+\T2A/cmr/m/n/10.95 wheels can be not
+ []
+
+
 Overfull \hbox (35.99997pt too wide) in paragraph at lines 9--20
  [] 
  []
@@ -677,7 +687,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 47.
-(pdftex.def)             Requested size: 514.75555pt x 145.38202pt.
+(pdftex.def)             Requested size: 514.75555pt x 118.18106pt.
 
 Overfull \hbox (17.04518pt too wide) in paragraph at lines 47--47
 [][] 
@@ -696,12 +706,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
 File: 00.00.2015/images/01.jpg Graphic file (type jpg)
 <use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 9.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
-File: 00.00.2015/images/02.jpg Graphic file (type jpg)
- <use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 17.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 20.
+(pdftex.def)             Requested size: 312.41643pt x 172.01723pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -710,16 +716,15 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 27.
+(epstopdf)             \includegraphics on input line 30.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
+ <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-27.
-(pdftex.def)             Requested size: 514.75555pt x 277.04393pt.
+30.
+(pdftex.def)             Requested size: 514.75555pt x 208.34506pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 27--27
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 30--30
 [][] 
  []
 
@@ -728,14 +733,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-File: 00.00.2015/images/01.jpg Graphic file (type jpg)
-<use 00.00.2015/images/01.jpg>
-Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 9.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
-File: 00.00.2015/images/02.jpg Graphic file (type jpg)
- <use 00.00.2015/images/02.jpg>
-Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 17.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+[10]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -744,20 +742,19 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 27.
+(epstopdf)             \includegraphics on input line 88.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
+ <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-27.
-(pdftex.def)             Requested size: 514.75555pt x 263.4451pt.
+88.
+(pdftex.def)             Requested size: 514.75555pt x 483.60269pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 27--27
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 88--88
 [][] 
  []
 
-[10]))
+[11]))
 ("D:\tech book 2015-2016\key_chapters/Thanks_for_sponsors/Thanks_for_sponsors.t
 ex"
 Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
@@ -766,7 +763,7 @@ epresentative "Irisoft"and charitable foundation
  []
 
 
-<key_chapters/Thanks_for_sponsors/images/01.jpg, id=47, 169.63374pt x 63.23625p
+<key_chapters/Thanks_for_sponsors/images/01.jpg, id=50, 169.63374pt x 63.23625p
 t>
 File: key_chapters/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/01.jpg>
@@ -774,21 +771,21 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/01.jpg used on
  input line 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<key_chapters/Thanks_for_sponsors/images/02.jpg, id=48, 925.056pt x 367.1316pt>
+<key_chapters/Thanks_for_sponsors/images/02.jpg, id=51, 925.056pt x 367.1316pt>
 File: key_chapters/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
 <use key_chapters/Thanks_for_sponsors/images/02.jpg>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/02.jpg used on
  input line 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<key_chapters/Thanks_for_sponsors/images/03.png, id=49, 37.94176pt x 56.6115pt>
+<key_chapters/Thanks_for_sponsors/images/03.png, id=52, 37.94176pt x 56.6115pt>
 File: key_chapters/Thanks_for_sponsors/images/03.png Graphic file (type png)
 <use key_chapters/Thanks_for_sponsors/images/03.png>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/03.png used on
  input line 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<key_chapters/Thanks_for_sponsors/images/05.jpg, id=51, 382.42876pt x 383.4325p
+<key_chapters/Thanks_for_sponsors/images/05.jpg, id=54, 382.42876pt x 383.4325p
 t>
 File: key_chapters/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/05.jpg>
@@ -796,14 +793,14 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/05.jpg used on
  input line 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<key_chapters/Thanks_for_sponsors/images/04.jpg, id=52, 102.3825pt x 91.34125pt
+<key_chapters/Thanks_for_sponsors/images/04.jpg, id=55, 102.3825pt x 91.34125pt
 >
 File: key_chapters/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/04.jpg>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/04.jpg used on
  input line 44.
 (pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
- [11 <D:/tech book 2015-2016/key_chapters/Thanks_for_sponsors/images/01.jpg> <D
+ [12 <D:/tech book 2015-2016/key_chapters/Thanks_for_sponsors/images/01.jpg> <D
 :/tech book 2015-2016/key_chapters/Thanks_for_sponsors/images/02.jpg> <D:/tech 
 book 2015-2016/key_chapters/Thanks_for_sponsors/images/03.png> <D:/tech book 20
 15-2016/key_chapters/Thanks_for_sponsors/images/05.jpg> <D:/tech book 2015-2016
@@ -828,9 +825,9 @@ nts\pk\ljfour\lh\lh-t2a\dpi600\labi1095.pk> <C:\Users\User\AppData\Local\MiKTeX
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tech_doc_L.pdf (11 pages, 307599 bytes).
+Output written on tech_doc_L.pdf (12 pages, 312087 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
+ 278 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
