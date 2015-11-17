@@ -1,22 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  4 OCT 2015 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.14)  17 NOV 2015 23:35
 entering extended mode
 **tech_doc_L.tex
-("D:\tech book 2015-2016\tech_doc_L.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
+(tech_doc_L.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -30,10 +21,10 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count87
@@ -42,14 +33,14 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@temptokena=\toks16
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
@@ -57,7 +48,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -74,30 +65,31 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@width=\dimen104
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read1
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\anyfontsize\anyfontsize.sty"
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+Package: babel 2015/08/03 3.9m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
@@ -105,11 +97,11 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+File: babel.def 2015/08/03 3.9m Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen105
 )
@@ -117,13 +109,19 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
-Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf"
+Language: russianb 2015/05/01 1.3g Russian support for the Babel system
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2aenc.def
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 69.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
-Package babel Info: Making " an active character on input line 199.
+Package babel Info: Making " an active character on input line 111.
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -194,17 +192,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\t2\mathtext.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\t2\mathtext.sty"
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 373.
-Package: cite 2010/09/10  v 5.3
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
-Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
 \@enLab=\toks28
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
@@ -243,7 +241,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks31
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -297,10 +295,9 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-("D:\tech book 2015-2016\tech_doc_L.aux"
+(tech_doc_L.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
-
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2acmr.fd
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -317,11 +314,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
 \scratchdimen=\dimen123
@@ -369,8 +365,8 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("D:\tech book 2015-2016\sessions_L/Brainstorming.tex"
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
+(sessions_L/Brainstorming.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 8.
@@ -417,9 +413,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-33.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-33.def"
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+) [1{C:/Users/1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
 <00.00.2015/images/01.jpg, id=8, 624.83438pt x 344.03531pt>
@@ -440,8 +436,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
-[2 <D:/tech book 2015-2016/00.00.2015/images/01.jpg> <D:/tech book 2015-2016/00
-.00.2015/images/02.jpg>]
+[2 <./00.00.2015/images/01.jpg> <./00.00.2015/images/02.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
@@ -457,16 +452,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--89
  []
 
 
-Overfull \hbox (9.51575pt too wide) in paragraph at lines 91--92
+Overfull \hbox (9.52174pt too wide) in paragraph at lines 91--92
 []\T2A/cmr/m/n/10.95 So, the robot should be capable of executing equal tasks p
 laying for each alliance. The major unconvenience
  []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -484,23 +479,23 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 108--108
 [][] 
  []
 
-[3 <D:/tech book 2015-2016/img/fill_page-eps-converted-to.pdf>])
-("D:\tech book 2015-2016\sessions_L/Strategy_discussing_L.tex"
+[3 <./img/fill_page-eps-converted-to.pdf>])
+(sessions_L/Strategy_discussing_L.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
 
-Overfull \hbox (2.38367pt too wide) in paragraph at lines 10--11
+Overfull \hbox (2.38966pt too wide) in paragraph at lines 10--11
 []\T2A/cmr/m/n/10.95 Push the button and score climbers. It give 60 points (20 
 - button 10x2 - climbers in autonomous
  []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -516,7 +511,7 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 46--46
 [][] 
  []
 
-[4]) ("D:\tech book 2015-2016\sessions_L/Concept_discussing_L.tex"
+[4]) (sessions_L/Concept_discussing_L.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -546,7 +541,7 @@ Overfull \hbox (35.99997pt too wide) in paragraph at lines 39--52
  [] 
  []
 
-("D:\tech book 2015-2016\days_L/24.09.2015/24.09.2015.tex"
+(days_L/24.09.2015/24.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -580,10 +575,10 @@ File: 00.00.2015/images/02.jpg Graphic file (type jpg)
 Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 45.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -600,7 +595,7 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 55--55
 [][] 
  []
 
-[6]) ("D:\tech book 2015-2016\days_L/26.09.2015/26.09.2015.tex"
+[6]) (days_L/26.09.2015/26.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -624,10 +619,10 @@ File: 00.00.2015/images/02.jpg Graphic file (type jpg)
 Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 41.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -644,7 +639,7 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 51--51
 [][] 
  []
 
-[7]) ("D:\tech book 2015-2016\days_L/28.09.2015/28.09.2015.tex"
+[7]) (days_L/28.09.2015/28.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -673,10 +668,10 @@ File: 00.00.2015/images/02.jpg Graphic file (type jpg)
 Package pdftex.def Info: 00.00.2015/images/02.jpg used on input line 37.
 (pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -693,7 +688,7 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 47--47
 [][] 
  []
 
-[8]) ("D:\tech book 2015-2016\days_L/01.10.2015/01.10.2015.tex"
+[8]) (days_L/01.10.2015/01.10.2015.tex
 Overfull \hbox (1.35028pt too wide) in paragraph at lines 2--5
 \T2A/cmr/bx/it/10.95 Preview: \T2A/cmr/m/n/10.95 The purpose for current meetin
 g was creating structural layout of the robot in CAD Creo Parametric
@@ -709,10 +704,10 @@ File: 00.00.2015/images/01.jpg Graphic file (type jpg)
 Package pdftex.def Info: 00.00.2015/images/01.jpg used on input line 20.
 (pdftex.def)             Requested size: 312.41643pt x 172.01723pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -728,17 +723,17 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 30--30
 [][] 
  []
 
-[9]) ("D:\tech book 2015-2016\days_L/03.10.2015/03.10.2015.tex"
+[9]) (days_L/03.10.2015/03.10.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
 [10]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-10-03 15:02:41
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -754,16 +749,60 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 88--88
 [][] 
  []
 
-[11]))
-("D:\tech book 2015-2016\key_chapters/Thanks_for_sponsors/Thanks_for_sponsors.t
-ex"
+[11])) (days_L/Lift+bucket/Lift+bucket.tex
+<days_L/Lift+bucket/images/02.png, id=50, 582.2553pt x 318.4698pt>
+File: days_L/Lift+bucket/images/02.png Graphic file (type png)
+
+<use days_L/Lift+bucket/images/02.png>
+Package pdftex.def Info: days_L/Lift+bucket/images/02.png used on input line 8.
+
+(pdftex.def)             Requested size: 407.57593pt x 222.92732pt.
+
+<days_L/Lift+bucket/images/01.png, id=52, 1053.4557pt x 601.0455pt>
+File: days_L/Lift+bucket/images/01.png Graphic file (type png)
+
+<use days_L/Lift+bucket/images/01.png>
+Package pdftex.def Info: days_L/Lift+bucket/images/01.png used on input line 18
+.
+(pdftex.def)             Requested size: 526.72656pt x 300.522pt.
+
+Overfull \hbox (12.01619pt too wide) in paragraph at lines 18--19
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./days_L/Lift+bucket/images/02.png>]
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-10-03 15:02:41
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-03 15:02:41
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 25.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+25.
+(pdftex.def)             Requested size: 514.75555pt x 328.33865pt.
+
+Overfull \hbox (21.88841pt too wide) in paragraph at lines 24--25
+[]  [] 
+ []
+
+[13 <./days_L/Lift+bucket/images/01.png>])
+(key_chapters/Thanks_for_sponsors/Thanks_for_sponsors.tex
 Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
 []\T2A/cmr/m/n/10.95 Also we thank our sponsors: company PTC and it's Russian r
 epresentative "Irisoft"and charitable foundation
  []
 
 
-<key_chapters/Thanks_for_sponsors/images/01.jpg, id=50, 169.63374pt x 63.23625p
+<key_chapters/Thanks_for_sponsors/images/01.jpg, id=62, 169.63374pt x 63.23625p
 t>
 File: key_chapters/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/01.jpg>
@@ -771,21 +810,21 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/01.jpg used on
  input line 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<key_chapters/Thanks_for_sponsors/images/02.jpg, id=51, 925.056pt x 367.1316pt>
+<key_chapters/Thanks_for_sponsors/images/02.jpg, id=63, 925.056pt x 367.1316pt>
 File: key_chapters/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
 <use key_chapters/Thanks_for_sponsors/images/02.jpg>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/02.jpg used on
  input line 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<key_chapters/Thanks_for_sponsors/images/03.png, id=52, 37.94176pt x 56.6115pt>
+<key_chapters/Thanks_for_sponsors/images/03.png, id=64, 37.94176pt x 56.6115pt>
 File: key_chapters/Thanks_for_sponsors/images/03.png Graphic file (type png)
 <use key_chapters/Thanks_for_sponsors/images/03.png>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/03.png used on
  input line 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<key_chapters/Thanks_for_sponsors/images/05.jpg, id=54, 382.42876pt x 383.4325p
+<key_chapters/Thanks_for_sponsors/images/05.jpg, id=65, 382.42876pt x 383.4325p
 t>
 File: key_chapters/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/05.jpg>
@@ -793,41 +832,40 @@ Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/05.jpg used on
  input line 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<key_chapters/Thanks_for_sponsors/images/04.jpg, id=55, 102.3825pt x 91.34125pt
+<key_chapters/Thanks_for_sponsors/images/04.jpg, id=66, 102.3825pt x 91.34125pt
 >
 File: key_chapters/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
  <use key_chapters/Thanks_for_sponsors/images/04.jpg>
 Package pdftex.def Info: key_chapters/Thanks_for_sponsors/images/04.jpg used on
  input line 44.
 (pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
- [12 <D:/tech book 2015-2016/key_chapters/Thanks_for_sponsors/images/01.jpg> <D
-:/tech book 2015-2016/key_chapters/Thanks_for_sponsors/images/02.jpg> <D:/tech 
-book 2015-2016/key_chapters/Thanks_for_sponsors/images/03.png> <D:/tech book 20
-15-2016/key_chapters/Thanks_for_sponsors/images/05.jpg> <D:/tech book 2015-2016
-/key_chapters/Thanks_for_sponsors/images/04.jpg>]) ("D:\tech book 2015-2016\tec
-h_doc_L.aux") ) 
+ [14 <./key_chapters/Thanks_for_sponsors/images/01.jpg> <./key_chapters/Thanks_
+for_sponsors/images/02.jpg> <./key_chapters/Thanks_for_sponsors/images/03.png> 
+<./key_chapters/Thanks_for_sponsors/images/05.jpg> <./key_chapters/Thanks_for_s
+ponsors/images/04.jpg>])
+(tech_doc_L.aux) ) 
 Here is how much of TeX's memory you used:
- 5133 strings out of 493921
- 69314 string characters out of 3144879
- 139976 words of memory out of 3000000
- 8245 multiletter control sequences out of 15000+200000
+ 5243 strings out of 493673
+ 70496 string characters out of 3141542
+ 149554 words of memory out of 3000000
+ 8415 multiletter control sequences out of 15000+200000
  17288 words of font info for 43 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
+ 1025 hyphenation exceptions out of 8191
  42i,10n,43p,787b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
-2a\dpi600\labx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-lh\lh-t2a\dpi600\labx1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fo
-nts\pk\ljfour\lh\lh-t2a\dpi600\labi1095.pk> <C:\Users\User\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\User\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tech_doc_L.pdf (12 pages, 312087 bytes).
+ <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
+2a\dpi600\labx1440.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
+lh-t2a\dpi600\labx1095.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\lh\lh-t2a\dpi600\labi1095.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\unknown\unknown\dpi600\larm1095.pk><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on tech_doc_L.pdf (14 pages, 514728 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
+ 302 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
