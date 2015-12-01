@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  1 DEC 2015 02:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.22)  1 DEC 2015 20:16
 entering extended mode
 **tech_doc_simple.tex
-("D:\tech book 2015-2016\Simple_robot\tech_doc_simple.tex"
+(Z:\pml30-team\Simple_robot\tech_doc_simple.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -30,10 +30,10 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count87
@@ -79,7 +79,8 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks19
 \verbatim@in@stream=\read1
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.sty
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.
+sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -93,7 +94,7 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
@@ -120,7 +121,7 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
 Language: russianb 2008/03/21 v1.1r Russian support from the babel system
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2aenc.def
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 Package babel Info: Making " an active character on input line 199.
@@ -194,14 +195,14 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\t2\mathtext.sty
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\t2\mathtext.sty
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 373.
-Package: cite 2010/09/10  v 5.3
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
@@ -243,7 +244,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks31
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -297,10 +298,10 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-("D:\tech book 2015-2016\Simple_robot\tech_doc_simple.aux"
+(Z:\pml30-team\Simple_robot\tech_doc_simple.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2acmr.fd
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -318,10 +319,10 @@ LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
 \scratchdimen=\dimen123
@@ -369,7 +370,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("D:\tech book 2015-2016\Simple_robot\0Title/Title.tex"
+(Z:\pml30-team\Simple_robot\0Title/Title.tex
 <0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
 File: 0Title/images/01.jpg Graphic file (type jpg)
 
@@ -377,7 +378,7 @@ File: 0Title/images/01.jpg Graphic file (type jpg)
 Package pdftex.def Info: 0Title/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 116.0826pt x 116.0826pt.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 <0Title/images/02.jpg, id=2, 787.94376pt x 788.9475pt>
@@ -426,54 +427,31 @@ Package pdftex.def Info: 0Title/images/06.jpg used on input line 27.
 (pdftex.def)             Requested size: 165.62003pt x 94.8551pt.
  [1
 
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/tech book
- 2015-2016/Simple_robot/0Title/images/01.jpg> <D:/tech book 2015-2016/Simple_ro
-bot/0Title/images/02.jpg> <D:/tech book 2015-2016/Simple_robot/0Title/images/03
-.jpg> <D:/tech book 2015-2016/Simple_robot/0Title/images/04.png> <D:/tech book 
-2015-2016/Simple_robot/0Title/images/05.png> <D:/tech book 2015-2016/Simple_rob
-ot/0Title/images/06.jpg>]
-<0Title/images/PML30-PHI-infolist_judge.pdf, id=18, 597.55246pt x 845.07718pt>
-File: 0Title/images/PML30-PHI-infolist_judge.pdf Graphic file (type pdf)
-
-<use 0Title/images/PML30-PHI-infolist_judge.pdf>
-Package pdftex.def Info: 0Title/images/PML30-PHI-infolist_judge.pdf used on inp
-ut line 37.
-(pdftex.def)             Requested size: 478.04262pt x 676.06267pt.
-)
-("D:\tech book 2015-2016\Simple_robot\1Introduction/2Our_team/Our_team_L.tex"
-<1Introduction/2Our_team/images/09.jpg, id=19, 1284.8pt x 856.19875pt>
+{C:/Users/robot30/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <Z:/pml30-
+team/Simple_robot/0Title/images/01.jpg> <Z:/pml30-team/Simple_robot/0Title/imag
+es/02.jpg> <Z:/pml30-team/Simple_robot/0Title/images/03.jpg> <Z:/pml30-team/Sim
+ple_robot/0Title/images/04.png> <Z:/pml30-team/Simple_robot/0Title/images/05.pn
+g> <Z:/pml30-team/Simple_robot/0Title/images/06.jpg>]) (Z:\pml30-team\Simple_ro
+bot\1Introduction/2Our_team/Our_team_L.tex
+<1Introduction/2Our_team/images/09.jpg, id=18, 1284.8pt x 856.19875pt>
 File: 1Introduction/2Our_team/images/09.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/09.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/09.jpg used on input li
 ne 8.
 (pdftex.def)             Requested size: 256.95544pt x 171.23671pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-33.def
-File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [2 <D:/tech book 2015-2016/Simple_robot/0Title/images/PML30-PHI-infolist_judg
-e.pdf>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/fill_page-eps-converted-to.pdf, id=81, 446.66875pt x 214.8025pt>
+<img/fill_page-eps-converted-to.pdf, id=19, 446.66875pt x 214.8025pt>
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
@@ -485,9 +463,17 @@ Overfull \hbox (33.67882pt too wide) in paragraph at lines 9--10
 []\T2A/cmr/m/n/10.95 [H] [] 
  []
 
-[3 <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/09.jpg> 
-<D:/tech book 2015-2016/Simple_robot/img/fill_page-eps-converted-to.pdf>]
-<1Introduction/2Our_team/images/07.jpg, id=90, 868.24374pt x 766.865pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+(C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+) [2 <Z:/pml30-team/Simple_robot/1Introduction/2Our_team/images/09.jpg> <Z:/pml
+30-team/Simple_robot/img/fill_page-eps-converted-to.pdf>]
+<1Introduction/2Our_team/images/07.jpg, id=29, 868.24374pt x 766.865pt>
 File: 1Introduction/2Our_team/images/07.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/07.jpg>
@@ -499,7 +485,7 @@ Overfull \hbox (18.56064pt too wide) in paragraph at lines 23--23
  [] 
  []
 
-<1Introduction/2Our_team/images/08.jpg, id=91, 434.62375pt x 781.92125pt>
+<1Introduction/2Our_team/images/08.jpg, id=30, 434.62375pt x 781.92125pt>
 File: 1Introduction/2Our_team/images/08.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/08.jpg>
@@ -507,7 +493,7 @@ Package pdftex.def Info: 1Introduction/2Our_team/images/08.jpg used on input li
 ne 27.
 (pdftex.def)             Requested size: 152.12059pt x 273.67653pt.
 
-<1Introduction/2Our_team/images/05.jpg, id=92, 684.5575pt x 1027.84pt>
+<1Introduction/2Our_team/images/05.jpg, id=31, 684.5575pt x 1027.84pt>
 File: 1Introduction/2Our_team/images/05.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/05.jpg>
@@ -517,9 +503,9 @@ ne 39.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4 <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/07.jpg>
- <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/08.jpg>]
-<1Introduction/2Our_team/images/06.jpg, id=98, 1719.42375pt x 2295.57625pt>
+ [3 <Z:/pml30-team/Simple_robot/1Introduction/2Our_team/images/07.jpg> <Z:/pml3
+0-team/Simple_robot/1Introduction/2Our_team/images/08.jpg>]
+<1Introduction/2Our_team/images/06.jpg, id=37, 1719.42375pt x 2295.57625pt>
 File: 1Introduction/2Our_team/images/06.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/06.jpg>
@@ -527,10 +513,10 @@ Package pdftex.def Info: 1Introduction/2Our_team/images/06.jpg used on input li
 ne 58.
 (pdftex.def)             Requested size: 189.13719pt x 252.51416pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
@@ -542,88 +528,95 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 63.
 (pdftex.def)             Requested size: 514.75555pt x 121.08832pt.
+ [4 <Z:/pml30-team/Simple_robot/1Introduction/2Our_team/images/05.jpg> <Z:/pml3
+0-team/Simple_robot/1Introduction/2Our_team/images/06.jpg>]
+<1Introduction/2Our_team/images/01.jpg, id=41, 274.02374pt x 290.08376pt>
+File: 1Introduction/2Our_team/images/01.jpg Graphic file (type jpg)
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 63--63
-[][] 
+<use 1Introduction/2Our_team/images/01.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/01.jpg used on input li
+ne 68.
+(pdftex.def)             Requested size: 21.92233pt x 23.20717pt.
+
+Underfull \hbox (badness 1939) in paragraph at lines 72--76
+\T2A/cmr/m/it/10.95 Why I chose FTC: "FTC is a good way to
  []
 
-[5 <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/05.jpg> 
-<D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/06.jpg>]
-File: 1Introduction/2Our_team/images/06.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/06.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/06.jpg used on input li
-ne 68.
-(pdftex.def)             Requested size: 137.5567pt x 183.64984pt.
-
-<1Introduction/2Our_team/images/02.jpg, id=102, 614.295pt x 868.24374pt>
+<1Introduction/2Our_team/images/02.jpg, id=42, 624.83438pt x 344.03531pt>
 File: 1Introduction/2Our_team/images/02.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/02.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/02.jpg used on input li
-ne 86.
-(pdftex.def)             Requested size: 153.57336pt x 217.0604pt.
+ne 92.
+(pdftex.def)             Requested size: 156.2082pt x 86.0086pt.
 
-<1Introduction/2Our_team/images/03.jpg, id=103, 686.0832pt x 1032.9792pt>
+<1Introduction/2Our_team/images/03.jpg, id=43, 624.83438pt x 344.03531pt>
 File: 1Introduction/2Our_team/images/03.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/03.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/03.jpg used on input li
-ne 90.
-(pdftex.def)             Requested size: 150.93877pt x 227.25612pt.
+ne 96.
+(pdftex.def)             Requested size: 137.46399pt x 75.68799pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
 \T2A/cmr/m/it/10.95 Role in team: captain, reserve operator-2,
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 94--98
+Underfull \hbox (badness 3965) in paragraph at lines 100--104
 \T2A/cmr/m/it/10.95 responsible for the writing of technical book,
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 94--98
+Underfull \hbox (badness 1881) in paragraph at lines 100--104
 \T2A/cmr/m/it/10.95 I enjoy working with mechanisms and finding
  []
 
-<1Introduction/2Our_team/images/04.jpg, id=104, 658.46pt x 740.7675pt>
+<1Introduction/2Our_team/images/11.jpg, id=44, 454.69875pt x 606.265pt>
+File: 1Introduction/2Our_team/images/11.jpg Graphic file (type jpg)
+
+<use 1Introduction/2Our_team/images/11.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/11.jpg used on input li
+ne 116.
+(pdftex.def)             Requested size: 100.03403pt x 133.37871pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <Z:/pml30-team/Simple_robot/1Introduction/2Our_team/images/01.jpg> <Z:/pml3
+0-team/Simple_robot/1Introduction/2Our_team/images/02.jpg> <Z:/pml30-team/Simpl
+e_robot/1Introduction/2Our_team/images/03.jpg>]
+<1Introduction/2Our_team/images/04.jpg, id=48, 624.83438pt x 344.03531pt>
 File: 1Introduction/2Our_team/images/04.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/04.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/04.jpg used on input li
-ne 110.
-(pdftex.def)             Requested size: 164.6146pt x 185.19142pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/02.jpg>
- <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/03.jpg>]
+ne 129.
+(pdftex.def)             Requested size: 156.2082pt x 86.0086pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 114.
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-114.
-(pdftex.def)             Requested size: 514.75555pt x 470.41028pt.
- [7 <D:/tech book 2015-2016/Simple_robot/1Introduction/2Our_team/images/04.jpg>
-])
-("D:\tech book 2015-2016\Simple_robot\1Introduction/3Our_sponsors/Our_sponsors_
-L.tex"
+133.
+(pdftex.def)             Requested size: 514.75555pt x 136.77171pt.
+ [6 <Z:/pml30-team/Simple_robot/1Introduction/2Our_team/images/11.jpg> <Z:/pml3
+0-team/Simple_robot/1Introduction/2Our_team/images/04.jpg>])
+(Z:\pml30-team\Simple_robot\1Introduction/3Our_sponsors/Our_sponsors_L.tex
 Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
 []\T2A/cmr/m/n/10.95 Also we thank our sponsors: company PTC and it's Russian r
 epresentative "Irisoft"and charitable foundation
  []
 
-<1Introduction/3Our_sponsors/images/01.jpg, id=112, 169.63374pt x 63.23625pt>
+<1Introduction/3Our_sponsors/images/01.jpg, id=52, 169.63374pt x 63.23625pt>
 File: 1Introduction/3Our_sponsors/images/01.jpg Graphic file (type jpg)
 
 <use 1Introduction/3Our_sponsors/images/01.jpg>
@@ -631,7 +624,7 @@ Package pdftex.def Info: 1Introduction/3Our_sponsors/images/01.jpg used on inpu
 t line 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<1Introduction/3Our_sponsors/images/02.jpg, id=113, 925.056pt x 367.1316pt>
+<1Introduction/3Our_sponsors/images/02.jpg, id=53, 925.056pt x 367.1316pt>
 File: 1Introduction/3Our_sponsors/images/02.jpg Graphic file (type jpg)
 
 <use 1Introduction/3Our_sponsors/images/02.jpg>
@@ -639,7 +632,7 @@ Package pdftex.def Info: 1Introduction/3Our_sponsors/images/02.jpg used on inpu
 t line 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<1Introduction/3Our_sponsors/images/03.png, id=114, 37.94176pt x 56.6115pt>
+<1Introduction/3Our_sponsors/images/03.png, id=54, 37.94176pt x 56.6115pt>
 File: 1Introduction/3Our_sponsors/images/03.png Graphic file (type png)
 
 <use 1Introduction/3Our_sponsors/images/03.png>
@@ -647,7 +640,7 @@ Package pdftex.def Info: 1Introduction/3Our_sponsors/images/03.png used on inpu
 t line 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<1Introduction/3Our_sponsors/images/05.jpg, id=115, 382.42876pt x 383.4325pt>
+<1Introduction/3Our_sponsors/images/05.jpg, id=55, 382.42876pt x 383.4325pt>
 File: 1Introduction/3Our_sponsors/images/05.jpg Graphic file (type jpg)
 
 <use 1Introduction/3Our_sponsors/images/05.jpg>
@@ -655,67 +648,66 @@ Package pdftex.def Info: 1Introduction/3Our_sponsors/images/05.jpg used on inpu
 t line 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<1Introduction/3Our_sponsors/images/04.jpg, id=116, 102.3825pt x 91.34125pt>
+<1Introduction/3Our_sponsors/images/04.jpg, id=56, 102.3825pt x 91.34125pt>
 File: 1Introduction/3Our_sponsors/images/04.jpg Graphic file (type jpg)
 
 <use 1Introduction/3Our_sponsors/images/04.jpg>
 Package pdftex.def Info: 1Introduction/3Our_sponsors/images/04.jpg used on inpu
 t line 44.
 (pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
- [8 <D:/tech book 2015-2016/Simple_robot/1Introduction/3Our_sponsors/images/01.
-jpg> <D:/tech book 2015-2016/Simple_robot/1Introduction/3Our_sponsors/images/02
-.jpg> <D:/tech book 2015-2016/Simple_robot/1Introduction/3Our_sponsors/images/0
-3.png> <D:/tech book 2015-2016/Simple_robot/1Introduction/3Our_sponsors/images/
-05.jpg> <D:/tech book 2015-2016/Simple_robot/1Introduction/3Our_sponsors/images
-/04.jpg>])
-("D:\tech book 2015-2016\Simple_robot\1Introduction/4How_to_read/How_to_read_L.
-tex" [9]) ("D:\tech book 2015-2016\Simple_robot\4Appendix/1Program/Program_L.te
-x")
-("D:\tech book 2015-2016\Simple_robot\4Appendix/5List_of_materials/List_of_mate
-rials_L.tex" (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-4.def
+ [7 <Z:/pml30-team/Simple_robot/1Introduction/3Our_sponsors/images/01.jpg> <Z:/
+pml30-team/Simple_robot/1Introduction/3Our_sponsors/images/02.jpg> <Z:/pml30-te
+am/Simple_robot/1Introduction/3Our_sponsors/images/03.png> <Z:/pml30-team/Simpl
+e_robot/1Introduction/3Our_sponsors/images/05.jpg> <Z:/pml30-team/Simple_robot/
+1Introduction/3Our_sponsors/images/04.jpg>])
+(Z:\pml30-team\Simple_robot\1Introduction/4How_to_read/How_to_read_L.tex
+[8]) (Z:\pml30-team\Simple_robot\4Appendix/1Program/Program_L.tex)
+(Z:\pml30-team\Simple_robot\4Appendix/5List_of_materials/List_of_materials_L.te
+x (C:\Users\robot30\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    date: 2015-12-01 17:54:29
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 20.
 (pdftex.def)             Requested size: 514.75555pt x 296.20488pt.
- [10])
-("D:\tech book 2015-2016\Simple_robot\tech_doc_simple.aux") ) 
+ [9])
+(Z:\pml30-team\Simple_robot\tech_doc_simple.aux) ) 
 Here is how much of TeX's memory you used:
- 5961 strings out of 493921
- 79727 string characters out of 3144879
- 131976 words of memory out of 3000000
- 9078 multiletter control sequences out of 15000+200000
+ 5960 strings out of 493921
+ 79702 string characters out of 3144870
+ 132889 words of memory out of 3000000
+ 9077 multiletter control sequences out of 15000+200000
  26177 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  42i,10n,43p,661b,723s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\User\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\
-User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1095.pk> <C:
-\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi603\labx1095.
-pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
-rm1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dp
-i600\labx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
--t2a\dpi603\larm1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\lh\lh-t2a\dpi837\labx3583.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1728.pk><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb>
-Output written on tech_doc_simple.pdf (10 pages, 7649658 bytes).
+ <C:\Users\robot30\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\robot30\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1095.pk> <C:\User
+s\robot30\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi603\labx1095.pk
+> <C:\Users\robot30\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\dp
+i600\larm1095.pk> <C:\Users\robot30\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh
+\lh-t2a\dpi600\labx1440.pk> <C:\Users\robot30\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\unknown\unknown\dpi603\larm1095.pk> <C:\Users\robot30\AppData\Local\MiK
+TeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi837\labx3583.pk> <C:\Users\robot30\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\robot
+30\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1728.pk><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+Output written on tech_doc_simple.pdf (9 pages, 1892614 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
+ 420 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
