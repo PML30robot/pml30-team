@@ -42,7 +42,7 @@
   \item Then the servo with а reel for the twine moving the slats was fixed on. Blocks were attached to the ends of the fixed beams and wound the twine around them; the ends of the twine are tied to the ends of the slats, which allows them to move as needed. The servo direction of rotation defines the direction of movement of the slats and the bucket. 	
   
   \item After that was come up, tested and made another, less complicated, trapezoidal bucket with the opened part smaller than closed. The construction of the guides on the top of bucket would make debris fall in sequence 2-2-1 from the bottom, that way the scoring goals will hold maximum number of debris.
-  \begin{figure}[h]
+  \begin{figure}[H]
   	\begin{minipage}[h]{0.31\linewidth}
   		\center{\includegraphics[scale = 0.04]{3Engineering/6Specifications_for_modules/bucket/images/03}}
   		\caption{Structure of guides}
@@ -61,7 +61,7 @@
   Tests showed that guides work well, so was decided to use them in construction of bucket. The pair of front makes debris fall to the scoring goals more accurately, the assymetric guide slows one debri to make all the debris fall as 2-2-1, not 2-3.
  
   \item After that was streched the line to move the slats. Servos for moving the slats and turning the bucket were placed on the slats.
-  \begin{figure}[h]
+  \begin{figure}[H]
   	\begin{minipage}[h]{0.47\linewidth}
   		\center{\includegraphics[scale = 0.05]{3Engineering/6Specifications_for_modules/bucket/images/06}}
   		\caption{Construction of line and pulling it servo}
@@ -72,13 +72,83 @@
   		\caption{Final construction of the slats}
   	\end{minipage}
   \end{figure}
-  \item The last done part of module is closing mechanism. The difficalty in it is that axis of servo has to be as close as possible to the front-top edge of bucket.
   
-  \begin{figure}[h]
+  \item Next done part of module is closing mechanism. The difficalty in it is that axis of servo has to be as close as possible to the front-top edge of bucket.
+  
+  \begin{figure}[H]
   	\begin{minipage}[h]{1\linewidth}
-  		\center{\includegraphics[scale = 0.05]{3Engineering/6Specifications_for_modules/bucket/images/08}}
+  		\center{\includegraphics[scale = 0.1]{3Engineering/6Specifications_for_modules/bucket/images/08}}
   		\caption{Final construction of the bucket with closing mechanism}
   	\end{minipage}
   \end{figure}
   
-  \end{enumerate}	
+  \item After that bucket was installed on bracings on the slats. Then all the module was mounted on the lifting mechanism. It was done in the way to make the bucket turning axis as low as possible. It would make the volume, used by bucket less, because with that place of the bucket it was necessary to turn it while lifting because otherwise bucket intersected with other parts of robot while lifting. So the lower axis made the radius of bucket turning less and reduced the capacity on the servo by shortening the shoulder of buckets weight.
+  By the time it was done, the first competitions had almost started so the slats weren't mounted on the lift because of time troubles.
+  
+  \item After the end of competitions slats were replaced by longer ones (40 cm instead of 35) to make bucket shifting completely out of robot teoreticaly possible. Also the shifting servo was changed to faster and more powerful servo in order to make bucket shifting faster and more reliability. Then possible work process of bucket was estimated and it turned that fast lifting was impossible. It was so because the bucket was to be turned in case not to intersect with other parts of robot to be lifted. And generally bucket was close to catch parts of robot while moving from front of robot to its end during the lifting. To solve these problems was decided to place the bucket int end of the robot above two beams. It would make lifting easier because bucket would move inside robots projection much less time than before, also it is easier to transport debris throw the robot than to transport the bucket.
+  
+  \item Then the slats were mounted on this lift in the way to place bucket in the end of robot. The next problem was not much space so the beam, on which the bucket was mounted intersected with lifts slats while shifting. So the mount of the bucket was changed. 
+  With that construction servo was turning with the bucket. It made the non-intersection beam possible. After that bucket was mounted on the sift mechanism without any intersections, so the problem was solved.
+  
+ \begin{figure}[H]
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[scale=0.1]{3Engineering/6Specifications_for_modules/bucket/images/Buck_assembled}}
+  	\caption{Construction of bucket}
+  \end{minipage}
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/OnRobot}}
+  	\caption{The bucket mounted on robot}
+  \end{minipage}
+ \end{figure}
+  
+  \item The next step was testing bucket and the whole robot. In the process of it was found two problems: the closing mechanism was able to work only when the bucked was a bit lifted and bucket couldn't hold 5 cubes, caught by grab mechanism. First problem was solved by cutting sides of partition, closing bucket. The second problem weren't solved by adding guides to move first cube sideways (grab couldn't move the cube so). Because of it was decided to change the shape of bucket. 
+  
+  \item After that the new shape was devised. 
+  
+ \begin{figure}[H]
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/Draws}}
+  	\caption{Shape and scan of the bucket}
+  \end{minipage} 
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/BucketScan}}
+  	\caption{Closer view of the scan}
+  \end{minipage}
+ \end{figure}
+  
+  This shape was chosen because: 
+  \begin{itemize}
+  	\item It was easier to fill by the grab mechanism
+  	\item It was big enough to hold 5 cubes
+  	\item It was not enough spacious for 6 cubes
+  	\item It has output hole with width of 2 cubes and that made cube falling vore direct and allows to score cubes.  
+  \end{itemize}
+  \item Then the new bucket was marked and cut from a sheet of plastic (the same was used for the first bucket). Next, bucket was assembled and tested (not on robot). Tests showed that bucket was able to hold 5 cubes and score them directly to the high scoring bucket. 
+  
+ \begin{figure}[H]
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/BucketMarking}}
+  	\caption{Marking of bucket on the plastic sheet}
+  \end{minipage} 
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/Bucket2}}
+  	\caption{Fully assembled bucket with cubes inside} 
+  \end{minipage}
+ \end{figure}
+  
+  \item After that was made protection for wires that could get into slats and break there. Also was made protection for rope of shifting mechanism that could catch on parts of robot because of which shifting stopped. Both protections are plastic strips.
+  
+ \begin{figure}[H]
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/wire_prot}}
+  	\caption{Protection of rope}
+  \end{minipage} 
+  \begin{minipage}[h]{0.49\linewidth}
+  	\center{\includegraphics[width=0.8\linewidth]{3Engineering/6Specifications_for_modules/bucket/images/Bucket2Test}}
+  	\caption{Test of new bucket}
+  \end{minipage}
+ \end{figure}
+  
+  
+ \end{enumerate}	
+\end{document}	

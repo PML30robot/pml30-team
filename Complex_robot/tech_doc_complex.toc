@@ -1,68 +1,63 @@
 \select@language {russian}
-\contentsline {section}{\numberline {1}Team PML 30 --${Y}$}{4}
-\contentsline {subsubsection}{\numberline {1.0.1}Instructors}{5}
-\contentsline {subsubsection}{\numberline {1.0.2}Team members}{7}
-\contentsline {section}{\numberline {2}Thanks and prospects}{9}
-\contentsline {section}{\numberline {3}How to read this book}{10}
-\contentsline {subsection}{\numberline {3.1}Brainstorming (21.09.2015)}{11}
-\contentsline {subsection}{\numberline {3.2}Strategy discussing (22.09.2015)}{14}
-\contentsline {subsection}{\numberline {3.3}Concept discussing (24.09 - 02.10)}{15}
-\contentsline {subsubsection}{\numberline {3.3.1}24.09.15}{15}
-\contentsline {subsubsection}{\numberline {3.3.2}26.09.2015}{17}
-\contentsline {subsubsection}{\numberline {3.3.3}30.09.2015}{18}
-\contentsline {subsubsection}{\numberline {3.3.4}02.10.2015}{19}
-\contentsline {subsection}{\numberline {3.4}Team meetings (10.11 - 03.12)}{21}
-\contentsline {subsubsection}{\numberline {3.4.1}10.11.2015}{21}
-\contentsline {subsubsection}{\numberline {3.4.2}12.11.2015}{21}
-\contentsline {subsubsection}{\numberline {3.4.3}14.11.2015}{21}
-\contentsline {subsubsection}{\numberline {3.4.4}16.11.2015}{21}
-\contentsline {subsubsection}{\numberline {3.4.5}17.11.2015}{22}
-\contentsline {subsubsection}{\numberline {3.4.6}18.11.2015}{22}
-\contentsline {subsubsection}{\numberline {3.4.7}19.11.2015}{23}
-\contentsline {subsubsection}{\numberline {3.4.8}21.11.2015}{23}
-\contentsline {subsubsection}{\numberline {3.4.9}23.11.2015}{23}
-\contentsline {subsubsection}{\numberline {3.4.10}24.11.2015}{24}
-\contentsline {subsubsection}{\numberline {3.4.11}25.11.2015}{24}
-\contentsline {subsubsection}{\numberline {3.4.12}26.11.2015}{25}
-\contentsline {subsubsection}{\numberline {3.4.13}27.11.2015}{25}
-\contentsline {subsubsection}{\numberline {3.4.14}28.11.2015}{26}
-\contentsline {subsubsection}{\numberline {3.4.15}29.11.2015}{26}
-\contentsline {subsubsection}{\numberline {3.4.16}30.11.2015}{27}
-\contentsline {subsubsection}{\numberline {3.4.17}01.12.2015}{27}
-\contentsline {subsubsection}{\numberline {3.4.18}02.12.2015}{28}
-\contentsline {subsubsection}{\numberline {3.4.19}03.12.2015}{28}
-\contentsline {subsubsection}{\numberline {3.4.20}04.12.2015}{28}
-\contentsline {subsubsection}{\numberline {3.4.21}05.12.2015}{29}
-\contentsline {subsubsection}{\numberline {3.4.22}08.12.2015}{30}
-\contentsline {subsubsection}{\numberline {3.4.23}09.12.2015}{30}
-\contentsline {subsubsection}{\numberline {3.4.24}10.12.2015}{31}
-\contentsline {subsubsection}{\numberline {3.4.25}12.12.2015}{31}
-\contentsline {subsubsection}{\numberline {3.4.26}14.12.2015}{32}
-\contentsline {subsubsection}{\numberline {3.4.27}15.12.2015}{33}
-\contentsline {subsubsection}{\numberline {3.4.28}16.12.2015}{33}
-\contentsline {subsubsection}{\numberline {3.4.29}17.12.2015}{34}
-\contentsline {subsubsection}{\numberline {3.4.30}19.12.2015}{34}
-\contentsline {subsubsection}{\numberline {3.4.31}20.12.2015}{35}
-\contentsline {subsubsection}{\numberline {3.4.32}22.12.2015}{35}
-\contentsline {subsubsection}{\numberline {3.4.33}23.12.2015}{36}
-\contentsline {subsubsection}{\numberline {3.4.34}24.12.2015}{36}
-\contentsline {subsubsection}{\numberline {3.4.35}26.12.2015}{37}
-\contentsline {subsubsection}{\numberline {3.4.36}28.12.2015}{37}
-\contentsline {subsubsection}{\numberline {3.4.37}04.01.2016}{38}
-\contentsline {subsubsection}{\numberline {3.4.38}05.01.2016}{38}
-\contentsline {subsubsection}{\numberline {3.4.39}06.01.2016}{39}
-\contentsline {subsubsection}{\numberline {3.4.40}08.01.2016}{40}
-\contentsline {subsubsection}{\numberline {3.4.41}10.01.2016}{40}
-\contentsline {subsubsection}{\numberline {3.4.42}12.01.2016}{40}
-\contentsline {subsubsection}{\numberline {3.4.43}13.01.2016}{41}
-\contentsline {subsubsection}{\numberline {3.4.44}14.01.2016}{41}
-\contentsline {subsubsection}{\numberline {3.4.45}16.01.2016}{42}
-\contentsline {subsection}{\numberline {3.5}Specifications for modules}{43}
-\contentsline {subsubsection}{\numberline {3.5.1}Elevator}{43}
-\contentsline {subsubsection}{\numberline {3.5.2}Bucket}{43}
-\contentsline {subsubsection}{\numberline {3.5.3}Elevator}{45}
-\contentsline {subsubsection}{\numberline {3.5.4}Mechanism for scoring alpinists}{47}
-\contentsline {subsection}{\numberline {3.6}Specifications for programmes}{48}
-\contentsline {subsubsection}{\numberline {3.6.1}Driver control program}{48}
-\contentsline {section}{\numberline {4}Appendix}{53}
-\contentsline {subsection}{\numberline {4.1}Supplementary materials which were used in the robot's construction}{53}
+\contentsline {subsection}{\numberline {0.1}Team meetings (10.11 - 03.12)}{3}
+\contentsline {subsubsection}{\numberline {0.1.1}10.11.2015}{3}
+\contentsline {subsubsection}{\numberline {0.1.2}12.11.2015}{3}
+\contentsline {subsubsection}{\numberline {0.1.3}14.11.2015}{4}
+\contentsline {subsubsection}{\numberline {0.1.4}16.11.2015}{4}
+\contentsline {subsubsection}{\numberline {0.1.5}17.11.2015}{4}
+\contentsline {subsubsection}{\numberline {0.1.6}18.11.2015}{5}
+\contentsline {subsubsection}{\numberline {0.1.7}19.11.2015}{5}
+\contentsline {subsubsection}{\numberline {0.1.8}21.11.2015}{6}
+\contentsline {subsubsection}{\numberline {0.1.9}23.11.2015}{6}
+\contentsline {subsubsection}{\numberline {0.1.10}24.11.2015}{6}
+\contentsline {subsubsection}{\numberline {0.1.11}25.11.2015}{7}
+\contentsline {subsubsection}{\numberline {0.1.12}26.11.2015}{7}
+\contentsline {subsubsection}{\numberline {0.1.13}27.11.2015}{8}
+\contentsline {subsubsection}{\numberline {0.1.14}28.11.2015}{8}
+\contentsline {subsubsection}{\numberline {0.1.15}29.11.2015}{9}
+\contentsline {subsubsection}{\numberline {0.1.16}30.11.2015}{9}
+\contentsline {subsubsection}{\numberline {0.1.17}01.12.2015}{10}
+\contentsline {subsubsection}{\numberline {0.1.18}02.12.2015}{10}
+\contentsline {subsubsection}{\numberline {0.1.19}03.12.2015}{11}
+\contentsline {subsubsection}{\numberline {0.1.20}04.12.2015 (Competition)}{12}
+\contentsline {subsubsection}{\numberline {0.1.21}05.12.2015 (Competition)}{12}
+\contentsline {subsubsection}{\numberline {0.1.22}08.12.2015 (Discussion)}{13}
+\contentsline {subsubsection}{\numberline {0.1.23}09.12.2015}{13}
+\contentsline {subsubsection}{\numberline {0.1.24}10.12.2015}{13}
+\contentsline {subsubsection}{\numberline {0.1.25}12.12.2015}{14}
+\contentsline {subsubsection}{\numberline {0.1.26}14.12.2015}{14}
+\contentsline {subsubsection}{\numberline {0.1.27}15.12.2015}{15}
+\contentsline {subsubsection}{\numberline {0.1.28}16.12.2015}{15}
+\contentsline {subsubsection}{\numberline {0.1.29}17.12.2015}{16}
+\contentsline {subsubsection}{\numberline {0.1.30}19.12.2015 (Competition)}{17}
+\contentsline {subsubsection}{\numberline {0.1.31}20.12.2015 (Competition)}{17}
+\contentsline {subsubsection}{\numberline {0.1.32}22.12.2015 (Discussion)}{17}
+\contentsline {subsubsection}{\numberline {0.1.33}23.12.2015}{18}
+\contentsline {subsubsection}{\numberline {0.1.34}24.12.2015}{18}
+\contentsline {subsubsection}{\numberline {0.1.35}26.12.2015}{20}
+\contentsline {subsubsection}{\numberline {0.1.36}28.12.2015}{20}
+\contentsline {subsubsection}{\numberline {0.1.37}29.12.2015 (Discussion)}{21}
+\contentsline {subsubsection}{\numberline {0.1.38}04.01.2016}{21}
+\contentsline {subsubsection}{\numberline {0.1.39}05.01.2016}{21}
+\contentsline {subsubsection}{\numberline {0.1.40}06.01.2016}{22}
+\contentsline {subsubsection}{\numberline {0.1.41}08.01.2016}{24}
+\contentsline {subsubsection}{\numberline {0.1.42}10.01.2016 (Discussion)}{24}
+\contentsline {subsubsection}{\numberline {0.1.43}12.01.2016}{24}
+\contentsline {subsubsection}{\numberline {0.1.44}13.01.2016}{25}
+\contentsline {subsubsection}{\numberline {0.1.45}14.01.2016}{25}
+\contentsline {subsubsection}{\numberline {0.1.46}16.01.2016}{25}
+\contentsline {subsubsection}{\numberline {0.1.47}18.01.2016}{26}
+\contentsline {subsubsection}{\numberline {0.1.48}19.01.2016}{26}
+\contentsline {subsubsection}{\numberline {0.1.49}20.01.2016}{27}
+\contentsline {subsubsection}{\numberline {0.1.50}21.01.2016}{27}
+\contentsline {subsubsection}{\numberline {0.1.51}23.01.2016}{29}
+\contentsline {subsubsection}{\numberline {0.1.52}25.01.2016 (Discussion)}{29}
+\contentsline {subsubsection}{\numberline {0.1.53}26.01.2016}{30}
+\contentsline {subsubsection}{\numberline {0.1.54}27.01.2016}{30}
+\contentsline {subsubsection}{\numberline {0.1.55}28.01.2016}{31}
+\contentsline {subsubsection}{\numberline {0.1.56}30.01.2016}{31}
+\contentsline {subsection}{\numberline {0.2}Specifications for modules}{33}
+\contentsline {subsubsection}{\numberline {0.2.1}Elevator}{33}
+\contentsline {subsubsection}{\numberline {0.2.2}Elevator}{33}
+\contentsline {subsubsection}{\numberline {0.2.3}Elevator}{34}
+\contentsline {subsubsection}{\numberline {0.2.4}Bucket}{35}
