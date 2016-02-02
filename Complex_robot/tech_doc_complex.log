@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  1 FEB 2016 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  2 FEB 2016 19:04
 entering extended mode
 **tech_doc_complex.tex
 ("D:\tech book 2015-2016\Complex_robot\tech_doc_complex.tex"
@@ -302,7 +302,14 @@ LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
+
+LaTeX Warning: Label `Bucket1.3' multiply defined.
+
+
+LaTeX Warning: Label `Alpinists2.7' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
@@ -317,8 +324,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+ (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -369,75 +375,69 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("D:\tech book 2015-2016\Complex_robot\0Title/Title.tex"
-<0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
-File: 0Title/images/01.jpg Graphic file (type jpg)
 
-<use 0Title/images/01.jpg>
-Package pdftex.def Info: 0Title/images/01.jpg used on input line 8.
-(pdftex.def)             Requested size: 116.0826pt x 116.0826pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 9.
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/Team_meeting
+s_H.tex"
+Overfull \hbox (3.42299pt too wide) in paragraph at lines 2--4
+\T2A/cmr/m/n/10.95 modules and program in sections "specifications for modules"
+and "specifications for programs"correspondingly. 
+ []
+
+
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.12/2015.11.12.tex"
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 9.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<0Title/images/02.jpg, id=2, 787.94376pt x 788.9475pt>
-File: 0Title/images/02.jpg Graphic file (type jpg)
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.12/images/01.jpg, id=1, 7
+39.76375pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.12/images/01.jpg Gra
+phic file (type jpg)
 
-<use 0Title/images/02.jpg>
-Package pdftex.def Info: 0Title/images/02.jpg used on input line 12.
-(pdftex.def)             Requested size: 118.18646pt x 118.337pt.
-LaTeX Font Info:    Calculating math sizes for size <50> on input line 21.
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.12/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+2/images/01.jpg used on input line 12.
+(pdftex.def)             Requested size: 184.94048pt x 191.9667pt.
 
-<0Title/images/03.jpg, id=3, 925.056pt x 367.1316pt>
-File: 0Title/images/03.jpg Graphic file (type jpg)
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.12/images/02.jpg, id=2, 1
+206.5075pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.12/images/02.jpg Gra
+phic file (type jpg)
 
-<use 0Title/images/03.jpg>
-Package pdftex.def Info: 0Title/images/03.jpg used on input line 27.
-(pdftex.def)             Requested size: 111.00192pt x 44.05388pt.
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.12/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+2/images/02.jpg used on input line 18.
+(pdftex.def)             Requested size: 301.62613pt x 191.9667pt.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+Overfull \hbox (3.09319pt too wide) in paragraph at lines 18--19
+ [] 
+ []
+
 )
-<0Title/images/04.png, id=4, 169.63374pt x 63.23625pt>
-File: 0Title/images/04.png Graphic file (type png)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.14/2015.11.14.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.16/2015.11.16.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.16/images/01.jpg, id=3, 9
+27.465pt x 758.835pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.16/images/01.jpg Gra
+phic file (type jpg)
 
-<use 0Title/images/04.png>
-Package pdftex.def Info: 0Title/images/04.png used on input line 28.
-(pdftex.def)             Requested size: 118.7428pt x 44.26506pt.
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.16/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+6/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 231.86568pt x 189.70828pt.
 
-<0Title/images/05.png, id=6, 37.94176pt x 56.6115pt>
-File: 0Title/images/05.png Graphic file (type png)
+Underfull \vbox (badness 1478) has occurred while \output is active []
 
-<use 0Title/images/05.png>
-Package pdftex.def Info: 0Title/images/05.png used on input line 29.
-(pdftex.def)             Requested size: 41.73604pt x 62.27281pt.
 
-<0Title/images/06.jpg, id=7, 552.0625pt x 316.18124pt>
-File: 0Title/images/06.jpg Graphic file (type jpg)
-
-<use 0Title/images/06.jpg>
-Package pdftex.def Info: 0Title/images/06.jpg used on input line 30.
-(pdftex.def)             Requested size: 165.62003pt x 94.8551pt.
- [1
-
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/tech book
- 2015-2016/Complex_robot/0Title/images/01.jpg> <D:/tech book 2015-2016/Complex_
-robot/0Title/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/0Title/images
-/03.jpg> <D:/tech book 2015-2016/Complex_robot/0Title/images/04.png> <D:/tech b
-ook 2015-2016/Complex_robot/0Title/images/05.png> <D:/tech book 2015-2016/Compl
-ex_robot/0Title/images/06.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/Specifications_for_modules_H.tex"
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/elevator/elevator_H.tex")
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/bucket/TechDocBucketComplex.tex"
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -446,7 +446,1646 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
-) [2]
+) [1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.12/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineeri
+ng/5Team_meetings/days_of_meetings/2015.11.12/images/02.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.17/2015.11.17.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/01.jpg, id=16, 
+648.4225pt x 1084.05pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+7/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 129.68219pt x 216.80615pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/02.jpg, id=17, 
+648.4225pt x 1084.05pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+7/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 129.68219pt x 216.80615pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/03.jpg, id=18, 
+648.4225pt x 1084.05pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+7/images/03.jpg used on input line 22.
+(pdftex.def)             Requested size: 129.68219pt x 216.80615pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.18/2015.11.18.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.19/2015.11.19.tex" [2 <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2015.11.16/images/01.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.11.17
+/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2015.11.17/images/02.jpg> <D:/tech book 2015-2016/Complex_r
+obot/3Engineering/5Team_meetings/days_of_meetings/2015.11.17/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.19/images/01.jpg, id=22, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.19/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.19/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.1
+9/images/01.jpg used on input line 7.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.21/2015.11.21.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.21/images/01.jpg, id=23, 
+982.67125pt x 648.4225pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.21/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.21/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+1/images/01.jpg used on input line 14.
+(pdftex.def)             Requested size: 196.53076pt x 129.68219pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.21/images/02.jpg, id=24, 
+1124.2pt x 627.34375pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.21/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.21/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+1/images/02.jpg used on input line 20.
+(pdftex.def)             Requested size: 224.83601pt x 125.46652pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.23/2015.11.23.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.23/images/01.jpg, id=25, 
+720.6925pt x 374.39874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.23/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.23/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+3/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 252.24615pt x 131.04152pt.
+
+[3 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_me
+etings/2015.11.19/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Enginee
+ring/5Team_meetings/days_of_meetings/2015.11.21/images/01.jpg> <D:/tech book 20
+15-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.11.21/i
+mages/02.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.24/2015.11.24.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.24/images/01.jpg, id=29, 
+625.33624pt x 885.3075pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.24/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.24/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+4/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 156.33368pt x 221.32632pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.25/2015.11.25.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.25/images/01.jpg, id=30, 
+979.66pt x 705.63625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.25/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.25/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+5/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 215.52586pt x 155.24045pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.25/images/02.jpg, id=31, 
+944.52875pt x 617.30624pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.25/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.25/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+5/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 236.1316pt x 154.32617pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2015.11.23/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2015.11.24/images/01.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.26/2015.11.26.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/01.jpg, id=35, 
+1166.3575pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+6/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 163.28894pt x 107.50089pt.
+
+Overfull \hbox (3.73pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/02.jpg, id=36, 
+1013.7875pt x 720.6925pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+6/images/02.jpg used on input line 15.
+(pdftex.def)             Requested size: 162.20932pt x 115.31316pt.
+
+Overfull \hbox (2.65038pt too wide) in paragraph at lines 15--16
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/03.jpg, id=37, 
+648.4225pt x 1000.73875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+6/images/03.jpg used on input line 21.
+(pdftex.def)             Requested size: 129.68219pt x 200.14421pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.27/2015.11.27.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.27/images/01.jpg, id=38, 
+2316.655pt x 2798.455pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.27/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.27/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+7/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 162.18242pt x 195.91187pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.27/images/02.jpg, id=39, 
+843.15pt x 705.63625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.27/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.27/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+7/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 210.78697pt x 176.40863pt.
+
+Underfull \vbox (badness 4967) has occurred while \output is active []
+
+ [5 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2015.11.25/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2015.11.25/images/02.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.11.26/
+images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2015.11.26/images/02.jpg> <D:/tech book 2015-2016/Complex_ro
+bot/3Engineering/5Team_meetings/days_of_meetings/2015.11.26/images/03.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.28/2015.11.28.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.28/images/01.jpg, id=44, 
+648.4225pt x 773.89125pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.28/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.28/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+8/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 162.10522pt x 193.47234pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.28/images/02.jpg, id=45, 
+929.4725pt x 604.2575pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.28/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.28/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+8/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 232.36755pt x 151.064pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.29/2015.11.29.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.29/images/01.jpg, id=46, 
+1067.99pt x 711.65875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.29/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.29/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.2
+9/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 213.59422pt x 142.32922pt.
+
+[6 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_me
+etings/2015.11.27/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Enginee
+ring/5Team_meetings/days_of_meetings/2015.11.27/images/02.jpg> <D:/tech book 20
+15-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.11.28/i
+mages/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings
+/days_of_meetings/2015.11.28/images/02.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.11.30/2015.11.30.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/01.jpg, id=50, 
+530.98375pt x 713.66624pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.3
+0/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 106.19485pt x 142.73071pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/02.jpg, id=51, 
+855.195pt x 670.505pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.3
+0/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 171.03596pt x 134.09862pt.
+
+Overfull \hbox (11.47702pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/03.jpg, id=52, 
+1041.8925pt x 688.5725pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.11.30/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.11.3
+0/images/03.jpg used on input line 22.
+(pdftex.def)             Requested size: 208.3748pt x 137.71205pt.
+
+Overfull \hbox (48.81586pt too wide) in paragraph at lines 22--23
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.01/2015.12.01.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.01/images/01.jpg, id=53, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.01/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.01/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+1/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.01/images/02.jpg, id=54, 
+645.41125pt x 841.1425pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.01/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.01/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+1/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 141.9909pt x 185.05193pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.02/2015.12.02.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2015.11.29/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2015.11.30/images/01.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.11.30/
+images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2015.11.30/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/01.jpg, id=59, 
+1076.02pt x 684.5575pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+2/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 161.39603pt x 102.67918pt.
+
+Overfull \hbox (1.83708pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/02.jpg, id=60, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+2/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 167.02986pt x 99.82643pt.
+
+Overfull \hbox (7.47092pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/03.jpg, id=61, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+2/images/03.jpg used on input line 22.
+(pdftex.def)             Requested size: 167.02986pt x 99.82643pt.
+
+Overfull \hbox (7.47092pt too wide) in paragraph at lines 22--23
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.03/2015.12.03.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/01.jpg, id=62, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+3/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/02.jpg, id=63, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+3/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2015.12.01/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2015.12.01/images/02.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.02/
+images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2015.12.02/images/02.jpg> <D:/tech book 2015-2016/Complex_ro
+bot/3Engineering/5Team_meetings/days_of_meetings/2015.12.02/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/03.jpg, id=67, 
+1083.04625pt x 658.46pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+3/images/03.jpg used on input line 26.
+(pdftex.def)             Requested size: 216.60541pt x 131.68967pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/04.jpg, id=68, 
+982.67125pt x 701.62125pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+3/images/04.jpg used on input line 32.
+(pdftex.def)             Requested size: 196.53076pt x 140.32176pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/05.jpg, id=69, 
+825.0825pt x 552.0625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/05.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/05.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+3/images/05.jpg used on input line 42.
+(pdftex.def)             Requested size: 206.27011pt x 138.01527pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.04/2015.12.04.tex" [9 <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2015.12.03/images/01.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.03
+/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2015.12.03/images/03.jpg> <D:/tech book 2015-2016/Complex_r
+obot/3Engineering/5Team_meetings/days_of_meetings/2015.12.03/images/04.jpg> <D:
+/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings
+/2015.12.03/images/05.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.05/2015.12.05.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/01.jpg, id=73, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+5/images/01.jpg used on input line 11.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 11--12
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/02.jpg, id=74, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+5/images/02.jpg used on input line 17.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 17--18
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/03.jpg, id=75, 
+928.46875pt x 749.80125pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+5/images/03.jpg used on input line 27.
+(pdftex.def)             Requested size: 185.69046pt x 149.9576pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/04.jpg, id=76, 
+615.29875pt x 885.3075pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+5/images/04.jpg used on input line 33.
+(pdftex.def)             Requested size: 123.05756pt x 177.05835pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.08/2015.12.08.tex" [10 <D:/tech book 2015-2016/Complex_robot/3Engi
+neering/5Team_meetings/days_of_meetings/2015.12.05/images/01.jpg> <D:/tech book
+ 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+5/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeti
+ngs/days_of_meetings/2015.12.05/images/03.jpg> <D:/tech book 2015-2016/Complex_
+robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.05/images/04.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.09/2015.12.09.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.09/images/01.jpg, id=80, 
+787.94376pt x 736.7525pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.09/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.09/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+9/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 196.98546pt x 184.18767pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.09/images/02.jpg, id=81, 
+931.48pt x 631.35875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.09/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.09/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.0
+9/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 232.86943pt x 157.8393pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.10/2015.12.10.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.12/2015.12.12.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/01.jpg, id=82, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+2/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/02.jpg, id=83, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+2/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2015.12.09/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2015.12.09/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/03.jpg, id=87, 
+1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.12/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+2/images/03.jpg used on input line 26.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.14/2015.12.14.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.14/images/01.jpg, id=88, 
+1121.18875pt x 655.44875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.14/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.14/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+4/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 224.23378pt x 131.08742pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.14/images/02.jpg, id=89, 
+506.89375pt x 324.21124pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.14/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.14/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+4/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 202.7539pt x 129.68219pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.15/2015.12.15.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2015.12.12/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2015.12.12/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.12
+/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/01.jpg, id=93, 
+640.3925pt x 751.80875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+5/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 160.09773pt x 187.95172pt.
+
+Overfull \hbox (0.53879pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/02.jpg, id=94, 
+954.56625pt x 709.65125pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+5/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 143.17876pt x 106.44308pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/03.jpg, id=95, 
+558.085pt x 1084.05pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+5/images/03.jpg used on input line 22.
+(pdftex.def)             Requested size: 111.61502pt x 216.80615pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.16/2015.12.16.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/01.jpg, id=96, 
+1277.77374pt x 492.84125pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+6/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 255.55022pt x 98.5665pt.
+
+Overfull \hbox (13.63573pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/02.jpg, id=97, 
+1158.3275pt x 413.545pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+6/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 231.66139pt x 82.70752pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/03.jpg, id=98, 
+1279.78125pt x 413.545pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.16/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+6/images/03.jpg used on input line 20.
+(pdftex.def)             Requested size: 255.95172pt x 82.70752pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.17/2015.12.17.tex"
+Underfull \vbox (badness 7397) has occurred while \output is active []
+
+ [13 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2015.12.14/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2015.12.14/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.15
+/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2015.12.15/images/02.jpg> <D:/tech book 2015-2016/Complex_r
+obot/3Engineering/5Team_meetings/days_of_meetings/2015.12.15/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/01.jpg, id=103,
+ 1233.60875pt x 548.0475pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+7/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 246.71738pt x 109.60754pt.
+
+Overfull \hbox (4.80289pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/02.jpg, id=104,
+ 1232.605pt x 442.65375pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+7/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 246.51663pt x 88.52917pt.
+
+Overfull \hbox (4.60214pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/03.jpg, id=105,
+ 447.6725pt x 443.6575pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+7/images/03.jpg used on input line 24.
+(pdftex.def)             Requested size: 179.06583pt x 177.45984pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/04.jpg, id=106,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+7/images/04.jpg used on input line 30.
+(pdftex.def)             Requested size: 282.65688pt x 168.93164pt.
+
+Overfull \hbox (40.74239pt too wide) in paragraph at lines 30--31
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2015.12.16/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2015.12.16/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.16
+/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2015.12.17/images/01.jpg> <D:/tech book 2015-2016/Complex_r
+obot/3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/05.jpg, id=110,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/05.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/05.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+7/images/05.jpg used on input line 42.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/06.jpg, id=111,
+ 1082.0425pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/06.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.17/images/06.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.1
+7/images/06.jpg used on input line 48.
+(pdftex.def)             Requested size: 238.05008pt x 168.93164pt.
+
+Overfull \hbox (47.60976pt too wide) in paragraph at lines 48--49
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.19/2015.12.19.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.20/2015.12.20.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.22/2015.12.22.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.23/2015.12.23.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/01.jpg, id=112,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+3/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+[15 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2015.12.17/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2015.12.17/images/04.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.17/
+images/05.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2015.12.17/images/06.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/02.jpg, id=116,
+ 648.4225pt x 881.2925pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+3/images/02.jpg used on input line 20.
+(pdftex.def)             Requested size: 162.10522pt x 220.32259pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/03.jpg, id=117,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.23/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+3/images/03.jpg used on input line 26.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 26--27
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.24/2015.12.24.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/01.jpg, id=118,
+ 1272.755pt x 538.01pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+4/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 254.5465pt x 107.60008pt.
+
+[16 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2015.12.23/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2015.12.23/images/02.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.23/
+images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/02.jpg, id=122,
+ 648.4225pt x 929.4725pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+4/images/02.jpg used on input line 20.
+(pdftex.def)             Requested size: 129.68219pt x 185.8912pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/03.jpg, id=123,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+4/images/03.jpg used on input line 26.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 26--27
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/04.jpg, id=124,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+4/images/04.jpg used on input line 38.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.26/2015.12.26.tex" [17 <D:/tech book 2015-2016/Complex_robot/3Engi
+neering/5Team_meetings/days_of_meetings/2015.12.24/images/01.jpg> <D:/tech book
+ 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+4/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeti
+ngs/days_of_meetings/2015.12.24/images/03.jpg> <D:/tech book 2015-2016/Complex_
+robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.24/images/04.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/01.jpg, id=128,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+6/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/02.jpg, id=129,
+ 1284.8pt x 482.80376pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+6/images/02.jpg used on input line 22.
+(pdftex.def)             Requested size: 256.95544pt x 96.55904pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 22--23
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/03.jpg, id=130,
+ 1284.8pt x 559.08875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2015.12.26/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+6/images/03.jpg used on input line 28.
+(pdftex.def)             Requested size: 282.65688pt x 122.9999pt.
+
+Overfull \hbox (40.74239pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.28/2015.12.28.tex" [18 <D:/tech book 2015-2016/Complex_robot/3Engi
+neering/5Team_meetings/days_of_meetings/2015.12.26/images/01.jpg> <D:/tech book
+ 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2015.12.2
+6/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeti
+ngs/days_of_meetings/2015.12.26/images/03.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2015.12.29/2015.12.29.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.04/2016.01.04.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg, id=134,
+ 1027.84pt x 415.5525pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+4/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.05/2016.01.05.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/01.jpg, id=135,
+ 941.5175pt x 445.665pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+5/images/01.jpg used on input line 9.
+(pdftex.def)             Requested size: 160.05585pt x 75.76204pt.
+
+Underfull \hbox (badness 3407) in paragraph at lines 10--10
+[]\T2A/cmr/m/n/10.95 ашё. 69: New mechanism for
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/02.jpg, id=136,
+ 990.70125pt x 516.93124pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+5/images/02.jpg used on input line 15.
+(pdftex.def)             Requested size: 148.59877pt x 77.53633pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/03.jpg, id=137,
+ 990.70125pt x 613.29124pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+5/images/03.jpg used on input line 21.
+(pdftex.def)             Requested size: 148.59877pt x 91.98972pt.
+
+[19 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2016.01.04/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2016.01.05/images/01.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.05/
+images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2016.01.05/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/04.jpg, id=142,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.05/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+5/images/04.jpg used on input line 31.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.06/2016.01.06.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/01.jpg, id=143,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/02.jpg, id=144,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/03.jpg, id=145,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/03.jpg used on input line 24.
+(pdftex.def)             Requested size: 231.25401pt x 138.2104pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2016.01.05/images/04.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2016.01.06/images/01.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.06
+/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/04.jpg, id=149,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/04.jpg used on input line 34.
+(pdftex.def)             Requested size: 167.02986pt x 99.82643pt.
+
+Overfull \hbox (7.47092pt too wide) in paragraph at lines 34--35
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/05.jpg, id=150,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/05.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/05.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/05.jpg used on input line 40.
+(pdftex.def)             Requested size: 167.02986pt x 99.82643pt.
+
+Overfull \hbox (7.47092pt too wide) in paragraph at lines 40--41
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/06.jpg, id=151,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/06.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/06.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/06.jpg used on input line 46.
+(pdftex.def)             Requested size: 167.02986pt x 99.82643pt.
+
+Overfull \hbox (7.47092pt too wide) in paragraph at lines 46--47
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/07.jpg, id=152,
+ 1081.03876pt x 415.5525pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/07.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/07.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/07.jpg used on input line 58.
+(pdftex.def)             Requested size: 216.20392pt x 83.10902pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/08.jpg, id=153,
+ 624.83438pt x 344.03531pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/08.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/08.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/08.jpg used on input line 70.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/09.jpg, id=154,
+ 624.83438pt x 344.03531pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/09.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/09.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
+6/images/09.jpg used on input line 76.
+(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
+
+[21 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2016.01.06/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2016.01.06/images/04.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.06/
+images/05.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2016.01.06/images/06.jpg> <D:/tech book 2015-2016/Complex_ro
+bot/3Engineering/5Team_meetings/days_of_meetings/2016.01.06/images/07.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.08/2016.01.08.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.10/2016.01.10.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.10/images/01.jpg, id=158,
+ 1256.695pt x 436.63126pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.10/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.10/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+0/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 251.33455pt x 87.32469pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.12/2016.01.12.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.12/images/01.jpg, id=159,
+ 1065.9825pt x 601.24625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.12/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.12/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+2/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 234.51688pt x 132.27458pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.12/images/02.jpg, id=160,
+ 856.19875pt x 689.57625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.12/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.12/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+2/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 188.3643pt x 151.70723pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.13/2016.01.13.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2016.01.06/images/08.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2016.01.06/images/09.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.10
+/images/01.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.13/images/01.jpg, id=164,
+ 415.5525pt x 437.635pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.13/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.13/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+3/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 124.6667pt x 131.2915pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.14/2016.01.14.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.16/2016.01.16.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.16/images/01.jpg, id=165,
+ 1189.44376pt x 579.16376pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.16/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.16/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+6/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 237.88454pt x 115.83069pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.16/images/02.jpg, id=166,
+ 1214.5375pt x 508.90125pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.16/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.16/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+6/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 267.19908pt x 111.95862pt.
+
+Overfull \hbox (25.28459pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.18/2016.01.18.tex" [23 <D:/tech book 2015-2016/Complex_robot/3Engi
+neering/5Team_meetings/days_of_meetings/2016.01.12/images/01.jpg> <D:/tech book
+ 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+2/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeti
+ngs/days_of_meetings/2016.01.13/images/01.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.18/images/01.jpg, id=170,
+ 857.2025pt x 736.7525pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.18/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.18/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+8/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 171.43745pt x 147.34789pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.19/2016.01.19.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.19/images/01.jpg, id=171,
+ 616.3025pt x 856.19875pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.19/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.19/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+9/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 123.25832pt x 171.23671pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.19/images/02.jpg, id=172,
+ 1071.00125pt x 488.82625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.19/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.19/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.1
+9/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 267.74965pt x 122.20625pt.
+
+Overfull \hbox (77.30933pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.20/2016.01.20.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2016.01.16/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2016.01.16/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.18
+/images/01.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.20/images/01.jpg, id=176,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.20/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.20/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+0/images/01.jpg used on input line 7.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.20/images/02.jpg, id=177,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.20/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.20/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+0/images/02.jpg used on input line 13.
+(pdftex.def)             Requested size: 282.65688pt x 168.93164pt.
+
+Overfull \hbox (92.21655pt too wide) in paragraph at lines 13--14
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.21/2016.01.21.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg, id=178,
+ 648.4225pt x 1010.77625pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+1/images/01.jpg used on input line 9.
+(pdftex.def)             Requested size: 129.68219pt x 202.15166pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg, id=179,
+ 1060.96375pt x 738.76pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+1/images/02.jpg used on input line 15.
+(pdftex.def)             Requested size: 212.18898pt x 147.74937pt.
+
+Overfull \hbox (6.30798pt too wide) in paragraph at lines 15--16
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg, id=180,
+ 648.4225pt x 1084.05pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+1/images/03.jpg used on input line 21.
+(pdftex.def)             Requested size: 129.68219pt x 216.80615pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\T2A/cmr/m/n/10.95 ашё. 95: How does the
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2016.01.19/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2016.01.19/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.20
+/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2016.01.20/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg, id=185,
+ 462.72874pt x 820.06375pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+1/images/04.jpg used on input line 33.
+(pdftex.def)             Requested size: 92.5441pt x 164.00984pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg, id=186,
+ 1084.05pt x 648.4225pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+1/images/05.jpg used on input line 39.
+(pdftex.def)             Requested size: 238.49173pt x 142.65338pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg, id=187,
+ 648.4225pt x 941.5175pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+1/images/06.jpg used on input line 49.
+(pdftex.def)             Requested size: 129.68219pt x 188.30016pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.23/2016.01.23.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2016.01.21/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.21
+/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2016.01.21/images/04.jpg> <D:/tech book 2015-2016/Complex_r
+obot/3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.25/2016.01.25.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.26/2016.01.26.tex" [27 <D:/tech book 2015-2016/Complex_robot/3Engi
+neering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg, id=194,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+6/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 8--9
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg, id=195,
+ 900.36375pt x 568.1225pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+6/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 225.09038pt x 142.03027pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg, id=196,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+6/images/03.jpg used on input line 28.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg, id=197,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+6/images/04.jpg used on input line 34.
+(pdftex.def)             Requested size: 282.65688pt x 168.93164pt.
+
+Overfull \hbox (40.74239pt too wide) in paragraph at lines 34--35
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.27/2016.01.27.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg, id=198,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+7/images/01.jpg used on input line 8.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg, id=199,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+7/images/02.jpg used on input line 14.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (66.51512pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.28/2016.01.28.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_
+meetings/2016.01.26/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engin
+eering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg> <D:/tech book 
+2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.26
+/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetin
+gs/days_of_meetings/2016.01.26/images/04.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg, id=203,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+8/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg, id=204,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
+8/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
+ings/2016.01.30/2016.01.30.tex"
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg, id=205,
+ 866.23625pt x 733.74126pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
+0/images/01.jpg used on input line 10.
+(pdftex.def)             Requested size: 147.25821pt x 124.73436pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg, id=206,
+ 1001.7425pt x 515.9275pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
+0/images/02.jpg used on input line 16.
+(pdftex.def)             Requested size: 200.34494pt x 103.18367pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg, id=207,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
+0/images/03.jpg used on input line 22.
+(pdftex.def)             Requested size: 218.4131pt x 130.53595pt.
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg, id=208,
+ 1089.06876pt x 540.0175pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
+0/images/04.jpg used on input line 28.
+(pdftex.def)             Requested size: 261.38184pt x 129.60684pt.
+
+Overfull \hbox (19.46735pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+[29 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2016.01.27/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.28/
+images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2016.01.28/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg, id=212,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
+0/images/05.jpg used on input line 38.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 38--39
+ [] 
+ []
+
+
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg, id=213,
+ 1284.8pt x 767.86874pt>
+File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg Gra
+phic file (type jpg)
+
+<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg>
+Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
+0/images/06.jpg used on input line 44.
+(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 44--45
+ [] 
+ []
+
+)
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+ <img/fill_page-eps-converted-to.pdf, id=214, 446.66875pt x 214.8025pt>
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+62.
+(pdftex.def)             Requested size: 514.75555pt x 86.91586pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 62--62
+[][] 
+ []
+
+[30 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
+eetings/2016.01.30/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
+ering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg> <D:/tech book 2
+015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.30/
+images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
+s/days_of_meetings/2016.01.30/images/04.jpg> <D:/tech book 2015-2016/Complex_ro
+bot/3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg> <D:/
+tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/
+2016.01.30/images/06.jpg> <D:/tech book 2015-2016/Complex_robot/img/fill_page-e
+ps-converted-to.pdf>])
+("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
+/Specifications_for_modules_H.tex"
+("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
+/elevator/elevator_H.tex")
+("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
+/bucket/TechDocBucketComplex.tex" [31]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -458,8 +2097,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
-<3Engineering/6Specifications_for_modules/bucket/images/01.png, id=27, 709.9021
-9pt x 297.36093pt>
+<3Engineering/6Specifications_for_modules/bucket/images/01.png, id=225, 709.902
+19pt x 297.36093pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/01.png Graphic fil
 e (type png)
 
@@ -477,8 +2116,8 @@ LaTeX Warning: Command \CYRE invalid in math mode on input line 32.
 Missing character: There is no Р in font cmr10!
 Missing character: There is no Х in font cmr10!
 
-<3Engineering/6Specifications_for_modules/bucket/images/02.jpg, id=28, 3276.24p
-t x 2457.18pt>
+<3Engineering/6Specifications_for_modules/bucket/images/02.jpg, id=227, 3276.24
+pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/02.jpg Graphic fil
 e (type jpg)
 
@@ -486,10 +2125,10 @@ e (type jpg)
 Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /02.jpg used on input line 36.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
- [3 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/01.png>]
-<3Engineering/6Specifications_for_modules/bucket/images/03.jpg, id=36, 3276.24p
-t x 2457.18pt>
+ [32 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_mod
+ules/bucket/images/01.png>]
+<3Engineering/6Specifications_for_modules/bucket/images/03.jpg, id=232, 3276.24
+pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/03.jpg Graphic fil
 e (type jpg)
 
@@ -498,8 +2137,8 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /03.jpg used on input line 47.
 (pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/04.jpg, id=37, 3276.24p
-t x 2457.18pt>
+<3Engineering/6Specifications_for_modules/bucket/images/04.jpg, id=233, 3276.24
+pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/04.jpg Graphic fil
 e (type jpg)
 
@@ -508,8 +2147,8 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /04.jpg used on input line 52.
 (pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/05.jpg, id=38, 2457.18p
-t x 3276.24pt>
+<3Engineering/6Specifications_for_modules/bucket/images/05.jpg, id=234, 2457.18
+pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/05.jpg Graphic fil
 e (type jpg)
 
@@ -518,8 +2157,8 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /05.jpg used on input line 57.
 (pdftex.def)             Requested size: 98.27046pt x 131.02728pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/06.jpg, id=39, 3276.24p
-t x 2457.18pt>
+<3Engineering/6Specifications_for_modules/bucket/images/06.jpg, id=235, 3276.24
+pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/06.jpg Graphic fil
 e (type jpg)
 
@@ -528,8 +2167,8 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /06.jpg used on input line 66.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/07.jpg, id=40, 2457.18p
-t x 3276.24pt>
+<3Engineering/6Specifications_for_modules/bucket/images/07.jpg, id=236, 2457.18
+pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/07.jpg Graphic fil
 e (type jpg)
 
@@ -537,152 +2176,165 @@ e (type jpg)
 Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /07.jpg used on input line 71.
 (pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
- [4 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/03.jpg> <D:/tech book 2015-2016/Complex
-_robot/3Engineering/6Specifications_for_modules/bucket/images/04.jpg> <D:/tech 
-book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/im
-ages/05.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/08.jpg, id=44, 2457.18p
-t x 3276.24pt>
+ [33 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_mod
+ules/bucket/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6
+Specifications_for_modules/bucket/images/03.jpg> <D:/tech book 2015-2016/Comple
+x_robot/3Engineering/6Specifications_for_modules/bucket/images/04.jpg> <D:/tech
+ book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/i
+mages/05.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/08.jpg, id=240, 2457.18
+pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/08.jpg Graphic fil
 e (type jpg)
 
 <use 3Engineering/6Specifications_for_modules/bucket/images/08.jpg>
 Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /08.jpg used on input line 80.
-(pdftex.def)             Requested size: 245.73239pt x 327.64319pt.
- [5 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/06.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/07.jpg> <D:/tech book 2015-2016/Complex
-_robot/3Engineering/6Specifications_for_modules/bucket/images/08.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/Buck_assembled.jpg, id=
-48, 3276.24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/Buck_assembled.jpg
- Graphic file (type jpg)
+(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
+ [34 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_mod
+ules/bucket/images/06.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6
+Specifications_for_modules/bucket/images/07.jpg> <D:/tech book 2015-2016/Comple
+x_robot/3Engineering/6Specifications_for_modules/bucket/images/08.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/09.jpg, id=244, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/09.jpg Graphic fil
+e (type jpg)
 
-<use 3Engineering/6Specifications_for_modules/bucket/images/Buck_assembled.jpg>
+<use 3Engineering/6Specifications_for_modules/bucket/images/09.jpg>
 Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/Buck_assembled.jpg used on input line 95.
-(pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
+/09.jpg used on input line 95.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-Overfull \hbox (75.43228pt too wide) in paragraph at lines 95--96
- [] 
+<3Engineering/6Specifications_for_modules/bucket/images/10.jpg, id=245, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/10.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/10.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/10.jpg used on input line 99.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/11.jpg, id=246, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/11.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/11.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/11.jpg used on input line 110.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/12.jpg, id=247, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/12.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/12.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/12.jpg used on input line 114.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/13.jpg, id=248, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/13.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/13.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/13.jpg used on input line 130.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/14.jpg, id=249, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/14.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/14.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/14.jpg used on input line 134.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
+ [35 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_mod
+ules/bucket/images/09.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6
+Specifications_for_modules/bucket/images/10.jpg> <D:/tech book 2015-2016/Comple
+x_robot/3Engineering/6Specifications_for_modules/bucket/images/11.jpg> <D:/tech
+ book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/i
+mages/12.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/15.jpg, id=253, 3276.24
+pt x 2457.18pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/15.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/15.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/15.jpg used on input line 143.
+(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/16.jpg, id=254, 2457.18
+pt x 3276.24pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/16.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/16.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/16.jpg used on input line 147.
+(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
+)
+("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
+/alpinists/alpinists_H.tex" [36 <D:/tech book 2015-2016/Complex_robot/3Engineer
+ing/6Specifications_for_modules/bucket/images/13.jpg> <D:/tech book 2015-2016/C
+omplex_robot/3Engineering/6Specifications_for_modules/bucket/images/14.jpg> <D:
+/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/buc
+ket/images/15.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specific
+ations_for_modules/bucket/images/16.jpg>])
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-16 18:43:34
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 10.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+10.
+(pdftex.def)             Requested size: 514.75555pt x 631.98045pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 10--10
+[][] 
  []
 
+[37]) ("D:\tech book 2015-2016\Complex_robot\tech_doc_complex.aux")
 
-<3Engineering/6Specifications_for_modules/bucket/images/OnRobot.jpg, id=49, 327
-6.24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/OnRobot.jpg Graphi
-c file (type jpg)
+LaTeX Warning: There were multiply-defined labels.
 
-<use 3Engineering/6Specifications_for_modules/bucket/images/OnRobot.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/OnRobot.jpg used on input line 99.
-(pdftex.def)             Requested size: 201.76949pt x 151.32376pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/Draws.jpg, id=50, 3276.
-24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/Draws.jpg Graphic 
-file (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/Draws.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/Draws.jpg used on input line 110.
-(pdftex.def)             Requested size: 201.76949pt x 151.32376pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/BucketScan.jpg, id=51, 
-3276.24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/BucketScan.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/BucketScan.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/BucketScan.jpg used on input line 114.
-(pdftex.def)             Requested size: 201.76949pt x 151.32376pt.
-
-Underfull \vbox (badness 2941) has occurred while \output is active []
-
- [6 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/Buck_assembled.jpg> <D:/tech book 2015-2016/Complex_robot/3En
-gineering/6Specifications_for_modules/bucket/images/OnRobot.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/BucketMarking.jpg, id=5
-5, 3276.24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/BucketMarking.jpg 
-Graphic file (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/BucketMarking.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/BucketMarking.jpg used on input line 130.
-(pdftex.def)             Requested size: 201.76949pt x 151.32376pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/Bucket2.jpg, id=56, 327
-6.24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/Bucket2.jpg Graphi
-c file (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/Bucket2.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/Bucket2.jpg used on input line 134.
-(pdftex.def)             Requested size: 201.76949pt x 151.32376pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/wire_prot.jpg, id=57, 3
-276.24pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/wire_prot.jpg Grap
-hic file (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/wire_prot.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/wire_prot.jpg used on input line 143.
-(pdftex.def)             Requested size: 201.76949pt x 151.32376pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/Bucket2Test.jpg, id=58,
- 2457.18pt x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/Bucket2Test.jpg Gr
-aphic file (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/Bucket2Test.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/Bucket2Test.jpg used on input line 147.
-(pdftex.def)             Requested size: 201.76949pt x 269.00336pt.
-
-Underfull \vbox (badness 4543) has occurred while \output is active []
-
- [7 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/Draws.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering
-/6Specifications_for_modules/bucket/images/BucketScan.jpg> <D:/tech book 2015-2
-016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/images/Bucket
-Marking.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications
-_for_modules/bucket/images/Bucket2.jpg>] [8 <D:/tech book 2015-2016/Complex_rob
-ot/3Engineering/6Specifications_for_modules/bucket/images/wire_prot.jpg> <D:/te
-ch book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket
-/images/Bucket2Test.jpg>] ("D:\tech book 2015-2016\Complex_robot\tech_doc_compl
-ex.aux") ) ) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 5957 strings out of 493921
- 81484 string characters out of 3144879
- 134976 words of memory out of 3000000
- 9079 multiletter control sequences out of 15000+200000
- 24265 words of font info for 64 fonts, out of 3000000 for 9000
+ 6332 strings out of 493921
+ 133801 string characters out of 3144879
+ 137439 words of memory out of 3000000
+ 9107 multiletter control sequences out of 15000+200000
+ 17270 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,10n,43p,1103b,735s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
-a\dpi600\larm0800.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
-h\lh-t2a\dpi603\labx1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\l
-jfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\User\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\User\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi603\larm1095.pk> <C:\Users\User\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi837\labx3583.pk> <C:\Users\User\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\User
-s\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1728.pk><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tech_doc_complex.pdf (8 pages, 22204200 bytes).
+ 42i,11n,43p,1103b,703s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lar
+m0800.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
+600\labi1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
+t2a\dpi600\labx1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb>
+Output written on tech_doc_complex.pdf (37 pages, 43490533 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
+ 466 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 646 words of extra memory for PDF output out of 10000 (max. 10000000)
 
