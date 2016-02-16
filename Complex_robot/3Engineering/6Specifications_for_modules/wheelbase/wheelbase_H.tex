@@ -1,31 +1,26 @@
-\subsubsection{Elevator}
+\subsubsection{Carriage and wheel base}
   
-  Engineering tasks included in this module:
   \begin{enumerate*}
-    \item Lifting mechanism 
-    \begin{enumerate*}
-       \item According to the technical plan our team created beforehand, the lifting mechanism was to consist of several construction beams connected to each other with special parts. To create these parts, we first thought through the concept and 3d-modeled them in Creo Parameteric 3.0. These parts are something akin to a brace and will stabilize one beam in relation to another. There are two types of braces: for the central gaps, and side gaps of the beams. Let us consider the simplest way to connect the two beams with these braces. Beam A will be fixed in place to the base of the robot, and beam B will be fixed relative to beam A. Then we can can connect the first three braces to the top of beam A and the second three braces to the bottom of beam B, allowing for maximum freedom of movement for one of the beams against the other. For greater stability we use two groups of three on each end of the beams. 
-       
-       \item We must find such a height and length of the lifting mechanism that there would be an angle of tilt that would allow the robot to throw debris into the highest and middle bucket goals from the low zone, and grab the pull-up bar from the middle zone. 
-       
-       \item Knowing that the individual beams are 350mm long, we calculated that in order to reach this height, we need four beams.  
-       
-       \item Lifting four beams requires a block system - e.g. we need to add blocks with twine that, when reeled in, would lift the system. 
-       
-       \item In order to fasten the braces we need to add caps on the end faces of the beams. I came to the conclusion that I needed to change the caps: drill a hole through their legs, so that the twine could be put through them, and grind off the heads somewhat in order to make a trough, through which to pass the line. This allowed me to avoid adding additional blocks on the beams. 
-    \end{enumerate*}
-    \item Turning mechanism
-    \begin{enumerate*}
-       \item The turning mechanism consists of a servomotor attached to the base of the robot, a worm on the axis, and a gear on the first beam of the lifting mechanism. The servomotor turns the worm, which, in turn, rotates the gear, and the lifting mechanism tilts. 
-    \end{enumerate*}
+    \item The current module has two functions. At first, it provides movement of the robot, and secondly it carries all the other modules. Due to this, it was divided into two submodules: a wheel base, and a frame.
     
-    \item Reeling mechanism
-    \begin{enumerate*}
-    	\item The reeling mechanism is a system of two coils powered by 2-4 motors. It is both used for extracting elevator and pulling up. The principle of work is folowing: one coil pulls the cable and extracts the elevator when the another coil releases strong cable used for pulling up. When the elevator is fully put forward, so does the pullup cable. Next, when the coil rotates backwards, it pulls the pullup cable and releases elevator's cable causing it to fold back.
-    \end{enumerate*}
+    The frame should have 2 lenghtwise beams of 41.5 cm, which will be used for mounting wheel base. These beams should be reliably connected to each other by the cross beams. The cross beams can be installed only at the back side of the robot, because at the front side there should be a gripper for debris and a bucket. Above the gripper it can be installed an additional cross beam, but this connection won't be strong enough as it will be placed far from lenghtwise beams. That's why it was decided to apply 2 main cross beams as it depicted in the figure 1. 
+    
+    In the whhel base it was decided to use the construction with 6 standard 10 cm wheels. Firstly, the wheels are more reliable, than tracks, because tracks can run over during the match, and in this case the robot would be disabled. Secondly, the constriction with 6 wheels provides better rotation than 4 and 8 standard wheels (explaination at page ...). Omni wheels can't be used in this construction because they're working unstable at the ramp. 
+    The decision of using 10 cm wheels instead of 7 cm is caused by two reasons: firstly, they're more convenient to install so that the robot will be capable of climbing the ramp (figure 2). Secondly, the middle sized gears and chain gears have sizes a bit less than 7 cm, so if they will be used with 7 cm wheels they can scratch the field if the robot will bend the floor covering too much.
+    
+    It was decided to use 4 NeveRest motors by AndyMark for movement, because these motors are more reliable than TETRIX DC motors. Due to calculations, it was revealed, that to climb the ramp with 10 cm wheels the gear ratio 2:1 on motors is not enough, so it was decided to apply the gear ratio 1:1.
+    
+    It was decided to use middle sized gears for connecting wheels instead of chain, as the chain reqires more space and also unconvenient for connecting axes that stand along the one line.
+    
+    On the October 12^th it was assembled the first prototype of the chassis. It had 7 cm wheels and a gear ratio for speed (2:1). It's test drive showed that 7 cm wheels can't be applied. 
+    was assembled a second version of the chassis. Each side consists of 3 wheels and 5 middle sized gears. Motors are placed at the back, so the space between 3 forward pairs of gears is free. 3 forward axes are fixed on the 16 cm beam, so it is easy to remove them if it is needed. 
+    
+    On the October 19^th, when the assembling of the winch started, it was found out, that the cross beams waste too much space inside the robot and there is not enough space for the winch. Since then, the former cross beams were replaced with more compact construction.
+    
+    At the first competition (...) it was investigated, that back DC motors are fixed to the frame not strong enough, so they unscrew very often. This problem was solved on .... The motor's mounts were fixed with more screws and with washers. 
+    
+    On ... there was installed the mount for the winch above the gripper. It also strethened the frame of the robot.
   
-  \end{enumerate*}	
-  
-  %Because of the first competition was very close and 
+  \end{enumerate*}
   
   
