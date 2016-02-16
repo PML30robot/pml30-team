@@ -1,6 +1,96 @@
 \subsection{Key summary}
 	\textsc{\textbf{Description:}} Here are marked the tactical and technical characteristics of the final version of the robot.\newline
-	
-	
+		
+		\begin{table}[H]
+			\vspace{-2mm}
+			\textbf{\textit{\textbf{\caption{Tasks that the robot can perform according to its construction.}}}}
+			\begin{center}
+				\begin{tabular}{|p{0.5\linewidth}|p{0.5\linewidth}|}
+					\hline
+					Tasks & Ability \\
+					\hline
+					Score climbers into shelter in autonomous period. & Yes. \\
+					\hline
+					Push the button on rescue beacon in autonomous period. & No. \\
+					\hline
+					Stay in beacon repair zone at the conclusion of autonomous period. & Yes. \\
+					\hline
+					Climb on mountain in autonomous period. & No. \\
+					\hline
+					Block the opponent's autonomous movement. & No. We consider that blocking is unfair. \\
+					\hline
+					Score zip-line climbers in tele-op period. & Yes, first and second ones. \\
+					\hline
+					Score debris in floor goal. & Yes. \\
+					\hline
+					Score debris in every mountain goal. & Yes. \\
+					\hline
+					Stay fully in low zone at the conclusion of tele-op period. & Yes. \\
+					\hline
+					Stay in second or top zone or pull-up at the conclusion of tele-op period. & No. \\
+					\hline
+					Turn the "All Clear" signal. & Yes. \\
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{table}
+
+		
+		\begin{table}[H]
+			\vspace{-2mm}
+			\textit{\textbf{\caption{Consequense of performing tasks in the match}}}
+			\begin{center}
+				\begin{tabular}{|p{0.5\linewidth}|c|c|}
+					\hline
+					Task & The time needed to perform (sec) & Points \\
+					\hline
+					
+					\multicolumn{3}{|c|}{\textit{Autonomous period}} \\
+					\hline
+					Score climbers into shelter. & 20 & 40 \\
+					\hline
+					Stay in beacon repair zone. & 10 & 5 \\
+					\hline
+					\textit{Autonomous total} & 30 & \textit{45} \\
+					\hline
+					
+					\multicolumn{3}{|c|}{\textit{Tele-op period}}  \\
+					\hline
+					Score low and second zip-line climbers & 15 & 40\\
+					\hline
+					Score 10 cubes ($5 cubes \cdot 2 times$) into the top goal. & 90 & 150\\
+					\hline
+					We can score 10 cubes ($5 cubes \cdot 2 times$) into the second goal instead of top if it would be pre-discussed with ally. & 90 & 100\\
+					\hline
+					Turn the "All Clear signal" & 15 & 20\\
+					\hline
+					Stay in low zone at the conclusion of tele-op period. & --- & 10\\
+					\hline
+				    \textit{Tele-op total} & 120 & \textit{220 (170)} \\
+					\hline
+					\textbf{\textit{Game total}} & 150 & \textbf{\textit{265 (215)}} \\
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{table}
+
+		
+		\begin{table}[H]
+			\vspace{-2mm}
+			\textit{\textbf{\caption{Actions in extraordinary situations}}}
+			\begin{center}
+				\begin{tabular}{|p{0.5\linewidth}|p{0.5\linewidth}|}
+					\hline
+					Situation & Action \\
+					\hline
+					The autonomus program didn't run. & Score climbers into shelter in tele-op period. \\
+					\hline
+					Scoring debris into mountain goals is impossible due to break. & Score debris into floor goal. \\
+					\hline
+					Our ally lost ability of scoring debris into mountain goals in case he was to score debris into the top goal. & Firstly, we ask ally if we can score debris into the top goal instead of them. If he confirms that we can perform his game objective, we start scoring debris into top goal as it gives more points. If he rejects the suggestion (if, probably, alliance robot cann't leave the mountain), we continue performing our game objective \\
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{table}
   
 \fillpage
