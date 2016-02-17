@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  17 FEB 2016 02:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  17 FEB 2016 12:42
 entering extended mode
 **C:/Users/Nikita/Desktop/tech*book*2015-2016/Complex_robot/tech_doc_complex.te
 x
@@ -374,27 +374,32 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\1Introduction/4How_
-to_read/How_to_read_H.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\1Introduction/2Our_
+team/Our_team_H.tex"
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+ (C:\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
+(C:\Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Full_TeX\texmf\tex\latex\ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Overfull \hbox (7.43207pt too wide) in paragraph at lines 7--8
+[][]\T2A/cmr/m/n/10.95 Tasks and roles of robot designing were distributed amon
+g the participants, and safety rules were established.
  []
 
+<1Introduction/2Our_team/images/09.jpg, id=1, 1284.8pt x 856.19875pt>
+File: 1Introduction/2Our_team/images/09.jpg Graphic file (type jpg)
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
-
- []
-
+<use 1Introduction/2Our_team/images/09.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/09.jpg used on input li
+ne 16.
+(pdftex.def)             Requested size: 256.95544pt x 171.23671pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-11-25 08:12:12
 (epstopdf)                    size: 35507 bytes
@@ -403,17 +408,18 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 14.
+(epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<img/fill_page-eps-converted-to.pdf, id=1, 446.66875pt x 214.8025pt>
+
+<img/fill_page-eps-converted-to.pdf, id=2, 446.66875pt x 214.8025pt>
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-14.
-(pdftex.def)             Requested size: 514.75555pt x 433.35681pt.
+18.
+(pdftex.def)             Requested size: 514.75555pt x 119.35445pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 14--14
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 18--18
 [][][] 
  []
 
@@ -427,86 +433,49 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 ) [1{C:/Full_TeX/texmf/pdftex/config/pdftex.map}
 
- <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/img/fill_page-eps-c
-onverted-to.pdf>])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\2Business_plan/Busi
-ness_plan_H.tex" [2])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/3Conce
-pt_discussing/Concept_discussing_H.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
+ <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2Our_
+team/images/09.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/
+img/fill_page-eps-converted-to.pdf>]
+<1Introduction/2Our_team/images/07.jpg, id=13, 868.24374pt x 766.865pt>
+File: 1Introduction/2Our_team/images/07.jpg Graphic file (type jpg)
 
- []
+<use 1Introduction/2Our_team/images/07.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/07.jpg used on input li
+ne 31.
+(pdftex.def)             Requested size: 260.47513pt x 230.06128pt.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
-(C:\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
-
-(C:\Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 5036) in paragraph at lines 20--20
-[][]\T2A/cmr/m/n/10.95 Scoring autonomous
- []
-
-
-Underfull \hbox (badness 3746) in paragraph at lines 22--22
-[][]\T2A/cmr/m/n/10.95 Scoring climbers in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-[]\T2A/cmr/m/n/10.95 clear
- []
-
-
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 8--29
+Overfull \hbox (18.56064pt too wide) in paragraph at lines 31--31
  [][] 
  []
 
-(C:\Full_TeX\texmf\tex\latex\ucs\uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 38--53
- [][] 
- []
+<1Introduction/2Our_team/images/08.jpg, id=14, 434.62375pt x 781.92125pt>
+File: 1Introduction/2Our_team/images/08.jpg Graphic file (type jpg)
 
+<use 1Introduction/2Our_team/images/08.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/08.jpg used on input li
+ne 35.
+(pdftex.def)             Requested size: 152.12059pt x 273.67653pt.
 
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/3Conce
-pt_discussing/concept_days/24.09.2015/24.09.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
+<1Introduction/2Our_team/images/05.jpg, id=15, 684.5575pt x 1027.84pt>
+File: 1Introduction/2Our_team/images/05.jpg Graphic file (type jpg)
 
- []
-
-
-Underfull \hbox (badness 5036) in paragraph at lines 20--20
-[][]\T2A/cmr/m/n/10.95 Scoring autonomous
- []
-
-
-Underfull \hbox (badness 3746) in paragraph at lines 22--22
-[][]\T2A/cmr/m/n/10.95 Scoring climbers in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-[]\T2A/cmr/m/n/10.95 clear
- []
-
-
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--29
- [][] 
- []
-
+<use 1Introduction/2Our_team/images/05.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/05.jpg used on input li
+ne 47.
+(pdftex.def)             Requested size: 171.13895pt x 256.95937pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+ [2 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2O
+ur_team/images/07.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_rob
+ot/1Introduction/2Our_team/images/08.jpg>]
+<1Introduction/2Our_team/images/06.jpg, id=21, 1719.42375pt x 2295.57625pt>
+File: 1Introduction/2Our_team/images/06.jpg Graphic file (type jpg)
 
- []
-
+<use 1Introduction/2Our_team/images/06.jpg>
+Package pdftex.def Info: 1Introduction/2Our_team/images/06.jpg used on input li
+ne 66.
+(pdftex.def)             Requested size: 189.13719pt x 252.51416pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-11-25 08:12:12
 (epstopdf)                    size: 35507 bytes
@@ -515,541 +484,95 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 56.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-56.
-(pdftex.def)             Requested size: 514.75555pt x 110.24922pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 56--56
-[][][] 
- []
-
-[4])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/3Conce
-pt_discussing/concept_days/26.09.2015/26.09.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 8--19
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 45.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-45.
-(pdftex.def)             Requested size: 514.75555pt x 214.6512pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 45--45
-[][][] 
- []
-
-[5])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/3Conce
-pt_discussing/concept_days/30.09.2015/30.09.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[][]\T2A/cmr/m/n/10.95 To elaborate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-\T2A/cmr/m/n/10.95 mechanism for
- []
-
-
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 8--15
- [][] 
- []
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 41.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-41.
-(pdftex.def)             Requested size: 514.75555pt x 281.34416pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 41--41
-[][][] 
- []
-
-[6])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/3Conce
-pt_discussing/concept_days/02.10.2015/02.10.2015.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
-Overfull \hbox (0.73059pt too wide) in paragraph at lines 29--30
-[][]\T2A/cmr/m/n/10.95 Elevator consists of retracktable construction profiles 
-which connected with help of special elements.
- []
-
-[7]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 116.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-116.
-(pdftex.def)             Requested size: 514.75555pt x 283.38612pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 116--116
-[][][] 
- []
-
-[8]))
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/6Speci
-fications_for_modules/Specifications_for_modules_H.tex"
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/6Speci
-fications_for_modules/elevator/elevator_H.tex" [9]
-<3Engineering/6Specifications_for_modules/elevator/images/03.jpg, id=41, 3276.2
-4pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/03.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/03.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/03.jpg used on input line 72.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-
-<3Engineering/6Specifications_for_modules/elevator/images/04.jpg, id=42, 3276.2
-4pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/04.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/04.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/04.jpg used on input line 77.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-
-<3Engineering/6Specifications_for_modules/elevator/images/05.jpg, id=43, 2457.1
-8pt x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/05.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/05.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/05.jpg used on input line 82.
-(pdftex.def)             Requested size: 98.27046pt x 131.02728pt.
- [10 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/elevator/images/03.jpg> <C:/Users/Nikita/Desktop/tech
- book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/elevator
-/images/04.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Eng
-ineering/6Specifications_for_modules/elevator/images/05.jpg>]
-File: 3Engineering/6Specifications_for_modules/elevator/images/03.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/03.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/03.jpg used on input line 108.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-File: 3Engineering/6Specifications_for_modules/elevator/images/04.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/04.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/04.jpg used on input line 113.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-File: 3Engineering/6Specifications_for_modules/elevator/images/05.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/05.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/05.jpg used on input line 118.
-(pdftex.def)             Requested size: 98.27046pt x 131.02728pt.
- [11]
-File: 3Engineering/6Specifications_for_modules/elevator/images/03.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/03.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/03.jpg used on input line 169.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
- [12])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/6Speci
-fications_for_modules/bucket/TechDocBucketComplex.tex"
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
-
-(C:\Full_TeX\texmf\tex\latex\base\omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
-
-(C:\Full_TeX\texmf\tex\latex\ucs\uni-4.def
-File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-) [13]
-<3Engineering/6Specifications_for_modules/bucket/images/01.png, id=60, 709.9021
-9pt x 297.36093pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/01.png Graphic fil
-e (type png)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/01.png>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/01.png used on input line 27.
-(pdftex.def)             Requested size: 283.95584pt x 118.94226pt.
-
-
-LaTeX Warning: Command \CYRA invalid in math mode on input line 32.
-
-
-LaTeX Warning: Command \CYRE invalid in math mode on input line 32.
-
-Missing character: There is no Р in font cmr10!
-Missing character: There is no Х in font cmr10!
-
-<3Engineering/6Specifications_for_modules/bucket/images/02.jpg, id=62, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/02.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/02.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/02.jpg used on input line 36.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Engineering/6Sp
-ecifications_for_modules/bucket/images/01.png>]
-<3Engineering/6Specifications_for_modules/bucket/images/03.jpg, id=67, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/03.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/03.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/03.jpg used on input line 47.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/04.jpg, id=68, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/04.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/04.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/04.jpg used on input line 52.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/05.jpg, id=69, 2457.18p
-t x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/05.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/05.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/05.jpg used on input line 57.
-(pdftex.def)             Requested size: 98.27046pt x 131.02728pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/06.jpg, id=70, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/06.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/06.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/06.jpg used on input line 66.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/07.jpg, id=71, 2457.18p
-t x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/07.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/07.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/07.jpg used on input line 71.
-(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/02.jpg> <C:/Users/Nikita/Desktop/tech b
-ook 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/ima
-ges/03.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Enginee
-ring/6Specifications_for_modules/bucket/images/04.jpg> <C:/Users/Nikita/Desktop
-/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/buc
-ket/images/05.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/08.jpg, id=75, 2457.18p
-t x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/08.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/08.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/08.jpg used on input line 80.
-(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
- [16 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/06.jpg> <C:/Users/Nikita/Desktop/tech b
-ook 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/ima
-ges/07.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Enginee
-ring/6Specifications_for_modules/bucket/images/08.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/09.jpg, id=79, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/09.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/09.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/09.jpg used on input line 95.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/10.jpg, id=80, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/10.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/10.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/10.jpg used on input line 99.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/11.jpg, id=81, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/11.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/11.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/11.jpg used on input line 110.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/12.jpg, id=82, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/12.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/12.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/12.jpg used on input line 114.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/13.jpg, id=83, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/13.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/13.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/13.jpg used on input line 130.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/14.jpg, id=84, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/14.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/14.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/14.jpg used on input line 134.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
- [17 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/09.jpg> <C:/Users/Nikita/Desktop/tech b
-ook 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/ima
-ges/10.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3Enginee
-ring/6Specifications_for_modules/bucket/images/11.jpg> <C:/Users/Nikita/Desktop
-/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/buc
-ket/images/12.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/15.jpg, id=88, 3276.24p
-t x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/15.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/15.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/15.jpg used on input line 143.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/16.jpg, id=89, 2457.18p
-t x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/16.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/16.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/16.jpg used on input line 147.
-(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
-)
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/6Speci
-fications_for_modules/alpinists/alpinists_H.tex" [18 <C:/Users/Nikita/Desktop/t
-ech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucke
-t/images/13.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/3En
-gineering/6Specifications_for_modules/bucket/images/14.jpg> <C:/Users/Nikita/De
-sktop/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_module
-s/bucket/images/15.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_ro
-bot/3Engineering/6Specifications_for_modules/bucket/images/16.jpg>])
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-11-25 08:12:12
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 10.
+(epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-10.
-(pdftex.def)             Requested size: 514.75555pt x 631.98045pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 10--10
-[][][] 
- []
-
-[19])
-("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\4Appendix/6Leaflet_
-for_teams/Leaflet_for_teams_H.tex"
-Underfull \hbox (badness 5862) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 drive-operator, responsible for
+71.
+(pdftex.def)             Requested size: 514.75555pt x 121.08832pt.
+ [3 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2O
+ur_team/images/05.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_rob
+ot/1Introduction/2Our_team/images/06.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+\T2A/cmr/m/it/10.95 Role in team: captain, reserve operator-2,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 writing the technical book,
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+\T2A/cmr/m/it/10.95 responsible for writing the technical book,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 responsible for elevator and
+Underfull \hbox (badness 1881) in paragraph at lines 77--81
+\T2A/cmr/m/it/10.95 I enjoy working with mechanisms and finding
  []
 
-
-Underfull \hbox (badness 1565) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 Information: 17 years old, in
- []
-
-
-Underfull \hbox (badness 3323) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 Why I chose FTC: "I have
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 working with mechanisms
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 and finding unusual technical
- []
-
-
-Underfull \hbox (badness 3312) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 Also working on this project
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 5--9
-\T2A/cmr/m/it/10.95 sphere of engineering. In this
- []
-
-<1Introduction/2Our_team/images/03.jpg, id=97, 686.0832pt x 1032.9792pt>
+<1Introduction/2Our_team/images/03.jpg, id=25, 686.0832pt x 1032.9792pt>
 File: 1Introduction/2Our_team/images/03.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/03.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/03.jpg used on input li
-ne 12.
+ne 84.
 (pdftex.def)             Requested size: 150.93877pt x 227.25612pt.
 
-<1Introduction/2Our_team/images/10.jpg, id=98, 274.02374pt x 290.08376pt>
+<1Introduction/2Our_team/images/10.jpg, id=26, 274.02374pt x 290.08376pt>
 File: 1Introduction/2Our_team/images/10.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/10.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/10.jpg used on input li
-ne 18.
+ne 90.
 (pdftex.def)             Requested size: 137.01154pt x 145.04152pt.
 
-Underfull \hbox (badness 1009) in paragraph at lines 22--26
+Underfull \hbox (badness 1009) in paragraph at lines 94--98
 \T2A/cmr/m/it/10.95 the FTC, because it requiers many skills in a
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 22--26
+Underfull \hbox (badness 1838) in paragraph at lines 94--98
 \T2A/cmr/m/it/10.95 lot of interesting themes: physics, engineering,
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 32--36
+Underfull \hbox (badness 2644) in paragraph at lines 104--108
 \T2A/cmr/m/it/10.95 Why I chose FTC: "I decided to join FTC
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 32--36
+Underfull \hbox (badness 2970) in paragraph at lines 104--108
 \T2A/cmr/m/it/10.95 to me. It requires responsibility, capability of
  []
 
-<1Introduction/2Our_team/images/12.jpg, id=99, 496.85625pt x 695.59875pt>
+<1Introduction/2Our_team/images/12.jpg, id=27, 496.85625pt x 695.59875pt>
 File: 1Introduction/2Our_team/images/12.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/12.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/12.jpg used on input li
-ne 39.
+ne 111.
 (pdftex.def)             Requested size: 149.05801pt x 208.68123pt.
 
-<1Introduction/2Our_team/images/01.jpg, id=100, 722.7pt x 963.6pt>
+<1Introduction/2Our_team/images/01.jpg, id=28, 722.7pt x 963.6pt>
 File: 1Introduction/2Our_team/images/01.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/01.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/01.jpg used on input li
-ne 45.
+ne 117.
 (pdftex.def)             Requested size: 158.99449pt x 211.99266pt.
- [20 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2
-Our_team/images/03.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_ro
-bot/1Introduction/2Our_team/images/10.jpg> <C:/Users/Nikita/Desktop/tech book 2
-015-2016/Complex_robot/1Introduction/2Our_team/images/12.jpg>]
-Underfull \hbox (badness 1681) in paragraph at lines 59--63
+ [4 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2O
+ur_team/images/03.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_rob
+ot/1Introduction/2Our_team/images/10.jpg> <C:/Users/Nikita/Desktop/tech book 20
+15-2016/Complex_robot/1Introduction/2Our_team/images/12.jpg>]
+Underfull \hbox (badness 1681) in paragraph at lines 131--135
 \T2A/cmr/m/it/10.95 Why I chose FTC:"I enjoy making huge and
  []
 
-<1Introduction/2Our_team/images/11.jpg, id=105, 801.99625pt x 856.19875pt>
+<1Introduction/2Our_team/images/11.jpg, id=32, 801.99625pt x 856.19875pt>
 File: 1Introduction/2Our_team/images/11.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/11.jpg>
 Package pdftex.def Info: 1Introduction/2Our_team/images/11.jpg used on input li
-ne 66.
+ne 138.
 (pdftex.def)             Requested size: 200.49857pt x 214.04916pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-11-25 08:12:12
@@ -1059,42 +582,340 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 70.
+(epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-70.
+142.
 (pdftex.def)             Requested size: 514.75555pt x 204.52008pt.
- [21 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2
-Our_team/images/01.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_ro
-bot/1Introduction/2Our_team/images/11.jpg>])
+ [5 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/2O
+ur_team/images/01.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_rob
+ot/1Introduction/2Our_team/images/11.jpg>])
+("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\1Introduction/3Our_
+sponsors/Our_sponsors_H.tex"
+Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
+[][]\T2A/cmr/m/n/10.95 Also we thank our sponsors: company PTC and it's Russian
+ representative "Irisoft"and charitable foundation
+ []
+
+<1Introduction/3Our_sponsors/images/01.jpg, id=36, 169.63374pt x 63.23625pt>
+File: 1Introduction/3Our_sponsors/images/01.jpg Graphic file (type jpg)
+
+<use 1Introduction/3Our_sponsors/images/01.jpg>
+Package pdftex.def Info: 1Introduction/3Our_sponsors/images/01.jpg used on inpu
+t line 24.
+(pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
+
+<1Introduction/3Our_sponsors/images/02.jpg, id=37, 925.056pt x 367.1316pt>
+File: 1Introduction/3Our_sponsors/images/02.jpg Graphic file (type jpg)
+
+<use 1Introduction/3Our_sponsors/images/02.jpg>
+Package pdftex.def Info: 1Introduction/3Our_sponsors/images/02.jpg used on inpu
+t line 28.
+(pdftex.def)             Requested size: 185.00792pt x 73.425pt.
+
+<1Introduction/3Our_sponsors/images/03.png, id=38, 37.94176pt x 56.6115pt>
+File: 1Introduction/3Our_sponsors/images/03.png Graphic file (type png)
+
+<use 1Introduction/3Our_sponsors/images/03.png>
+Package pdftex.def Info: 1Introduction/3Our_sponsors/images/03.png used on inpu
+t line 36.
+(pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
+
+<1Introduction/3Our_sponsors/images/05.jpg, id=40, 382.42876pt x 383.4325pt>
+File: 1Introduction/3Our_sponsors/images/05.jpg Graphic file (type jpg)
+
+<use 1Introduction/3Our_sponsors/images/05.jpg>
+Package pdftex.def Info: 1Introduction/3Our_sponsors/images/05.jpg used on inpu
+t line 40.
+(pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
+
+<1Introduction/3Our_sponsors/images/04.jpg, id=41, 102.3825pt x 91.34125pt>
+File: 1Introduction/3Our_sponsors/images/04.jpg Graphic file (type jpg)
+
+<use 1Introduction/3Our_sponsors/images/04.jpg>
+Package pdftex.def Info: 1Introduction/3Our_sponsors/images/04.jpg used on inpu
+t line 44.
+(pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
+ [6 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/3O
+ur_sponsors/images/01.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex
+_robot/1Introduction/3Our_sponsors/images/02.jpg> <C:/Users/Nikita/Desktop/tech
+ book 2015-2016/Complex_robot/1Introduction/3Our_sponsors/images/03.png> <C:/Us
+ers/Nikita/Desktop/tech book 2015-2016/Complex_robot/1Introduction/3Our_sponsor
+s/images/05.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/1In
+troduction/3Our_sponsors/images/04.jpg>])
+("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\1Introduction/4How_
+to_read/How_to_read_H.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
+(C:\Full_TeX\texmf\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-11-25 08:12:12
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-25 08:12:12
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+36.
+(pdftex.def)             Requested size: 514.75555pt x 268.71222pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 36--36
+[][][] 
+ []
+
+[7])
+("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\2Business_plan/Busi
+ness_plan_H.tex"
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 24--57
+ [][] 
+ []
+
+(C:\Full_TeX\texmf\tex\latex\ucs\uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 64--125
+ [][] 
+ []
+
+[8]
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-11-25 08:12:12
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-25 08:12:12
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 128.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+ <use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+128.
+(pdftex.def)             Requested size: 514.75555pt x 221.05238pt.
+ [9])
+("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\3Engineering/9Key_s
+ummary/Key_summary_H.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 16--16
+[][]\T2A/cmr/m/n/10.95 Stay in beacon repair zone at the conclusion of
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 8--35
+ [][] 
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 82--93
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Package epstopdf Info: Source file: <img/fill_page.eps>
+(epstopdf)                    date: 2015-11-25 08:12:12
+(epstopdf)                    size: 35507 bytes
+(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-25 08:12:12
+(epstopdf)                    size: 2504 bytes
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fill_page-eps-converted-to.pdf>
+Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
+96.
+(pdftex.def)             Requested size: 514.75555pt x 461.09201pt.
+
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 96--96
+[][][] 
+ []
+
+[11])
+("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\4Appendix/6Leaflet_
+for_teams/Leaflet_for_teams_H.tex"
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...35]{4Appendix/7Leaflet_for_teams/images/01}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/02' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...5]{4Appendix/7Leaflet_for_teams/images/02}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/03' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...5]{4Appendix/7Leaflet_for_teams/images/03}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[][]\T2A/cmr/m/n/10.95 ашё. 3: Andrea Nemov,
+ []
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/04' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...5]{4Appendix/7Leaflet_for_teams/images/04}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 26--26
+[][]\T2A/cmr/m/n/10.95 ашё. 4: Anton Ponikarovsky,
+ []
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/05' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...5]{4Appendix/7Leaflet_for_teams/images/05}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/06' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 ...5]{4Appendix/7Leaflet_for_teams/images/06}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[][]\T2A/cmr/m/n/10.95 ашё. 6: Alexandr Iliasov,
+ []
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/07' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...5]{4Appendix/7Leaflet_for_teams/images/07}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `4Appendix/7Leaflet_for_teams/images/08' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 ...5]{4Appendix/7Leaflet_for_teams/images/08}
+                                                  }
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
 ("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\4Appendix/7Leaflet_
-for_judges/Leaflet_for_judges_H.tex"
-<4Appendix/7Leaflet_for_judges/images/01.jpg, id=109, 486.81876pt x 362.35374pt
->
+for_judges/Leaflet_for_judges_H.tex" [12]
+<4Appendix/7Leaflet_for_judges/images/01.jpg, id=71, 486.81876pt x 362.35374pt>
 File: 4Appendix/7Leaflet_for_judges/images/01.jpg Graphic file (type jpg)
- <use 4Appendix/7Leaflet_for_judges/images/01.jpg>
+<use 4Appendix/7Leaflet_for_judges/images/01.jpg>
 Package pdftex.def Info: 4Appendix/7Leaflet_for_judges/images/01.jpg used on in
 put line 41.
 (pdftex.def)             Requested size: 170.38911pt x 126.8257pt.
 
-<4Appendix/7Leaflet_for_judges/images/02.jpg, id=110, 486.81876pt x 362.35374pt
->
+<4Appendix/7Leaflet_for_judges/images/02.jpg, id=72, 486.81876pt x 362.35374pt>
 File: 4Appendix/7Leaflet_for_judges/images/02.jpg Graphic file (type jpg)
- <use 4Appendix/7Leaflet_for_judges/images/02.jpg>
+<use 4Appendix/7Leaflet_for_judges/images/02.jpg>
 Package pdftex.def Info: 4Appendix/7Leaflet_for_judges/images/02.jpg used on in
 put line 45.
 (pdftex.def)             Requested size: 170.38911pt x 126.8257pt.
 
-<4Appendix/7Leaflet_for_judges/images/03.jpg, id=111, 363.3575pt x 541.02126pt>
+<4Appendix/7Leaflet_for_judges/images/03.jpg, id=73, 363.3575pt x 541.02126pt>
 File: 4Appendix/7Leaflet_for_judges/images/03.jpg Graphic file (type jpg)
+
 <use 4Appendix/7Leaflet_for_judges/images/03.jpg>
 Package pdftex.def Info: 4Appendix/7Leaflet_for_judges/images/03.jpg used on in
 put line 49.
 (pdftex.def)             Requested size: 109.00809pt x 162.30762pt.
-) [22 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/4Appendix/7Lea
+) [13 <C:/Users/Nikita/Desktop/tech book 2015-2016/Complex_robot/4Appendix/7Lea
 flet_for_judges/images/01.jpg> <C:/Users/Nikita/Desktop/tech book 2015-2016/Com
 plex_robot/4Appendix/7Leaflet_for_judges/images/02.jpg> <C:/Users/Nikita/Deskto
 p/tech book 2015-2016/Complex_robot/4Appendix/7Leaflet_for_judges/images/03.jpg
@@ -1102,26 +923,26 @@ p/tech book 2015-2016/Complex_robot/4Appendix/7Leaflet_for_judges/images/03.jpg
 ("C:\Users\Nikita\Desktop\tech book 2015-2016\Complex_robot\tech_doc_complex.au
 x") ) 
 Here is how much of TeX's memory you used:
- 6023 strings out of 493921
- 84709 string characters out of 3150556
- 140824 words of memory out of 3000000
- 9089 multiletter control sequences out of 15000+200000
- 18894 words of font info for 45 fonts, out of 3000000 for 9000
+ 5982 strings out of 493921
+ 78848 string characters out of 3150556
+ 146110 words of memory out of 3000000
+ 9074 multiletter control sequences out of 15000+200000
+ 21578 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,10n,43p,1162b,703s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,43p,715b,833s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Full_TeX/
 texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Full_TeX/texmf/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><C:/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Full
-_TeX/texmf/fonts/type1/public/cm-super/sfbi1095.pfb><C:/Full_TeX/texmf/fonts/ty
-pe1/public/cm-super/sfbx1095.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-super
-/sfbx1200.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1440.pfb><C:/F
-ull_TeX/texmf/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Full_TeX/texmf/fonts
-/type1/public/cm-super/sfrm1095.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-su
-per/sfti1095.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-super/sfxc1095.pfb>
-Output written on tech_doc_complex.pdf (22 pages, 31147428 bytes).
+public/amsfonts/cm/cmmi12.pfb><C:/Full_TeX/texmf/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Ful
+l_TeX/texmf/fonts/type1/public/cm-super/sfbi1095.pfb><C:/Full_TeX/texmf/fonts/t
+ype1/public/cm-super/sfbx1095.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-supe
+r/sfbx1200.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1440.pfb><C:/
+Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Full_TeX/texmf/font
+s/type1/public/cm-super/sfti1095.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-s
+uper/sfti2074.pfb><C:/Full_TeX/texmf/fonts/type1/public/cm-super/sfxc1095.pfb>
+Output written on tech_doc_complex.pdf (13 pages, 7220706 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
