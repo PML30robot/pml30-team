@@ -1,6 +1,8 @@
+\section{Engineering}
+
 \subsection{Brainstorming (21.09.2015)}
 	\textit{\textbf{Time frame:}} 21.09.2015 17:00-21:00 \newline
-	\textit{\textbf{Preview:}} Since this year FTC rules were published, every member of our team had carefully read them. Today we gathered together to discuss all the aspects of this year gameplay and think of how to get on with the most significant features of the game. \newline \newline
+	\textit{\textbf{Preview:}} Since this year FTC rules were published, every member of our team had carefully read them. Today we gathered together to discuss all the aspects of this year gameplay and think of how to get on with the most significant features of the game. \newline
 	\textit{\textbf{General aspects:}}
 	\begin{table}[H]
 		\vspace{-2mm}
@@ -19,17 +21,17 @@
 				\hline
 				Pulling up costs 80 points. It's not difficult to realise then. & At least 1 DC motor should be reserved for pulling up. It is possible to grasp the pull-up bar with hook and lift to it by reeling the cable. & pull up \\
 				\hline
-				Moving over the inclined plane and pulling up require high moment on motors. However, the number of motors is limited. & Robot should be light enough to decrease the moment required for moiving and, as a result, increase speed of moving. & weight \\
+				Moving over the inclined plane and pulling up require high moment on motors. However, the number of motors is limited. & Robot should be light enough to decrease the moment required for moving and, as a result, increase speed of moving. & weight \\
 				\hline
 				All the zones of red alliance are the mirror reflection of blue alliance's zones. & Robot should be symmetrical and capable of playing on both sides of field. & concept \\
 				\hline
 				Robot can grip 5 debris at once, when the maximal capacity of one bucket is 24 cubes. So, to fill one bucket robot has to repeat collecting and taking cubes to the goal 5 times per 1,5 minutes & Gripper for debris should be at the front side of the robot and extractor for scoring elements - from the back side. It will allow robot to go to the ramp backwards, so it won't need to turn around on the ramp before going down to collect debris. It will save some time. & concept \\
 				\hline
-				It's quite unconvenient to exchange ramps with your ally during the game. & We will negotiate with our ally about spheres of influence before each game. Additionally, there should be two autonomus programs for climbing onto both ramps. & strategy \\
+				It's quite inconvenient to exchange ramps with your ally during the game. & We will negotiate with our ally about spheres of influence before each game. Additionally, there should be two autonomous programs for climbing onto both ramps. & strategy \\
 				\hline
-				The only main difficulty of this year autonomus period is that both robots in alliance have to fulfil the same tasks at the same place. So, there is a high risk of collisions between them. & A number of different programs for autonomus period are needed for easier adjustment to the ally's strategy. & strategy \\
+				The only main difficulty of this year autonomous period is that both robots in alliance have to fulfil the same tasks at the same place. So, there is a high risk of collisions between them. & A number of different programs for autonomous period are needed for easier adjustment to the ally's strategy. & strategy \\
 				\hline
-				It's not restricted to collect debris in autonomus period. & It will be useful to realise automatic collection of 5 cubes in autonomus period. At the conclusion of autonomus period the robot will remain on the ramp with 5 cubes and we will put them to the goal immediately & strategy \\
+				It's not restricted to collect debris in autonomous period. & It will be useful to realise automatic collection of 5 cubes in autonomous period. At the conclusion of autonomous period the robot will remain on the ramp with 5 cubes and we will put them to the goal immediately & strategy \\
 				\hline
 			\end{tabular}
 		\end{center}
@@ -38,7 +40,7 @@
 	 \newline
 	\textit{\textbf{Detailed explaination:}}
 	\begin{enumerate*}
-		\item As we know from our previous FTC seasons experience, there are strict constraints for wheel bases can be used for climbing mountains. Firstly, omni and mechanium wheels are completely not suitable, because mechanium wheels can ride only on plain surface (when 2-nd and 3-rd zones have cross hurdles) and omni wheels have ability of undependable movement on small rollers so they behave very unstable on mountain. Various conbinations of standard and omni wheels can't be used too, as in the 2-nd zone there are obstacles which can cause some wheels lose contact with ground and if the rest of wheels will behave differently, the whole robot would be unstable. In conclusion, we can use only standard wheels or tracks.
+		\item As we know from our previous FTC seasons experience, there are strict constraints for wheel bases can be used for climbing mountains. Firstly, omni and mechanium wheels are completely not suitable, because mechanium wheels can ride only on plain surface (when 2-nd and 3-rd zones have cross hurdles) and omni wheels have ability of undependable movement on small rollers so they behave very unstable on mountain. Various combinations of standard and omni wheels can't be used too, as in the 2-nd zone there are obstacles which can cause some wheels lose contact with ground and if the rest of wheels will behave differently, the whole robot would be unstable. In conclusion, we can use only standard wheels or tracks.
 		
 		Additionally, wheel base should be symmetrical against central axis for stable climbing to the mountain.
 		
@@ -50,7 +52,7 @@
 			\end{minipage}
 		\end{figure}
 		% % % %
-		\item To score in high zone goal from 2-nd zone robot should have a mehanism for delivering debris to the distance of 40 cm or more. Shooting debris is entirely unsuitable approach, because it's impossible to realise enough accuracy for stable scoring cubes and especially balls. Another way is elevator. There are three types of lifts which familiar to us: they're crank lift, scissor lift and retractable rails. 
+		\item To score in high zone goal from 2-nd zone robot should have a mechanism for delivering debris to the distance of 40 cm or more. Shooting debris is entirely unsuitable approach, because it's impossible to realise enough accuracy for stable scoring cubes and especially balls. Another way is elevator. There are three types of lifts which familiar to us: they're crank lift, scissor lift and retractable rails. 
 		
 		Scissor lift is not suitable for this year competition, because despite it's main advantage - the ability of extracting the longest distances of all - it's too difficult in development.
 		
@@ -64,7 +66,7 @@
 			\end{minipage}
 		\end{figure}
 		% % % %
-		\item The parameters of the box are $9\times5.75\times6.25$. So, it can contain at most 24 cubes (4 in length, 2 at width and 3 in depth). As for balls, there can't be scored over approximately 10 of them because of their unconvenient shape and ability of top balls to roll out of the box (especially from the upper box, which is turned on $50^{\circ}$ from horisontal position).
+		\item The parameters of the box are $9\times5.75\times6.25$. So, it can contain at most 24 cubes (4 in length, 2 at width and 3 in depth). As for balls, there can't be scored over approximately 10 of them because of their inconvenient shape and ability of top balls to roll out of the box (especially from the upper box, which is turned on $50^{\circ}$ from horizontal position).
 		
 		This is the reason to implement mechanism for separating debris into cubes and balls. However, there are only 50 cubes on field (12.5 for one robot), so they will run out quickly, so the ability of collecting balls is required as well.
 		
@@ -80,15 +82,15 @@
 		
 		In our primary calculations robot's weight will be accepted as 10kg. However, it is preferable to make robot as light as possible.\newline
 		% % % %
-		\item Wheel bases which are good at climbing mountains are usually less manevrous, than carriages with omni and mechanium wheels. This way, the less robot will turn, the more effective it will compete.
+		\item Wheel bases which are good at climbing mountains are usually less manoeuvrable, than carriages with omni and mechanium wheels. This way, the less robot will turn, the more effective it will compete.
 		
-		Accordind to this, it will be more convenient to realise construction that will allow robot to score debris without turning around. Robot can collect debris with gripper on it's front side while moving forward and then go backward to the ramp and score debris with the mechanism on it's back side.
+		According to this, it will be more convenient to realise construction that will allow robot to score debris without turning around. Robot can collect debris with gripper on it's front side while moving forward and then go backward to the ramp and score debris with the mechanism on it's back side.
 		
-		Furthermore, it will be useful to attach one robot to one ramp in order to prevent them from commiting extra movement. Although it seems that two robots can fill the top goal together two times faster, in fact they will just interfere with each other. So, it will be a good tactical step to negotiate with our ally before the mach which robot will operate with each mountain.\newline
+		Furthermore, it will be useful to attach one robot to one ramp in order to prevent them from committing extra movement. Although it seems that two robots can fill the top goal together two times faster, in fact they will just interfere with each other. So, it will be a good tactical step to negotiate with our ally before the match which robot will operate with each mountain.\newline
 		% % % %
 		\item This year field is symmetric with respect to the diagonal. It means that all zones of one alliance are the mirror reflection of another. Consequently, the gameplay depends on which alliance you are playing for.
 		
-		So, the robot should be capable of executing equal tasks playing for each alliance. The major unconvenience cause releasing alpinists, as it requires two similar mechanisms from both sides, that will take 2 servos instead of 1. Mechanism For scoring debris should be summetrical to provide filling boxes from both sides of the ramp. Besides, autonomus program should be twoside as well.
+		So, the robot should be capable of executing equal tasks playing for each alliance. The major inconvenience cause releasing alpinists, as it requires two similar mechanisms from both sides, that will take 2 servos instead of 1. Mechanism For scoring debris should be symmetrical to provide filling boxes from both sides of the ramp. Besides, autonomous program should be twoside as well.
 		
 	\end{enumerate*}
 	
