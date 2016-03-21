@@ -1,15 +1,24 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.3.1)  20 MAR 2016 23:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.14)  21 MAR 2016 12:42
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **tech_doc_complex.tex
-(./tech_doc_complex.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\tech_doc_complex.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -23,10 +32,10 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\ucs\uni-global.def"
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count87
@@ -34,31 +43,31 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks15
 \uc@temptokena=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+("C:\Program Files (x86)\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -66,38 +75,44 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+("C:\Program Files (x86)\MiKTeX\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty"
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+("C:\Program Files (x86)\MiKTeX\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2014/09/25 3.9l The Babel package
+("C:\Program Files (x86)\MiKTeX\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2014/09/25 3.9l Babel common definitions
+("C:\Program Files (x86)\MiKTeX\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen105
 )
@@ -105,24 +120,18 @@ File: babel.def 2014/09/25 3.9l Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russianb 2015/05/01 1.3g Russian support for the Babel system
+("C:\Program Files (x86)\MiKTeX\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
 
-
-Package babel Warning: No Cyrillic font encoding has been loaded so far.
-(babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 69.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\cyrillic\t2aenc.def"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
-Package babel Info: Making " an active character on input line 111.
+Package babel Info: Making " an active character on input line 199.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks22
 \symAMSa=\mathgroup4
@@ -130,24 +139,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks23
 \ex@=\dimen106
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count90
@@ -188,20 +197,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\t2\mathtext.sty"
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
+("C:\Program Files (x86)\MiKTeX\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks28
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count102
 \float@exts=\toks29
@@ -209,18 +218,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box29
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count103
@@ -235,8 +244,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen121
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks31
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+
+("C:\Program Files (x86)\MiKTeX\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -247,28 +257,28 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files (x86)\MiKTeX\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -277,7 +287,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+("C:\Program Files (x86)\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -289,110 +299,14 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-(./tech_doc_complex.aux
+))
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\tech_doc_complex.aux"
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+("C:\Program Files (x86)\MiKTeX\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-
-LaTeX Warning: Label `Shiftbuc2.8' multiply defined.
-
-)
-Runaway argument?
-{ 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.59 \begin{document}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-\openout1 = `tech_doc_complex.aux'.
-
+))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
@@ -407,10 +321,11 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+
+("C:\Program Files (x86)\MiKTeX\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
 \scratchdimen=\dimen123
@@ -458,7 +373,9 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./0Title/Title.tex <0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
+
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\0Title/Title.tex" <0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
 File: 0Title/images/01.jpg Graphic file (type jpg)
 
 <use 0Title/images/01.jpg>
@@ -466,12 +383,12 @@ Package pdftex.def Info: 0Title/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 116.0826pt x 116.0826pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files (x86)\MiKTeX\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <0Title/images/02.jpg, id=2, 787.94376pt x 788.9475pt>
@@ -489,7 +406,7 @@ File: 0Title/images/03.jpg Graphic file (type jpg)
 Package pdftex.def Info: 0Title/images/03.jpg used on input line 27.
 (pdftex.def)             Requested size: 111.00192pt x 44.05388pt.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 <0Title/images/04.png, id=4, 169.63374pt x 63.23625pt>
@@ -514,12 +431,70 @@ Package pdftex.def Info: 0Title/images/06.jpg used on input line 30.
 (pdftex.def)             Requested size: 165.62003pt x 94.8551pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./0Title/images/01.jpg> <.
-/0Title/images/02.jpg> <./0Title/images/03.jpg> <./0Title/images/04.png> <./0Ti
-tle/images/05.png> <./0Title/images/06.jpg>])
-(./tech_doc_complex.toc)
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/sasha/Documents/
+Робототехника/FTC 2015-2016_2/Complex_robot/0Title/images/01.jpg> 
+<C:/Users/sasha/Documents/Робототехника/FTC 2015-2016_2/Complex_ro
+bot/0Title/images/02.jpg> <C:/Users/sasha/Documents/Робототехника/
+FTC 2015-2016_2/Complex_robot/0Title/images/03.jpg> <C:/Users/sasha/Documents/�
+�обототехника/FTC 2015-2016_2/Complex_robot/0Title/images/04.png> <
+C:/Users/sasha/Documents/Робототехника/FTC 2015-2016_2/Complex_rob
+ot/0Title/images/05.png> <C:/Users/sasha/Documents/Робототехника/F
+TC 2015-2016_2/Complex_robot/0Title/images/06.jpg>])
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\tech_doc_complex.toc")
 \tf@toc=\write3
-\openout3 = `tech_doc_complex.toc'.
+
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\3Engineering/5Team_meetings/Team_meetings_H.tex"
+Overfull \hbox (3.42299pt too wide) in paragraph at lines 2--4
+\T2A/cmr/m/n/10.95 modules and program in sections "specifications for modules"
+and "specifications for programs"correspondingly. 
+ []
+
+
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\3Engineering/5Team_meetings/days_of_meetings/2016.02.28/2016.02.28.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]\T2A/cmr/m/n/10.95 Problem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\T2A/cmr/m/n/10.95 Breakdowns
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 16--17
+[]\T2A/cmr/m/n/10.95 Correct stucking of rope inside slats.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\T2A/cmr/m/n/10.95 Breakdowns
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 22--22
+[]\T2A/cmr/m/n/10.95 Elevator pulls out because of fast
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 24--25
+[]\T2A/cmr/m/n/10.95 The same speed of shifting. Bigger
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 28--29
+[]\T2A/cmr/m/n/10.95 Bucket is above the elevator in new
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 30--30
+[]\T2A/cmr/m/n/10.95 Hard to move cubes away from
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -528,1834 +503,74 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
+("C:\Program Files (x86)\MiKTeX\tex\latex\ucs\uni-33.def"
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 ) [2]
-(./1Introduction/4How_to_read/How_to_read_H.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\T2A/cmr/m/n/10.95 All clear turning mechanism
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
+Overfull \hbox (47.99997pt too wide) in paragraph at lines 50--110
+ [] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
+(epstopdf)                    date: 2016-02-17 04:01:16
+(epstopdf)                    size: 35507 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
+(epstopdf)                    date: 2016-02-17 04:01:16
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 38.
+(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
+-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/fill_page-eps-converted-to.pdf, id=24, 446.66875pt x 214.8025pt>
+<img/fill_page-eps-converted-to.pdf, id=31, 446.66875pt x 214.8025pt>
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-38.
-(pdftex.def)             Requested size: 514.75555pt x 289.44644pt.
+98.
+(pdftex.def)             Requested size: 514.75555pt x 56.58151pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 38--38
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 98--98
 [][] 
  []
 
-[3 <./img/fill_page-eps-converted-to.pdf>])
-(./1Introduction/2Our_team/Our_team_H.tex
-Overfull \hbox (7.43207pt too wide) in paragraph at lines 7--8
-[]\T2A/cmr/m/n/10.95 Tasks and roles of robot designing were distributed among 
-the participants, and safety rules were established.
- []
+[4 <C:/Users/sasha/Documents/Робототехника/FTC 2015-2016_2/Complex
+_robot/img/fill_page-eps-converted-to.pdf>])
+("C:\Users\sasha\Documents\Робототехника\FTC 2015-2016_2\Complex_r
+obot\tech_doc_complex.aux") ) 
+Here is how much of TeX's memory you used:
+ 5129 strings out of 493921
+ 68590 string characters out of 3146479
+ 154909 words of memory out of 3000000
+ 8263 multiletter control sequences out of 15000+200000
+ 26053 words of font info for 66 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,11n,43p,624b,735s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\sasha\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\lh\lh-t2a\dpi600\lati1095.pk> <C:\Users\sasha\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\lh\lh-t2a\dpi600\labi1095.pk> <C:\Users\sasha\AppData\Local\MiK
+TeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi603\labx1095.pk> <C:\Users\sasha\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\laxc1095.pk> <C:\Users\sasha\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users
+\sasha\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <
+C:\Users\sasha\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx14
+40.pk> <C:\Users\sasha\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
+3\larm1095.pk> <C:\Users\sasha\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
+2a\dpi837\labx3583.pk> <C:\Users\sasha\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\sasha\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\lh\lh-t2a\dpi600\lati1728.pk><C:/Program Files (x86)/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb>
+Output written on tech_doc_complex.pdf (4 pages, 271416 bytes).
+PDF statistics:
+ 314 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-<1Introduction/2Our_team/images/09.jpg, id=32, 1284.8pt x 856.19875pt>
-File: 1Introduction/2Our_team/images/09.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/09.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/09.jpg used on input li
-ne 17.
-(pdftex.def)             Requested size: 256.95544pt x 171.23671pt.
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 19.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-19.
-(pdftex.def)             Requested size: 514.75555pt x 109.52487pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 19--19
-[][] 
- []
-
-[4 <./1Introduction/2Our_team/images/09.jpg>]
-<1Introduction/2Our_team/images/07.jpg, id=37, 868.24374pt x 766.865pt>
-File: 1Introduction/2Our_team/images/07.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/07.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/07.jpg used on input li
-ne 32.
-(pdftex.def)             Requested size: 260.47513pt x 230.06128pt.
-
-Overfull \hbox (18.56064pt too wide) in paragraph at lines 32--32
- [] 
- []
-
-<1Introduction/2Our_team/images/08.jpg, id=38, 434.62375pt x 781.92125pt>
-File: 1Introduction/2Our_team/images/08.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/08.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/08.jpg used on input li
-ne 36.
-(pdftex.def)             Requested size: 152.12059pt x 273.67653pt.
-
-<1Introduction/2Our_team/images/05.jpg, id=39, 684.5575pt x 1027.84pt>
-File: 1Introduction/2Our_team/images/05.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/05.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/05.jpg used on input li
-ne 48.
-(pdftex.def)             Requested size: 171.13895pt x 256.95937pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5 <./1Introduction/2Our_team/images/07.jpg> <./1Introduction/2Our_team/images
-/08.jpg>]
-<1Introduction/2Our_team/images/06.jpg, id=45, 1719.42375pt x 2295.57625pt>
-File: 1Introduction/2Our_team/images/06.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/06.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/06.jpg used on input li
-ne 67.
-(pdftex.def)             Requested size: 189.13719pt x 252.51416pt.
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 72.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-72.
-(pdftex.def)             Requested size: 514.75555pt x 121.08832pt.
- [6 <./1Introduction/2Our_team/images/05.jpg> <./1Introduction/2Our_team/images
-/06.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 78--82
-\T2A/cmr/m/it/10.95 Role in team: captain, reserve operator-2,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--82
-\T2A/cmr/m/it/10.95 responsible for writing the technical book,
- []
-
-
-Underfull \hbox (badness 1881) in paragraph at lines 78--82
-\T2A/cmr/m/it/10.95 I enjoy working with mechanisms and finding
- []
-
-<1Introduction/2Our_team/images/03.jpg, id=49, 686.0832pt x 1032.9792pt>
-File: 1Introduction/2Our_team/images/03.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/03.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/03.jpg used on input li
-ne 85.
-(pdftex.def)             Requested size: 150.93877pt x 227.25612pt.
-
-<1Introduction/2Our_team/images/10.jpg, id=50, 274.02374pt x 290.08376pt>
-File: 1Introduction/2Our_team/images/10.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/10.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/10.jpg used on input li
-ne 91.
-(pdftex.def)             Requested size: 137.01154pt x 145.04152pt.
-
-Underfull \hbox (badness 1009) in paragraph at lines 95--99
-\T2A/cmr/m/it/10.95 the FTC, because it requiers many skills in a
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 95--99
-\T2A/cmr/m/it/10.95 lot of interesting themes: physics, engineering,
- []
-
-<1Introduction/2Our_team/images/01.jpg, id=51, 722.7pt x 963.6pt>
-File: 1Introduction/2Our_team/images/01.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/01.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/01.jpg used on input li
-ne 105.
-(pdftex.def)             Requested size: 158.99449pt x 211.99266pt.
-
-Underfull \hbox (badness 1681) in paragraph at lines 119--123
-\T2A/cmr/m/it/10.95 Why I chose FTC:"I enjoy making huge and
- []
-
-<1Introduction/2Our_team/images/11.jpg, id=52, 801.99625pt x 856.19875pt>
-File: 1Introduction/2Our_team/images/11.jpg Graphic file (type jpg)
-
-<use 1Introduction/2Our_team/images/11.jpg>
-Package pdftex.def Info: 1Introduction/2Our_team/images/11.jpg used on input li
-ne 126.
-(pdftex.def)             Requested size: 200.49857pt x 214.04916pt.
- [7 <./1Introduction/2Our_team/images/03.jpg> <./1Introduction/2Our_team/images
-/10.jpg> <./1Introduction/2Our_team/images/01.jpg>]
-
-! LaTeX Error: File `key_chapters/Team/images/04' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.132 ...[scale=0.27]{key_chapters/Team/images/04}
-                                                  }\\
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `key_chapters/Team/images/01' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.152 ...s[scale=0.4]{key_chapters/Team/images/01}
-                                                  }\\
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `key_chapters/Team/images/10' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 ...s[scale=0.6]{key_chapters/Team/images/10}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[8 <./1Introduction/2Our_team/images/11.jpg>]
-
-! LaTeX Error: File `key_chapters/Team/images/11' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.179 ...s[scale=0.7]{key_chapters/Team/images/11}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 183.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-183.
-(pdftex.def)             Requested size: 514.75555pt x 368.51242pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 183--183
-[][] 
- []
-
-[9]) (./1Introduction/3Our_sponsors/Our_sponsors_H.tex
-Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
-[]\T2A/cmr/m/n/10.95 Also we thank our sponsors: company PTC and it's Russian r
-epresentative "Irisoft"and charitable foundation
- []
-
-<1Introduction/3Our_sponsors/images/01.jpg, id=63, 169.63374pt x 63.23625pt>
-File: 1Introduction/3Our_sponsors/images/01.jpg Graphic file (type jpg)
-
-<use 1Introduction/3Our_sponsors/images/01.jpg>
-Package pdftex.def Info: 1Introduction/3Our_sponsors/images/01.jpg used on inpu
-t line 24.
-(pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
-
-<1Introduction/3Our_sponsors/images/02.jpg, id=64, 925.056pt x 367.1316pt>
-File: 1Introduction/3Our_sponsors/images/02.jpg Graphic file (type jpg)
-
-<use 1Introduction/3Our_sponsors/images/02.jpg>
-Package pdftex.def Info: 1Introduction/3Our_sponsors/images/02.jpg used on inpu
-t line 28.
-(pdftex.def)             Requested size: 185.00792pt x 73.425pt.
-
-<1Introduction/3Our_sponsors/images/03.png, id=65, 37.94176pt x 56.6115pt>
-File: 1Introduction/3Our_sponsors/images/03.png Graphic file (type png)
-
-<use 1Introduction/3Our_sponsors/images/03.png>
-Package pdftex.def Info: 1Introduction/3Our_sponsors/images/03.png used on inpu
-t line 36.
-(pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
-
-<1Introduction/3Our_sponsors/images/05.jpg, id=66, 382.42876pt x 383.4325pt>
-File: 1Introduction/3Our_sponsors/images/05.jpg Graphic file (type jpg)
-
-<use 1Introduction/3Our_sponsors/images/05.jpg>
-Package pdftex.def Info: 1Introduction/3Our_sponsors/images/05.jpg used on inpu
-t line 40.
-(pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
-
-<1Introduction/3Our_sponsors/images/04.jpg, id=67, 102.3825pt x 91.34125pt>
-File: 1Introduction/3Our_sponsors/images/04.jpg Graphic file (type jpg)
-
-<use 1Introduction/3Our_sponsors/images/04.jpg>
-Package pdftex.def Info: 1Introduction/3Our_sponsors/images/04.jpg used on inpu
-t line 44.
-(pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
- [10 <./1Introduction/3Our_sponsors/images/01.jpg> <./1Introduction/3Our_sponso
-rs/images/02.jpg> <./1Introduction/3Our_sponsors/images/03.png> <./1Introductio
-n/3Our_sponsors/images/05.jpg> <./1Introduction/3Our_sponsors/images/04.jpg>])
-(./2Business_plan/Business_plan_H.tex
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 24--57
- [] 
- []
-
-[11]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 128.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-128.
-(pdftex.def)             Requested size: 514.75555pt x 232.52077pt.
- [12])
-(./3Engineering/1Brainstorming/Brainstorming_H.tex
-Underfull \hbox (badness 6001) in paragraph at lines 24--24
-\T2A/cmr/m/n/10.95 up require high moment on motors.
- []
-
-
-Underfull \hbox (badness 2653) in paragraph at lines 32--32
-[]\T2A/cmr/m/n/10.95 The only main difficulty of this year
- []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 34--34
-[]\T2A/cmr/m/n/10.95 It's not restricted to collect debris in
- []
-
-
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--37
- [] 
- []
-
-[13]
-<3Engineering/1Brainstorming/images/01.png, id=83, 1384.42218pt x 521.69907pt>
-File: 3Engineering/1Brainstorming/images/01.png Graphic file (type png)
-
-<use 3Engineering/1Brainstorming/images/01.png>
-Package pdftex.def Info: 3Engineering/1Brainstorming/images/01.png used on inpu
-t line 50.
-(pdftex.def)             Requested size: 304.57382pt x 114.77414pt.
-
-<3Engineering/1Brainstorming/images/02.png, id=84, 805.50937pt x 493.0922pt>
-File: 3Engineering/1Brainstorming/images/02.png Graphic file (type png)
-
-<use 3Engineering/1Brainstorming/images/02.png>
-Package pdftex.def Info: 3Engineering/1Brainstorming/images/02.png used on inpu
-t line 64.
-(pdftex.def)             Requested size: 225.54108pt x 138.06487pt.
- [14 <./3Engineering/1Brainstorming/images/01.png> <./3Engineering/1Brainstormi
-ng/images/02.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
-
- []
-
-
-Overfull \hbox (6.49945pt too wide) in paragraph at lines 93--94
-[]\T2A/cmr/m/n/10.95 So, the robot should be capable of executing equal tasks p
-laying for each alliance. The major inconvenience
- []
-
-) (./3Engineering/3Concept_discussing/Concept_discussing_H.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-[15]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 8--29
- [] 
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 38--53
- [] 
- []
-
-(./3Engineering/3Concept_discussing/concept_days/24.09.2015/24.09.2015.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
-
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 10--29
- [] 
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
-
- []
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 56.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-56.
-(pdftex.def)             Requested size: 514.75555pt x 335.18887pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 56--56
-[][] 
- []
-
-[17])
-(./3Engineering/3Concept_discussing/concept_days/26.09.2015/26.09.2015.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 8--19
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 45.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-45.
-(pdftex.def)             Requested size: 514.75555pt x 214.6512pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 45--45
-[][] 
- []
-
-[18])
-(./3Engineering/3Concept_discussing/concept_days/30.09.2015/30.09.2015.tex
-Underfull \hbox (badness 5893) in paragraph at lines 12--12
-[]\T2A/cmr/m/n/10.95 To elaborate mechanism for
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 8--15
- [] 
- []
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 41.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-41.
-(pdftex.def)             Requested size: 514.75555pt x 294.94627pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 41--41
-[][] 
- []
-
-[19])
-(./3Engineering/3Concept_discussing/concept_days/02.10.2015/02.10.2015.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-[20]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 116.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-116.
-(pdftex.def)             Requested size: 514.75555pt x 283.38612pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 116--116
-[][] 
- []
-
-[21])) (./3Engineering/5Team_meetings/Team_meetings_H.tex
-Overfull \hbox (3.42299pt too wide) in paragraph at lines 2--4
-\T2A/cmr/m/n/10.95 modules and program in sections "specifications for modules"
-and "specifications for programs"correspondingly. 
- []
-
-(./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/2016.01.21.tex
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg, id=113,
- 648.4225pt x 1010.77625pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-1/images/01.jpg used on input line 9.
-(pdftex.def)             Requested size: 129.68219pt x 202.15166pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg, id=114,
- 1060.96375pt x 738.76pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-1/images/02.jpg used on input line 15.
-(pdftex.def)             Requested size: 212.18898pt x 147.74937pt.
-
-Overfull \hbox (6.30798pt too wide) in paragraph at lines 15--16
- [] 
- []
-
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg, id=115,
- 648.4225pt x 1084.05pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-1/images/03.jpg used on input line 21.
-(pdftex.def)             Requested size: 129.68219pt x 216.80615pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg, id=116,
- 462.72874pt x 820.06375pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-1/images/04.jpg used on input line 33.
-(pdftex.def)             Requested size: 92.5441pt x 164.00984pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg, id=117,
- 1084.05pt x 648.4225pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-1/images/05.jpg used on input line 39.
-(pdftex.def)             Requested size: 238.49173pt x 142.65338pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg> 
-<./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg> <./3E
-ngineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg, id=121,
- 648.4225pt x 941.5175pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-1/images/06.jpg used on input line 49.
-(pdftex.def)             Requested size: 129.68219pt x 188.30016pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.01.23/2016.01.23.tex
-[23 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg> <
-./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg> <./3En
-gineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg>])
-(./3Engineering/5Team_meetings/days_of_meetings/2016.01.25/2016.01.25.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-[]\T2A/cmr/m/n/10.95 Make slower accelerations in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-[]\T2A/cmr/m/n/10.95 Make the brushes be
- []
-
-
-Underfull \hbox (badness 3364) in paragraph at lines 21--21
-[]\T2A/cmr/m/n/10.95 Check the possibility of using
- []
-
-
-Underfull \hbox (badness 3000) in paragraph at lines 30--30
-[]\T2A/cmr/m/n/10.95 Make mechanism indifferent to
- []
-
-) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.26/2016.01.26.tex
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg, id=125,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-6/images/01.jpg used on input line 8.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (15.04095pt too wide) in paragraph at lines 8--9
- [] 
- []
-
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg, id=126,
- 900.36375pt x 568.1225pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-6/images/02.jpg used on input line 14.
-(pdftex.def)             Requested size: 225.09038pt x 142.03027pt.
-
-[24]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg, id=130,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-6/images/03.jpg used on input line 28.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (15.04095pt too wide) in paragraph at lines 28--29
- [] 
- []
-
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg, id=131,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-6/images/04.jpg used on input line 34.
-(pdftex.def)             Requested size: 282.65688pt x 168.93164pt.
-
-Overfull \hbox (40.74239pt too wide) in paragraph at lines 34--35
- [] 
- []
-
-) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.27/2016.01.27.tex
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg, id=132,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-7/images/01.jpg used on input line 8.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg, id=133,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-7/images/02.jpg used on input line 14.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (66.51512pt too wide) in paragraph at lines 14--15
- [] 
- []
-
-) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.28/2016.01.28.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg> 
-<./3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg> <./3E
-ngineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg> <./3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg, id=138,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-8/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
- [] 
- []
-
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg, id=139,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
-8/images/02.jpg used on input line 16.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
- [] 
- []
-
-) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/2016.01.30.tex
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg, id=140,
- 866.23625pt x 733.74126pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 147.25821pt x 124.73436pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg, id=141,
- 1001.7425pt x 515.9275pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/02.jpg used on input line 16.
-(pdftex.def)             Requested size: 200.34494pt x 103.18367pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg, id=142,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/03.jpg used on input line 22.
-(pdftex.def)             Requested size: 218.4131pt x 130.53595pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg, id=143,
- 1089.06876pt x 540.0175pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/04.jpg used on input line 28.
-(pdftex.def)             Requested size: 261.38184pt x 129.60684pt.
-
-Overfull \hbox (19.46735pt too wide) in paragraph at lines 28--29
- [] 
- []
-
-[26 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg> <
-./3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg> <./3En
-gineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg> <./3Enginee
-ring/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg, id=147,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/05.jpg used on input line 38.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (15.04095pt too wide) in paragraph at lines 38--39
- [] 
- []
-
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg, id=148,
- 1284.8pt x 767.86874pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/06.jpg used on input line 44.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-Overfull \hbox (15.04095pt too wide) in paragraph at lines 44--45
- [] 
- []
-
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg, id=149,
- 3276.24pt x 2457.18pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/07.jpg used on input line 54.
-(pdftex.def)             Requested size: 196.56592pt x 147.42444pt.
-
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg, id=150,
- 2429.075pt x 2914.89pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
-0/images/08.jpg used on input line 60.
-(pdftex.def)             Requested size: 145.7382pt x 174.88585pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg> 
-<./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg> <./3E
-ngineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg> <./3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg> <./3Engineering
-/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg> <./3Engineering/5Tea
-m_meetings/days_of_meetings/2016.01.30/images/06.jpg>]
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.03/2016.02.03.tex
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg, id=154,
- 1027.84pt x 415.5525pt>
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 8.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.04/2016.02.04.tex
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \\\\
-        \\\\\\\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \\\\\\
-          \\\\\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \\\\\\\\
-            \\\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \\\\\\\\\\
-              \\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \\\\\\\\\\\\
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 
-    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 8.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.05/2016.02.05.tex
-[28 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg> <
-./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg> <./3En
-gineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.08/2016.02.08.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.09/2016.02.09.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.10/2016.02.10.tex
-[29]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.11/2016.02.11.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.12/2016.02.12.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.13/2016.02.13.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.15/2016.02.15.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.16/2016.02.16.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.17/2016.02.17.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.19/2016.02.19.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.20/2016.02.20.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.21/2016.02.21.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.25/2016.02.25.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.27/2016.02.27.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.02.29/2016.02.29.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.01/2016.03.01.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.02/2016.03.02.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.03/2016.03.03.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.04/2016.03.04.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.08/2016.03.08.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.10/2016.03.10.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.14/2016.03.14.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.16/2016.03.16.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [39]
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-(./3Engineering/5Team_meetings/days_of_meetings/2016.03.19/2016.03.19.tex
-File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg Gra
-phic file (type jpg)
-
-<use 3Engineering/5Team_meetings/days_of_meetings/2016.01.04/images/01.jpg>
-Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.0
-4/images/01.jpg used on input line 10.
-(pdftex.def)             Requested size: 308.35437pt x 124.6667pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 97.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-97.
-(pdftex.def)             Requested size: 514.75555pt x 505.2022pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 97--97
-[][] 
- []
-
-[41])
-(./3Engineering/6Specifications_for_modules/Specifications_for_modules_H.tex
-(./3Engineering/6Specifications_for_modules/wheelbase/wheelbase_H.tex
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 27.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-27.
-(pdftex.def)             Requested size: 514.75555pt x 75.69986pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 27--27
-[][] 
- []
-
-[42]) (./3Engineering/6Specifications_for_modules/gripper/gripper_H.tex
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/gripper/images/01
-' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 ...cifications_for_modules/gripper/images/01}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-<3Engineering/6Specifications_for_modules/gripper/images/02.jpg, id=203, 1284.8
-pt x 767.86874pt>
-File: 3Engineering/6Specifications_for_modules/gripper/images/02.jpg Graphic fi
-le (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/gripper/images/02.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/gripper/image
-s/02.jpg used on input line 23.
-(pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
-
-<3Engineering/6Specifications_for_modules/gripper/images/03.jpg, id=204, 778.91
-pt x 1051.93pt>
-File: 3Engineering/6Specifications_for_modules/gripper/images/03.jpg Graphic fi
-le (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/gripper/images/03.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/gripper/image
-s/03.jpg used on input line 33.
-(pdftex.def)             Requested size: 155.77924pt x 210.38226pt.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/gripper/images/04
-' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 ...cifications_for_modules/gripper/images/04}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-) [43 <./3Engineering/6Specifications_for_modules/gripper/images/02.jpg> <./3En
-gineering/6Specifications_for_modules/gripper/images/03.jpg>]
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 55.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-55.
-(pdftex.def)             Requested size: 514.75555pt x 516.57881pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 55--55
-[][] 
- []
-
-[44]) (./3Engineering/6Specifications_for_modules/elevator/elevator_H.tex
-[45]
-<3Engineering/6Specifications_for_modules/elevator/images/01.png, id=215, 388.4
-5125pt x 572.1375pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/01.png Graphic f
-ile (type png)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/01.png>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/01.png used on input line 53.
-(pdftex.def)             Requested size: 116.53627pt x 171.64256pt.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/0
-4' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.59 ...ifications_for_modules/elevator/images/04}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/0
-2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.67 ...ifications_for_modules/elevator/images/02}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/0
-3' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.73 ...ifications_for_modules/elevator/images/03}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[46 <./3Engineering/6Specifications_for_modules/elevator/images/01.png>]
-<3Engineering/6Specifications_for_modules/elevator/images/05.jpg, id=221, 363.3
-575pt x 476.78125pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/05.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/05.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/05.jpg used on input line 100.
-(pdftex.def)             Requested size: 145.34041pt x 190.7091pt.
-
-<3Engineering/6Specifications_for_modules/elevator/images/06.jpg, id=222, 606.2
-65pt x 362.35374pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/06.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/06.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/06.jpg used on input line 106.
-(pdftex.def)             Requested size: 242.5017pt x 144.93892pt.
-
-Overfull \hbox (0.5872pt too wide) in paragraph at lines 106--107
- [] 
- []
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/1
-0' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.129 ...fications_for_modules/elevator/images/10}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/1
-1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.135 ...fications_for_modules/elevator/images/11}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[47 <./3Engineering/6Specifications_for_modules/elevator/images/05.jpg> <./3Eng
-ineering/6Specifications_for_modules/elevator/images/06.jpg>]
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/1
-2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.149 ...fications_for_modules/elevator/images/12}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/1
-3' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.174 ...fications_for_modules/elevator/images/13}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/0
-9' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 ...fications_for_modules/elevator/images/09}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/1
-5' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.200 ...fications_for_modules/elevator/images/15}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3Engineering/6Specifications_for_modules/elevator/images/1
-6' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.206 ...fications_for_modules/elevator/images/16}
-                                                  }
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[48]
-<3Engineering/6Specifications_for_modules/elevator/images/07.jpg, id=229, 616.3
-025pt x 856.19875pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/07.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/07.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/07.jpg used on input line 222.
-(pdftex.def)             Requested size: 123.25832pt x 171.23671pt.
-
-<3Engineering/6Specifications_for_modules/elevator/images/08.jpg, id=230, 1089.
-06876pt x 540.0175pt>
-File: 3Engineering/6Specifications_for_modules/elevator/images/08.jpg Graphic f
-ile (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/elevator/images/08.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
-es/08.jpg used on input line 228.
-(pdftex.def)             Requested size: 217.80989pt x 108.00157pt.
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 236.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-236.
-(pdftex.def)             Requested size: 514.75555pt x 387.47015pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 236--236
-[][] 
- []
-
-[49 <./3Engineering/6Specifications_for_modules/elevator/images/07.jpg> <./3Eng
-ineering/6Specifications_for_modules/elevator/images/08.jpg>])
-(./3Engineering/6Specifications_for_modules/bucket/TechDocBucketComplex.tex
-<3Engineering/6Specifications_for_modules/bucket/images/01.png, id=236, 709.902
-19pt x 297.36093pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/01.png Graphic fil
-e (type png)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/01.png>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/01.png used on input line 27.
-(pdftex.def)             Requested size: 283.95584pt x 118.94226pt.
-
-
-LaTeX Warning: Command \CYRA invalid in math mode on input line 32.
-
-
-LaTeX Warning: Command \CYRE invalid in math mode on input line 32.
-
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-
-<3Engineering/6Specifications_for_modules/bucket/images/02.jpg, id=237, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/02.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/02.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/02.jpg used on input line 36.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
- [50 <./3Engineering/6Specifications_for_modules/bucket/images/01.png>]
-<3Engineering/6Specifications_for_modules/bucket/images/03.jpg, id=242, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/03.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/03.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/03.jpg used on input line 47.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/04.jpg, id=243, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/04.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/04.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/04.jpg used on input line 52.
-(pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/05.jpg, id=244, 2457.18
-pt x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/05.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/05.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/05.jpg used on input line 57.
-(pdftex.def)             Requested size: 98.27046pt x 131.02728pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/06.jpg, id=245, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/06.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/06.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/06.jpg used on input line 66.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/07.jpg, id=246, 2457.18
-pt x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/07.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/07.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/07.jpg used on input line 71.
-(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
- [51 <./3Engineering/6Specifications_for_modules/bucket/images/02.jpg> <./3Engi
-neering/6Specifications_for_modules/bucket/images/03.jpg> <./3Engineering/6Spec
-ifications_for_modules/bucket/images/04.jpg> <./3Engineering/6Specifications_fo
-r_modules/bucket/images/05.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/08.jpg, id=250, 2457.18
-pt x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/08.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/08.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/08.jpg used on input line 80.
-(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
- [52 <./3Engineering/6Specifications_for_modules/bucket/images/06.jpg> <./3Engi
-neering/6Specifications_for_modules/bucket/images/07.jpg> <./3Engineering/6Spec
-ifications_for_modules/bucket/images/08.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/09.jpg, id=254, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/09.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/09.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/09.jpg used on input line 95.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/10.jpg, id=255, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/10.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/10.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/10.jpg used on input line 99.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/11.jpg, id=256, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/11.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/11.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/11.jpg used on input line 110.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/12.jpg, id=257, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/12.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/12.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/12.jpg used on input line 114.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/13.jpg, id=258, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/13.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/13.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/13.jpg used on input line 130.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/14.jpg, id=259, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/14.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/14.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/14.jpg used on input line 134.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
- [53 <./3Engineering/6Specifications_for_modules/bucket/images/09.jpg> <./3Engi
-neering/6Specifications_for_modules/bucket/images/10.jpg> <./3Engineering/6Spec
-ifications_for_modules/bucket/images/11.jpg> <./3Engineering/6Specifications_fo
-r_modules/bucket/images/12.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/15.jpg, id=263, 3276.24
-pt x 2457.18pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/15.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/15.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/15.jpg used on input line 143.
-(pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
-
-<3Engineering/6Specifications_for_modules/bucket/images/16.jpg, id=264, 2457.18
-pt x 3276.24pt>
-File: 3Engineering/6Specifications_for_modules/bucket/images/16.jpg Graphic fil
-e (type jpg)
-
-<use 3Engineering/6Specifications_for_modules/bucket/images/16.jpg>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
-/16.jpg used on input line 147.
-(pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 155.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-155.
-(pdftex.def)             Requested size: 514.75555pt x 242.60927pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 155--155
-[][] 
- []
-
-[54 <./3Engineering/6Specifications_for_modules/bucket/images/13.jpg> <./3Engin
-eering/6Specifications_for_modules/bucket/images/14.jpg> <./3Engineering/6Speci
-fications_for_modules/bucket/images/15.jpg> <./3Engineering/6Specifications_for
-_modules/bucket/images/16.jpg>])
-(./3Engineering/6Specifications_for_modules/alpinists/alpinists_H.tex
-<3Engineering/6Specifications_for_modules/alpinists/images/01.png, id=268, 709.
-90219pt x 297.36093pt>
-File: 3Engineering/6Specifications_for_modules/alpinists/images/01.png Graphic 
-file (type png)
-
-<use 3Engineering/6Specifications_for_modules/alpinists/images/01.png>
-Package pdftex.def Info: 3Engineering/6Specifications_for_modules/alpinists/ima
-ges/01.png used on input line 18.
-(pdftex.def)             Requested size: 354.95023pt x 148.6801pt.
-
-Overfull \hbox (113.03574pt too wide) in paragraph at lines 18--18
- [] 
- []
-
-)
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 34976 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-20 22:39:54
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
-d-to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 10.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-10.
-(pdftex.def)             Requested size: 514.75555pt x 126.28006pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 10--10
-[][] 
- []
-
-[55 <./3E

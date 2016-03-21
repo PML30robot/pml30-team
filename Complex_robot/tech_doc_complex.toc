@@ -1,0 +1,4 @@
+\select@language {english}
+\contentsline {subsection}{\numberline {0.1}Team meetings (10.11 - 03.12)}{2}
+\contentsline {subsection}{\numberline {0.2}Specifications for modules}{3}
+\contentsline {subsubsection}{\numberline {0.2.1}Bucket}{3}
