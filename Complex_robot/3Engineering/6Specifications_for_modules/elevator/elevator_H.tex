@@ -40,40 +40,40 @@
   	
   \end{enumerate*}
 
-  \item According to the technical plan our team created beforehand, the lifting mechanism was to consist of several construction beams connected to each other with special parts. To create these parts, we first thought through the concept and 3d-modeled them in Creo Parameteric 3.0. These parts are something akin to a brace and will stabilize one beam in relation to another. There are two types of braces: for the central gaps, and side gaps of the beams. Let us consider the simplest way to connect the two beams with these braces. Beam A will be fixed in place to the base of the robot, and beam B will be fixed relative to beam A. Then we can can connect the first three braces to the top of beam A and the second three braces to the bottom of beam B, allowing for maximum freedom of movement for one of the beams against the other. For greater stability we use two groups of three on each end of the beams. The models of braces were created in Creo Parametric. Then there was created an assembly of the lifting mechanism (figure \ref{Elevator600}, \ref{Elevator700}).
+  \item According to the technical plan our team created beforehand, the lifting mechanism was to consist of several construction beams connected to each other with special parts. To create these parts, we first thought through the concept and 3d-modeled them in Creo Parameteric 3.0. These parts are something akin to a brace and will stabilize one beam in relation to another. There are two types of braces: for the central gaps, and side gaps of the beams. Let us consider the simplest way to connect the two beams with these braces. Beam A will be fixed in place to the base of the robot, and beam B will be fixed relative to beam A. Then we can can connect the first three braces to the top of beam A and the second three braces to the bottom of beam B, allowing for maximum freedom of movement for one of the beams against the other. For greater stability we use two groups of three on each end of the beams. The models of braces were created in Creo Parametric. Then there was created an assembly of the lifting mechanism (figure \ref{Elevator600}). %, \ref{Elevator700}).
   
-  We must find such a height and length of the lifting mechanism that there would be an angle of tilt that would allow the robot to throw debris into the highest and middle bucket goals from the low zone, and grab the pull-up bar from the middle zone. To find required parameters of lifting mechanism, there were held some calculations in GeoGebga (figure \ref{Elevator900}).
+  We must find such a height and length of the lifting mechanism that there would be an angle of tilt that would allow the robot to throw debris into the highest and middle bucket goals from the low zone, and grab the pull-up bar from the middle zone. To find required parameters of lifting mechanism, there were held some calculations in GeoGebga. %(figure \ref{Elevator900}).
   
   The length of the elevator needed to reach the top goal an the pull-up bar was 105 cm. Knowing that the individual beams are 350mm long, we calculated that in order to reach this height, we need four beams.  
   
-  Lifting four beams requires a block system - e.g. we need to add blocks with twine that, when reeled in, would lift the system. It was decided to use the system of blocks when one cable is used to extract all the segments at one guide (figure \ref{Elevator800}).
+  Lifting four beams requires a block system - e.g. we need to add blocks with twine that, when reeled in, would lift the system. It was decided to use the system of blocks when one cable is used to extract all the segments at one guide. %(figure \ref{Elevator800}).
   
   \begin{figure}[H]
-  	\begin{minipage}[h]{0.47\linewidth}
+  	\begin{minipage}[h]{1\linewidth}
   		\center{\includegraphics[scale=0.3]{3Engineering/6Specifications_for_modules/elevator/images/01}}
   		\caption{Model of construction profiles connected by braces}
   		\label{Elevator600}
   	\end{minipage}
-  	\hfill
-  	\begin{minipage}[h]{0.47\linewidth}
-  		\center{\includegraphics[scale=0.3]{3Engineering/6Specifications_for_modules/elevator/images/04}}
-  		\caption{Braces}
-  		\label{Elevator700}
-  	\end{minipage}
-  \end{figure}
-  
-  \begin{figure}[H]
-  	\begin{minipage}[h]{0.6\linewidth}
-  		\center{\includegraphics[scale=0.23]{3Engineering/6Specifications_for_modules/elevator/images/02}}
-  		\caption{Drawing in GeoGebra}
-  		\label{Elevator900}
-  	\end{minipage}
-  	\hfill
-  	\begin{minipage}[h]{0.3\linewidth}
-  		\center{\includegraphics[scale=0.5]{3Engineering/6Specifications_for_modules/elevator/images/03}}
-  		\caption{The principle of holding cables}
-  		\label{Elevator800}
-  	\end{minipage}
+  %	\hfill
+  %	\begin{minipage}[h]{0.47\linewidth}
+  %		\center{\includegraphics[scale=0.3]{3Engineering/6Specifications_for_modules/elevator/images/04}}
+  %		\caption{Braces}
+  %		\label{Elevator700}
+  %	\end{minipage}
+  %\end{figure}
+  %
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{0.6\linewidth}
+  %		\center{\includegraphics[scale=0.23]{3Engineering/6Specifications_for_modules/elevator/images/02}}
+  %		\caption{Drawing in GeoGebra}
+  %		\label{Elevator900}
+  %	\end{minipage}
+  %	\hfill
+  %	\begin{minipage}[h]{0.3\linewidth}
+  %		\center{\includegraphics[scale=0.5]{3Engineering/6Specifications_for_modules/elevator/images/03}}
+  %		\caption{The principle of holding cables}
+  %		\label{Elevator800}
+  %	\end{minipage}
   \end{figure}
 
   \item At the 25$^\text{th}$ October it was decided to reconsider the concept of the module.
@@ -91,23 +91,24 @@
 
   \item In the following week, there was assembled a lifting mechanism. The angle of incline of the guides was $22,5^\circ$. This angle was made using standard holes (without drilling new ones) in TETRIX beams, so the assembly was accurate.
 
-  Each guide was made of 3 furniture slats and surfaces for mounting blocks made of aluminium profiles. Blocks were mounted to these surfaces (figure \ref{Elevator1000}).
+  Each guide was made of 3 furniture slats and surfaces for mounting blocks made of aluminium profiles. Blocks were mounted to these surfaces. %(figure \ref{Elevator1000}).
 
-  Next, there was assembled a winch (figure \ref{Elevator1100}). It was powered by 3 standard TETRIX DC motors. 4 coils were mounted to one axis. The gear ratio on motors was $1:1$ and the diameter of coils was 4 cm, which was enough to pull the robot up: $frac{20 \cdot 3}{2} = 30$ kg (we assume that the robot weighs 10 kg, which is 3 times less).
+  Next, there was assembled a winch. %(figure \ref{Elevator1100}). 
+  It was powered by 3 standard TETRIX DC motors. 4 coils were mounted to one axis. The gear ratio on motors was $1:1$ and the diameter of coils was 4 cm, which was enough to pull the robot up: $frac{20 \cdot 3}{2} = 30$ kg (we assume that the robot weighs 10 kg, which is 3 times less).
   
-  \begin{figure}[H]
-  	\begin{minipage}[h]{0.47\linewidth}
-  		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/05}}
-  		\caption{Elevator}
-  		\label{Elevator1000}
-  	\end{minipage}
-  	\hfill
-  	\begin{minipage}[h]{0.47\linewidth}
-  		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/06}}
-  		\caption{Winch}
-  		\label{Elevator1100}
-  	\end{minipage}
-  \end{figure}
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{0.47\linewidth}
+  %		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/05}}
+  %		\caption{Elevator}
+  %		\label{Elevator1000}
+  %	\end{minipage}
+  %	\hfill
+  %	\begin{minipage}[h]{0.47\linewidth}
+  %		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/06}}
+  %		\caption{Winch}
+  %		\label{Elevator1100}
+  %	\end{minipage}
+  %\end{figure}
 
   \item At the 8$^\text{th}$ December there were discussed the results of the competition that took place on 4-5$^\text{th}$ December.
   \begin{enumerate*}
@@ -122,35 +123,35 @@
   	
   \end{enumerate*}
 
-  \item Then, the guides were moved down and the mount for winch was installed to it's new place (figure \ref{Elevator1001}, \ref{Elevator1002}).
+  \item Then, the guides were moved down and the mount for winch was installed to it's new place. %(figure \ref{Elevator1001}, \ref{Elevator1002}).
   
-  \begin{figure}[H]
-  	\begin{minipage}[h]{0.47\linewidth}
-  		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/10}}
-  		\caption{Elevator}
-  		\label{Elevator1001}
-  	\end{minipage}
-  	\hfill
-  	\begin{minipage}[h]{0.47\linewidth}
-  		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/11}}
-  		\caption{Winch}
-  		\label{Elevator1002}
-  	\end{minipage}
-  \end{figure}
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{0.47\linewidth}
+  %		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/10}}
+  %		\caption{Elevator}
+  %		\label{Elevator1001}
+  %	\end{minipage}
+  %	\hfill
+  %	\begin{minipage}[h]{0.47\linewidth}
+  %		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/11}}
+  %		\caption{Winch}
+  %		\label{Elevator1002}
+  %	\end{minipage}
+  %\end{figure}
 
   \item To discover, what gear ratio is needed on the elevator, there was measured the force, needed to extract the elevator at the ramp. It amounted to 4-5 kg at the each side, which gave us a total of 10 kg.
 
   It was decided to use caterpillar wheels as coils. The diameter of coils was 5 cm. The optimal solution was to power coils with 2 standard TETRIX DC motors (torque $20 kg \cdot cm$, 2 rounds per second) with gear ratio 1:1. It provided safety coefficient over 1,5: $frac{20 kg \cdot cm \cdot 2}{10 kg \cdot 2,5 cm} = 1.6$. The speed of extracting was $2 rounds / sec \cdot 5 cm \cdot \pi \approx 31,5 cm / sec$, which provided extracting of the elevator to the full in 3,5 seconds.
 
-  \item The winch was installed onto the mount. There also were installed blocks for leading ropes from the elevator to the coils. The mechanism was tested and it was found out that gears were slipping because of not perfect toothing between them. So, it was decided to install a chain transmission instead of gear one (figure \ref{Elevator1003}).
+  \item The winch was installed onto the mount. There also were installed blocks for leading ropes from the elevator to the coils. The mechanism was tested and it was found out that gears were slipping because of not perfect toothing between them. So, it was decided to install a chain transmission instead of gear one. %(figure \ref{Elevator1003}).
   
-  \begin{figure}[H]
-  	\begin{minipage}[h]{1\linewidth}
-  		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/12}}
-  		\caption{Winch with chain}
-  		\label{Elevator1003}
-  	\end{minipage}
-  \end{figure}
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{1\linewidth}
+  %		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/12}}
+  %		\caption{Winch with chain}
+  %		\label{Elevator1003}
+  %	\end{minipage}
+  %\end{figure}
 
   \item The elevator was tested in the position, when the robot was standing on the horizontal surface. It was able to entirely extract the elevator in 4.5 seconds, which was a bit more than pre-calculated time of extracting.
 
@@ -167,47 +168,49 @@
 
   \item After that, the elevator was tested in the position, when the robot was standing on the low zone of the mountain. It was found out, that the power of two TETRIX DC motors is not enough to extract the elevator to the full.
 
-  To solve this problem, it was decided to increase the power of the winch. There were installed 3 NeveRest AndyMark motors instead of 2 standard TETRIX ones (figure \ref{Elevator1004}). It increased torque 2 times (3 AndyMarks give torque of $3 \cdot 25 = 75kg \cdot cm$, while 2 standard - only $2 \cdot 20 = 40kg \cdot cm$).
+  To solve this problem, it was decided to increase the power of the winch. There were installed 3 NeveRest AndyMark motors instead of 2 standard TETRIX ones. % (figure \ref{Elevator1004}). 
+  It increased torque 2 times (3 AndyMarks give torque of $3 \cdot 25 = 75kg \cdot cm$, while 2 standard - only $2 \cdot 20 = 40kg \cdot cm$).
   
-  \begin{figure}[H]
-  	\begin{minipage}[h]{1\linewidth}
-  		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/13}}
-  		\caption{Winch with 3 motors}
-  		\label{Elevator1004}
-  	\end{minipage}
-  \end{figure}
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{1\linewidth}
+  %		\center{\includegraphics[scale=0.4]{3Engineering/6Specifications_for_modules/elevator/images/13}}
+  %		\caption{Winch with 3 motors}
+  %		\label{Elevator1004}
+  %	\end{minipage}
+  %\end{figure}
 
   However, it didn't take effect. The power still was not enough to extract the last segment of the lifting mechanism. The principle of extracting the segments of the guides was such that they are extracted one-by-one. So, if there was no friction, the top segment would be extracted before others.
 
   In fact, the second section (with respect to the bottom) required more power for extraction than the first one and the third section required more power than the second, so the consequence of the extraction was the opposite: the bottom section was going first. According to this, it was concluded, that in the current system there is too much friction.
 
-  To solve the problem, it was decided to hold the cables in another way (figure \ref{Elevator500}).
+  To solve the problem, it was decided to hold the cables in another way %(figure \ref{Elevator500}).
 
-  \begin{figure}[H]
-  	\begin{minipage}[h]{1\linewidth}
-  		\center{\includegraphics[scale=0.5]{3Engineering/6Specifications_for_modules/elevator/images/09}}
-  		\caption{New way of holding cables}
-  		\label{Elevator500}
-  	\end{minipage}
-  \end{figure}
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{1\linewidth}
+  %		\center{\includegraphics[scale=0.5]{3Engineering/6Specifications_for_modules/elevator/images/09}}
+  %		\caption{New way of holding cables}
+  %		\label{Elevator500}
+  %	\end{minipage}
+  %\end{figure}
 
   %The new construction required 3 blocks instead of 5 at a side and the cable from the winch went only through one of them. However, this construction required three times higher torque and three times less length of the cable to reel for extracting. So, the diameter of the coils should be changed correspondingly.
 
-  \item The system of blocks and cables at the lifting mechanism was changed (figure \ref{Elevator1200}). The coils were also recreated (figure \ref{Elevator1300}).
+  \item The system of blocks and cables at the lifting mechanism was changed. %(figure \ref{Elevator1200}). 
+  The coils were also recreated. %(figure \ref{Elevator1300}).
   
-  \begin{figure}[H]
-  	\begin{minipage}[h]{0.53\linewidth}
-  		\center{\includegraphics[scale=0.2]{3Engineering/6Specifications_for_modules/elevator/images/15}}
-  		\caption{Elevator with new cables}
-  		\label{Elevator1200}
-  	\end{minipage}
-  	\hfill
-  	\begin{minipage}[h]{0.3\linewidth}
-  		\center{\includegraphics[scale=0.2]{3Engineering/6Specifications_for_modules/elevator/images/16}}
-  		\caption{Winch}
-  		\label{Elevator1300}
-  	\end{minipage}
-  \end{figure}
+  %\begin{figure}[H]
+  %	\begin{minipage}[h]{0.53\linewidth}
+  %		\center{\includegraphics[scale=0.2]{3Engineering/6Specifications_for_modules/elevator/images/15}}
+  %		\caption{Elevator with new cables}
+  %		\label{Elevator1200}
+  %	\end{minipage}
+  %	\hfill
+  %	\begin{minipage}[h]{0.3\linewidth}
+  %		\center{\includegraphics[scale=0.2]{3Engineering/6Specifications_for_modules/elevator/images/16}}
+  %		\caption{Winch}
+  %		\label{Elevator1300}
+  %	\end{minipage}
+  %\end{figure}
 
   \item The elevator was tested when the robot stood on the mountain. That time it was possible to extract the elevator to the maximal height. However, the ribs that connected pairs of rails together obstructed the movement of the segments.
 

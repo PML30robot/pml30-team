@@ -1,37 +1,70 @@
-\select@language {russian}
-\contentsline {subsection}{\numberline {0.1}Team meetings (10.11 - 03.12)}{3}
-\contentsline {subsubsection}{\numberline {0.1.1}21.01.2016}{3}
-\contentsline {subsubsection}{\numberline {0.1.2}23.01.2016 (Competition)}{4}
-\contentsline {subsubsection}{\numberline {0.1.3}25.01.2016 (Discussion)}{5}
-\contentsline {subsubsection}{\numberline {0.1.4}26.01.2016}{5}
-\contentsline {subsubsection}{\numberline {0.1.5}27.01.2016}{6}
-\contentsline {subsubsection}{\numberline {0.1.6}28.01.2016}{7}
-\contentsline {subsubsection}{\numberline {0.1.7}30.01.2016}{7}
-\contentsline {subsubsection}{\numberline {0.1.8}03.02.2016}{9}
-\contentsline {subsubsection}{\numberline {0.1.9}04.02.2016}{10}
-\contentsline {subsubsection}{\numberline {0.1.10}05.02.2016}{10}
-\contentsline {subsubsection}{\numberline {0.1.11}08.02.2016 }{11}
-\contentsline {subsubsection}{\numberline {0.1.12}09.02.2016}{12}
-\contentsline {subsubsection}{\numberline {0.1.13}10.02.2016}{12}
-\contentsline {subsubsection}{\numberline {0.1.14}12.02.2016}{13}
-\contentsline {subsubsection}{\numberline {0.1.15}13.02.2016}{13}
-\contentsline {subsubsection}{\numberline {0.1.16}15.02.2016}{14}
-\contentsline {subsubsection}{\numberline {0.1.17}16.02.2016}{14}
-\contentsline {subsubsection}{\numberline {0.1.18}17.02.2016}{14}
-\contentsline {subsubsection}{\numberline {0.1.19}19.02.2016}{15}
-\contentsline {subsubsection}{\numberline {0.1.20}20.02.2016}{16}
-\contentsline {subsubsection}{\numberline {0.1.21}21.02.2016}{17}
-\contentsline {subsubsection}{\numberline {0.1.22}25.02.2016}{17}
-\contentsline {subsubsection}{\numberline {0.1.23}27.02.2016}{19}
-\contentsline {subsubsection}{\numberline {0.1.24}29.02.2016}{20}
-\contentsline {subsubsection}{\numberline {0.1.25}01.03.2016}{20}
-\contentsline {subsubsection}{\numberline {0.1.26}02.03.2016}{21}
-\contentsline {subsubsection}{\numberline {0.1.27}03.03.2016}{22}
-\contentsline {subsubsection}{\numberline {0.1.28}04.03.2016}{22}
-\contentsline {subsubsection}{\numberline {0.1.29}08.03.2016}{22}
-\contentsline {subsubsection}{\numberline {0.1.30}10.03.2016}{23}
-\contentsline {subsubsection}{\numberline {0.1.31}14.03.2016}{23}
-\contentsline {subsubsection}{\numberline {0.1.32}16.03.2016}{23}
-\contentsline {subsubsection}{\numberline {0.1.33}19.03.2016}{24}
-\contentsline {subsection}{\numberline {0.2}Specifications for modules}{26}
-\contentsline {subsubsection}{\numberline {0.2.1}Bucket}{26}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {subsection}{\numberline {1.1}How to read this book}{4}
+\contentsline {subsection}{\numberline {1.2}Team PML 30 --${Y}$}{5}
+\contentsline {subsubsection}{\numberline {1.2.1}Instructors}{6}
+\contentsline {subsubsection}{\numberline {1.2.2}Team members}{8}
+\contentsline {subsection}{\numberline {1.3}Thanks and prospects}{11}
+\contentsline {section}{\numberline {2}Business plan}{12}
+\contentsline {subsection}{\numberline {2.1}Introduction}{12}
+\contentsline {subsection}{\numberline {2.2}Our sponsors and their support}{12}
+\contentsline {subsubsection}{\numberline {2.2.1}Robofinist. Gold sponsor.}{12}
+\contentsline {subsubsection}{\numberline {2.2.2}PTC and Irisoft}{12}
+\contentsline {subsubsection}{\numberline {2.2.3}Physics-Mathematics Lyceum 30}{12}
+\contentsline {subsection}{\numberline {2.3}Our resource and financial situation}{12}
+\contentsline {section}{\numberline {3}Engineering}{14}
+\contentsline {subsection}{\numberline {3.1}Brainstorming (21.09.2015)}{14}
+\contentsline {subsection}{\numberline {3.2}Strategy discussing (22.09.2015)}{17}
+\contentsline {subsection}{\numberline {3.3}Concept discussing (24.09 - 02.10)}{18}
+\contentsline {subsubsection}{\numberline {3.3.1}24.09.15}{18}
+\contentsline {subsubsection}{\numberline {3.3.2}26.09.2015}{20}
+\contentsline {subsubsection}{\numberline {3.3.3}30.09.2015}{21}
+\contentsline {subsubsection}{\numberline {3.3.4}02.10.2015}{22}
+\contentsline {subsection}{\numberline {3.4}Team meetings (10.11 - 03.12)}{24}
+\contentsline {subsubsection}{\numberline {3.4.1}21.01.2016}{24}
+\contentsline {subsubsection}{\numberline {3.4.2}23.01.2016 (Competition)}{25}
+\contentsline {subsubsection}{\numberline {3.4.3}25.01.2016 (Discussion)}{26}
+\contentsline {subsubsection}{\numberline {3.4.4}26.01.2016}{26}
+\contentsline {subsubsection}{\numberline {3.4.5}27.01.2016}{27}
+\contentsline {subsubsection}{\numberline {3.4.6}28.01.2016}{28}
+\contentsline {subsubsection}{\numberline {3.4.7}30.01.2016}{28}
+\contentsline {subsubsection}{\numberline {3.4.8}03.02.2016}{30}
+\contentsline {subsubsection}{\numberline {3.4.9}04.02.2016}{31}
+\contentsline {subsubsection}{\numberline {3.4.10}05.02.2016}{31}
+\contentsline {subsubsection}{\numberline {3.4.11}08.02.2016 }{32}
+\contentsline {subsubsection}{\numberline {3.4.12}09.02.2016}{33}
+\contentsline {subsubsection}{\numberline {3.4.13}10.02.2016}{33}
+\contentsline {subsubsection}{\numberline {3.4.14}12.02.2016}{34}
+\contentsline {subsubsection}{\numberline {3.4.15}13.02.2016}{34}
+\contentsline {subsubsection}{\numberline {3.4.16}15.02.2016}{35}
+\contentsline {subsubsection}{\numberline {3.4.17}16.02.2016}{35}
+\contentsline {subsubsection}{\numberline {3.4.18}17.02.2016}{35}
+\contentsline {subsubsection}{\numberline {3.4.19}19.02.2016}{36}
+\contentsline {subsubsection}{\numberline {3.4.20}20.02.2016}{37}
+\contentsline {subsubsection}{\numberline {3.4.21}21.02.2016}{38}
+\contentsline {subsubsection}{\numberline {3.4.22}25.02.2016}{38}
+\contentsline {subsubsection}{\numberline {3.4.23}27.02.2016}{40}
+\contentsline {subsubsection}{\numberline {3.4.24}29.02.2016}{41}
+\contentsline {subsubsection}{\numberline {3.4.25}01.03.2016}{41}
+\contentsline {subsubsection}{\numberline {3.4.26}02.03.2016}{42}
+\contentsline {subsubsection}{\numberline {3.4.27}03.03.2016}{43}
+\contentsline {subsubsection}{\numberline {3.4.28}04.03.2016}{43}
+\contentsline {subsubsection}{\numberline {3.4.29}08.03.2016}{43}
+\contentsline {subsubsection}{\numberline {3.4.30}10.03.2016}{44}
+\contentsline {subsubsection}{\numberline {3.4.31}14.03.2016}{44}
+\contentsline {subsubsection}{\numberline {3.4.32}16.03.2016}{44}
+\contentsline {subsubsection}{\numberline {3.4.33}19.03.2016}{45}
+\contentsline {subsubsection}{\numberline {3.4.34}22.03.2016}{45}
+\contentsline {subsection}{\numberline {3.5}Specifications for modules}{46}
+\contentsline {subsubsection}{\numberline {3.5.1}Carriage and wheel base}{46}
+\contentsline {subsubsection}{\numberline {3.5.2}Gripper}{47}
+\contentsline {subsubsection}{\numberline {3.5.3}Elevator}{49}
+\contentsline {subsubsection}{\numberline {3.5.4}Bucket}{53}
+\contentsline {subsubsection}{\numberline {3.5.5}Mechanism for scoring alpinists}{59}
+\contentsline {subsection}{\numberline {3.6}Specifications for programmes}{59}
+\contentsline {subsubsection}{\numberline {3.6.1}Driver control program}{60}
+\contentsline {subsection}{\numberline {3.7}Key summary}{65}
+\contentsline {section}{\numberline {4}Appendix}{67}
+\contentsline {subsection}{\numberline {4.1}Supplementary materials which were used in the robot's construction}{67}
+\contentsline {subsection}{\numberline {4.2}Information for judges}{68}
+\contentsline {subsection}{\numberline {4.3}Leaflet for teams}{69}
