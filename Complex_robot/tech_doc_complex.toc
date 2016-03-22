@@ -1,4 +1,37 @@
-\select@language {english}
-\contentsline {subsection}{\numberline {0.1}Team meetings (10.11 - 03.12)}{2}
-\contentsline {subsection}{\numberline {0.2}Specifications for modules}{3}
-\contentsline {subsubsection}{\numberline {0.2.1}Bucket}{3}
+\select@language {russian}
+\contentsline {subsection}{\numberline {0.1}Team meetings (10.11 - 03.12)}{3}
+\contentsline {subsubsection}{\numberline {0.1.1}21.01.2016}{3}
+\contentsline {subsubsection}{\numberline {0.1.2}23.01.2016 (Competition)}{4}
+\contentsline {subsubsection}{\numberline {0.1.3}25.01.2016 (Discussion)}{5}
+\contentsline {subsubsection}{\numberline {0.1.4}26.01.2016}{5}
+\contentsline {subsubsection}{\numberline {0.1.5}27.01.2016}{6}
+\contentsline {subsubsection}{\numberline {0.1.6}28.01.2016}{7}
+\contentsline {subsubsection}{\numberline {0.1.7}30.01.2016}{7}
+\contentsline {subsubsection}{\numberline {0.1.8}03.02.2016}{9}
+\contentsline {subsubsection}{\numberline {0.1.9}04.02.2016}{10}
+\contentsline {subsubsection}{\numberline {0.1.10}05.02.2016}{10}
+\contentsline {subsubsection}{\numberline {0.1.11}08.02.2016 }{11}
+\contentsline {subsubsection}{\numberline {0.1.12}09.02.2016}{12}
+\contentsline {subsubsection}{\numberline {0.1.13}10.02.2016}{12}
+\contentsline {subsubsection}{\numberline {0.1.14}12.02.2016}{13}
+\contentsline {subsubsection}{\numberline {0.1.15}13.02.2016}{13}
+\contentsline {subsubsection}{\numberline {0.1.16}15.02.2016}{14}
+\contentsline {subsubsection}{\numberline {0.1.17}16.02.2016}{14}
+\contentsline {subsubsection}{\numberline {0.1.18}17.02.2016}{14}
+\contentsline {subsubsection}{\numberline {0.1.19}19.02.2016}{15}
+\contentsline {subsubsection}{\numberline {0.1.20}20.02.2016}{16}
+\contentsline {subsubsection}{\numberline {0.1.21}21.02.2016}{17}
+\contentsline {subsubsection}{\numberline {0.1.22}25.02.2016}{17}
+\contentsline {subsubsection}{\numberline {0.1.23}27.02.2016}{19}
+\contentsline {subsubsection}{\numberline {0.1.24}29.02.2016}{20}
+\contentsline {subsubsection}{\numberline {0.1.25}01.03.2016}{20}
+\contentsline {subsubsection}{\numberline {0.1.26}02.03.2016}{21}
+\contentsline {subsubsection}{\numberline {0.1.27}03.03.2016}{22}
+\contentsline {subsubsection}{\numberline {0.1.28}04.03.2016}{22}
+\contentsline {subsubsection}{\numberline {0.1.29}08.03.2016}{22}
+\contentsline {subsubsection}{\numberline {0.1.30}10.03.2016}{23}
+\contentsline {subsubsection}{\numberline {0.1.31}14.03.2016}{23}
+\contentsline {subsubsection}{\numberline {0.1.32}16.03.2016}{23}
+\contentsline {subsubsection}{\numberline {0.1.33}19.03.2016}{24}
+\contentsline {subsection}{\numberline {0.2}Specifications for modules}{26}
+\contentsline {subsubsection}{\numberline {0.2.1}Bucket}{26}
