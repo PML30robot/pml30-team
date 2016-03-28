@@ -10,7 +10,8 @@
 \contentsline {subsection}{\numberline {2.2}Our sponsors and their support}{12}
 \contentsline {subsubsection}{\numberline {2.2.1}Robofinist. Gold sponsor.}{12}
 \contentsline {subsubsection}{\numberline {2.2.2}PTC and Irisoft}{12}
-\contentsline {subsubsection}{\numberline {2.2.3}Physics-Mathematics Lyceum 30}{12}
+\contentsline {subsubsection}{\numberline {2.2.3}Program Robototechnika}{12}
+\contentsline {subsubsection}{\numberline {2.2.4}Physics-Mathematics Lyceum 30}{12}
 \contentsline {subsection}{\numberline {2.3}Our resource and financial situation}{12}
 \contentsline {section}{\numberline {3}Engineering}{14}
 \contentsline {subsection}{\numberline {3.1}Brainstorming (21.09.2015)}{14}
@@ -43,7 +44,7 @@
 \contentsline {subsubsection}{\numberline {3.4.20}20.02.2016}{37}
 \contentsline {subsubsection}{\numberline {3.4.21}21.02.2016}{38}
 \contentsline {subsubsection}{\numberline {3.4.22}25.02.2016}{38}
-\contentsline {subsubsection}{\numberline {3.4.23}27.02.2016}{40}
+\contentsline {subsubsection}{\numberline {3.4.23}27.02.2016}{41}
 \contentsline {subsubsection}{\numberline {3.4.24}29.02.2016}{41}
 \contentsline {subsubsection}{\numberline {3.4.25}01.03.2016}{41}
 \contentsline {subsubsection}{\numberline {3.4.26}02.03.2016}{42}
@@ -59,12 +60,16 @@
 \contentsline {subsubsection}{\numberline {3.5.1}Carriage and wheel base}{46}
 \contentsline {subsubsection}{\numberline {3.5.2}Gripper}{47}
 \contentsline {subsubsection}{\numberline {3.5.3}Elevator}{49}
-\contentsline {subsubsection}{\numberline {3.5.4}Bucket}{53}
-\contentsline {subsubsection}{\numberline {3.5.5}Mechanism for scoring alpinists}{59}
-\contentsline {subsection}{\numberline {3.6}Specifications for programmes}{59}
-\contentsline {subsubsection}{\numberline {3.6.1}Driver control program}{60}
-\contentsline {subsection}{\numberline {3.7}Key summary}{65}
-\contentsline {section}{\numberline {4}Appendix}{67}
-\contentsline {subsection}{\numberline {4.1}Supplementary materials which were used in the robot's construction}{67}
-\contentsline {subsection}{\numberline {4.2}Information for judges}{68}
-\contentsline {subsection}{\numberline {4.3}Leaflet for teams}{69}
+\contentsline {subsubsection}{\numberline {3.5.4}Bucket}{56}
+\contentsline {subsubsection}{\numberline {3.5.5}Mechanism for scoring alpinists}{62}
+\contentsline {subsubsection}{\numberline {3.5.6}Mechanism for pushing button}{62}
+\contentsline {paragraph}{Plan of creating module:}{62}
+\contentsline {paragraph}{Algorithm}{63}
+\contentsline {paragraph}{Programming}{63}
+\contentsline {subsection}{\numberline {3.6}Specifications for programmes}{65}
+\contentsline {subsubsection}{\numberline {3.6.1}Driver control program}{65}
+\contentsline {subsubsection}{\numberline {3.6.2}Autonomus program}{66}
+\contentsline {subsection}{\numberline {3.7}Key summary}{67}
+\contentsline {section}{\numberline {4}Appendix}{69}
+\contentsline {subsection}{\numberline {4.1}Supplementary materials which were used in the robot's construction}{69}
+\contentsline {subsection}{\numberline {4.2}Information for judges}{70}
