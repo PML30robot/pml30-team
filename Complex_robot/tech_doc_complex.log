@@ -1,22 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  29 MAR 2016 00:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.3.1)  17 APR 2016 17:55
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **tech_doc_complex.tex
-("D:\tech book 2015-2016\Complex_robot\tech_doc_complex.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(./tech_doc_complex.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -30,10 +23,10 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count87
@@ -41,31 +34,31 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks15
 \uc@temptokena=\toks16
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -73,43 +66,38 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read1
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfontsize.sty
+(/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen105
 )
@@ -117,10 +105,10 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks22
 \symAMSa=\mathgroup4
@@ -128,24 +116,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks23
 \ex@=\dimen106
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count90
@@ -186,20 +174,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\t2\mathtext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 373.
-Package: cite 2010/09/10  v 5.3
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
-Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
 \@enLab=\toks28
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count102
 \float@exts=\toks29
@@ -207,18 +195,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box29
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count103
@@ -233,9 +221,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen121
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks31
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -246,28 +233,28 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -276,7 +263,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -288,8 +275,14 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-))
-("D:\tech book 2015-2016\Complex_robot\tech_doc_complex.aux")
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(./tech_doc_complex.aux)
+\openout1 = `tech_doc_complex.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
@@ -303,10 +296,10 @@ LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
 \scratchdimen=\dimen123
@@ -354,8 +347,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("D:\tech book 2015-2016\Complex_robot\0Title/Title.tex"
-<0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
+(./0Title/Title.tex <0Title/images/01.jpg, id=1, 257.96375pt x 257.96375pt>
 File: 0Title/images/01.jpg Graphic file (type jpg)
 
 <use 0Title/images/01.jpg>
@@ -363,12 +355,12 @@ Package pdftex.def Info: 0Title/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 116.0826pt x 116.0826pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <0Title/images/02.jpg, id=2, 787.94376pt x 788.9475pt>
@@ -386,7 +378,7 @@ File: 0Title/images/03.jpg Graphic file (type jpg)
 Package pdftex.def Info: 0Title/images/03.jpg used on input line 27.
 (pdftex.def)             Requested size: 111.00192pt x 44.05388pt.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 <0Title/images/04.png, id=4, 169.63374pt x 63.23625pt>
@@ -411,26 +403,23 @@ Package pdftex.def Info: 0Title/images/06.jpg used on input line 30.
 (pdftex.def)             Requested size: 165.62003pt x 94.8551pt.
  [1
 
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/tech book
- 2015-2016/Complex_robot/0Title/images/01.jpg> <D:/tech book 2015-2016/Complex_
-robot/0Title/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/0Title/images
-/03.jpg> <D:/tech book 2015-2016/Complex_robot/0Title/images/04.png> <D:/tech b
-ook 2015-2016/Complex_robot/0Title/images/05.png> <D:/tech book 2015-2016/Compl
-ex_robot/0Title/images/06.jpg>])
-("D:\tech book 2015-2016\Complex_robot\tech_doc_complex.toc"
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./0Title/images/01.jpg> <.
+/0Title/images/02.jpg> <./0Title/images/03.jpg> <./0Title/images/04.png> <./0Ti
+tle/images/05.png> <./0Title/images/06.jpg>])
+(./tech_doc_complex.toc
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-33.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 )
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
-l.49 ...ction}{\numberline {3.4.25}01.03.2016}{41}
+l.49 ...ction}{\numberline {3.3.26}02.03.2016}{41}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -440,6 +429,8 @@ and I'll forget about whatever was undefined.
 
 [2])
 \tf@toc=\write3
+\openout3 = `tech_doc_complex.toc'.
+
 
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
@@ -452,9 +443,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[3]
-("D:\tech book 2015-2016\Complex_robot\1Introduction/4How_to_read/How_to_read_H
-.tex"
+[3] (./1Introduction/4How_to_read/How_to_read_H.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -465,19 +454,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 38.
 Package epstopdf Info: Output file is already uptodate.
 
@@ -504,8 +493,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[4 <D:/tech book 2015-2016/Complex_robot/img/fill_page-eps-converted-to.pdf>])
-("D:\tech book 2015-2016\Complex_robot\1Introduction/2Our_team/Our_team_H.tex"
+[4 <./img/fill_page-eps-converted-to.pdf>])
+(./1Introduction/2Our_team/Our_team_H.tex
 <1Introduction/2Our_team/images/14.jpg, id=37, 602.25pt x 451.6875pt>
 File: 1Introduction/2Our_team/images/14.jpg Graphic file (type jpg)
 
@@ -514,13 +503,13 @@ Package pdftex.def Info: 1Introduction/2Our_team/images/14.jpg used on input li
 ne 17.
 (pdftex.def)             Requested size: 301.12425pt x 225.84319pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 19.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -545,8 +534,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[5 <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/14.jpg>
-] <1Introduction/2Our_team/images/07.jpg, id=41, 868.24374pt x 766.865pt>
+[5 <./1Introduction/2Our_team/images/14.jpg>]
+<1Introduction/2Our_team/images/07.jpg, id=41, 868.24374pt x 766.865pt>
 File: 1Introduction/2Our_team/images/07.jpg Graphic file (type jpg)
 
 <use 1Introduction/2Our_team/images/07.jpg>
@@ -588,8 +577,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[6 <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/07.jpg>
- <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/08.jpg>]
+[6 <./1Introduction/2Our_team/images/07.jpg> <./1Introduction/2Our_team/images/
+08.jpg>]
 <1Introduction/2Our_team/images/06.jpg, id=48, 1719.42375pt x 2295.57625pt>
 File: 1Introduction/2Our_team/images/06.jpg Graphic file (type jpg)
 
@@ -598,13 +587,13 @@ Package pdftex.def Info: 1Introduction/2Our_team/images/06.jpg used on input li
 ne 67.
 (pdftex.def)             Requested size: 189.13719pt x 252.51416pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -625,8 +614,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[7 <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/05.jpg>
- <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/06.jpg>]
+[7 <./1Introduction/2Our_team/images/05.jpg> <./1Introduction/2Our_team/images/
+06.jpg>]
 <1Introduction/2Our_team/images/03.jpg, id=53, 686.0832pt x 1032.9792pt>
 File: 1Introduction/2Our_team/images/03.jpg Graphic file (type jpg)
 
@@ -670,9 +659,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[8 <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/03.jpg>
- <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/10.jpg> <
-D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/01.jpg>]
+[8 <./1Introduction/2Our_team/images/03.jpg> <./1Introduction/2Our_team/images/
+10.jpg> <./1Introduction/2Our_team/images/01.jpg>]
 <1Introduction/2Our_team/images/04.jpg, id=60, 658.46pt x 740.7675pt>
 File: 1Introduction/2Our_team/images/04.jpg Graphic file (type jpg)
 
@@ -708,17 +696,16 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[9 <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/11.jpg>
- <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/04.jpg> <
-D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/02.jpg>]
+[9 <./1Introduction/2Our_team/images/11.jpg> <./1Introduction/2Our_team/images/
+04.jpg> <./1Introduction/2Our_team/images/02.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 170.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -743,10 +730,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[10 <D:/tech book 2015-2016/Complex_robot/1Introduction/2Our_team/images/13.jpg
->])
-("D:\tech book 2015-2016\Complex_robot\1Introduction/3Our_sponsors/Our_sponsors
-_H.tex"
+[10 <./1Introduction/2Our_team/images/13.jpg>])
+(./1Introduction/3Our_sponsors/Our_sponsors_H.tex
 <1Introduction/3Our_sponsors/images/01.jpg, id=69, 169.63374pt x 63.23625pt>
 File: 1Introduction/3Our_sponsors/images/01.jpg Graphic file (type jpg)
 
@@ -798,13 +783,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[11 <D:/tech book 2015-2016/Complex_robot/1Introduction/3Our_sponsors/images/01
-.jpg> <D:/tech book 2015-2016/Complex_robot/1Introduction/3Our_sponsors/images/
-02.jpg> <D:/tech book 2015-2016/Complex_robot/1Introduction/3Our_sponsors/image
-s/03.png> <D:/tech book 2015-2016/Complex_robot/1Introduction/3Our_sponsors/ima
-ges/05.jpg> <D:/tech book 2015-2016/Complex_robot/1Introduction/3Our_sponsors/i
-mages/04.jpg>])
-("D:\tech book 2015-2016\Complex_robot\2Business_plan/Business_plan_H.tex"
+[11 <./1Introduction/3Our_sponsors/images/01.jpg> <./1Introduction/3Our_sponsor
+s/images/02.jpg> <./1Introduction/3Our_sponsors/images/03.png> <./1Introduction
+/3Our_sponsors/images/05.jpg> <./1Introduction/3Our_sponsors/images/04.jpg>])
+(./2Business_plan/Business_plan_H.tex
 
 LaTeX Warning: Command \textdollar invalid in math mode on input line 7.
 
@@ -826,13 +808,13 @@ and I'll forget about whatever was undefined.
 
 [12]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -852,9 +834,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[13])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/1Brainstorming/Brainstormin
-g_H.tex"
+[13]) (./3Engineering/1Brainstorming/Brainstorming_H.tex
 Overfull \hbox (35.99997pt too wide) in paragraph at lines 10--37
  [] 
  []
@@ -898,9 +878,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[15 <D:/tech book 2015-2016/Complex_robot/3Engineering/1Brainstorming/images/01
-.png> <D:/tech book 2015-2016/Complex_robot/3Engineering/1Brainstorming/images/
-02.png>]
+[15 <./3Engineering/1Brainstorming/images/01.png> <./3Engineering/1Brainstormin
+g/images/02.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
@@ -931,47 +910,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[16])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/2Strategy_discussing/Strate
-gy_discussing_H.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
-(epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 46.
-Package epstopdf Info: Output file is already uptodate.
-File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-<use img/fill_page-eps-converted-to.pdf>
-Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-46.
-(pdftex.def)             Requested size: 514.75555pt x 18.83974pt.
-
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 46--46
-[][] 
- []
-
-! Undefined control sequence.
-\u-default-8470 #1->\textnumero 
-                                
-l.46 \fillpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[17])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/3Concept_discussing/Concept
-_discussing_H.tex"
+[16]) (./3Engineering/3Concept_discussing/Concept_discussing_H.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -986,9 +925,7 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 38--53
  [] 
  []
 
-
-("D:\tech book 2015-2016\Complex_robot\3Engineering/3Concept_discussing/concept
-_days/24.09.2015/24.09.2015.tex"
+(./3Engineering/3Concept_discussing/concept_days/24.09.2015/24.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
@@ -1001,34 +938,34 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 10--29
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
-l.36 
-     
+l.35 	\item
+            Wheel base will consists of six standard wheels which rotates wi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[18]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 56.
-(pdftex.def)             Requested size: 514.75555pt x 335.18887pt.
+(pdftex.def)             Requested size: 514.75555pt x 298.98758pt.
 
 Overfull \hbox (17.04518pt too wide) in paragraph at lines 56--56
 [][] 
@@ -1045,9 +982,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[19])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/3Concept_discussing/concept
-_days/26.09.2015/26.09.2015.tex"
+[18])
+(./3Engineering/3Concept_discussing/concept_days/26.09.2015/26.09.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -1063,13 +999,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
  []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -1093,9 +1029,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[20])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/3Concept_discussing/concept
-_days/30.09.2015/30.09.2015.tex"
+[19])
+(./3Engineering/3Concept_discussing/concept_days/30.09.2015/30.09.2015.tex
 Underfull \hbox (badness 5893) in paragraph at lines 12--12
 []\T1/cmr/m/n/10.95 To elab-o-rate mech-a-nism for
  []
@@ -1106,13 +1041,13 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 8--15
  []
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -1136,9 +1071,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[21])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/3Concept_discussing/concept
-_days/02.10.2015/02.10.2015.tex"
+[20])
+(./3Engineering/3Concept_discussing/concept_days/02.10.2015/02.10.2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
@@ -1154,15 +1088,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[22]
+[21]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 116.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -1186,12 +1120,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[23]))
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/Team_meeting
-s_H.tex"
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.21/2016.01.21.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg, id=122,
+[22])) (./3Engineering/5Team_meetings/Team_meetings_H.tex
+(./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/2016.01.21.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg, id=119,
  648.4225pt x 1010.77625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg Gra
 phic file (type jpg)
@@ -1201,7 +1132,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
 1/images/01.jpg used on input line 9.
 (pdftex.def)             Requested size: 129.68219pt x 202.15166pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg, id=123,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg, id=120,
  1060.96375pt x 738.76pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg Gra
 phic file (type jpg)
@@ -1216,7 +1147,7 @@ Overfull \hbox (6.30798pt too wide) in paragraph at lines 15--16
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg, id=124,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg, id=121,
  648.4225pt x 1084.05pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg Gra
 phic file (type jpg)
@@ -1226,7 +1157,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
 1/images/03.jpg used on input line 21.
 (pdftex.def)             Requested size: 129.68219pt x 216.80615pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg, id=125,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg, id=122,
  462.72874pt x 820.06375pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg Gra
 phic file (type jpg)
@@ -1236,7 +1167,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
 1/images/04.jpg used on input line 33.
 (pdftex.def)             Requested size: 92.5441pt x 164.00984pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg, id=126,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg, id=123,
  1084.05pt x 648.4225pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg Gra
 phic file (type jpg)
@@ -1260,12 +1191,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[24 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.01.21/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.21/
-images/03.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg, id=130,
+[23 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.01.21/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg, id=127,
  648.4225pt x 941.5175pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg Gra
 phic file (type jpg)
@@ -1275,8 +1204,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
 1/images/06.jpg used on input line 49.
 (pdftex.def)             Requested size: 129.68219pt x 188.30016pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.23/2016.01.23.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.01.23/2016.01.23.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -1288,13 +1216,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[25 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.01.21/images/04.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.21/
-images/06.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.25/2016.01.25.tex"
+[24 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/04.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.01.21/images/05.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.01.21/images/06.jpg>])
+(./3Engineering/5Team_meetings/days_of_meetings/2016.01.25/2016.01.25.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -1304,10 +1229,8 @@ Underfull \hbox (badness 3364) in paragraph at lines 21--21
 []\T1/cmr/m/n/10.95 Check the pos-si-bil-ity of us-ing
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.26/2016.01.26.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg, id=135,
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.26/2016.01.26.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg, id=131,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg Gra
 phic file (type jpg)
@@ -1322,7 +1245,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 8--9
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg, id=136,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg, id=132,
  900.36375pt x 568.1225pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg Gra
 phic file (type jpg)
@@ -1343,8 +1266,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[26]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg, id=140,
+[25]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg, id=137,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg Gra
 phic file (type jpg)
@@ -1359,7 +1282,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 28--29
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg, id=141,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg, id=138,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg Gra
 phic file (type jpg)
@@ -1373,10 +1296,8 @@ Overfull \hbox (40.74239pt too wide) in paragraph at lines 34--35
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.27/2016.01.27.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg, id=142,
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.27/2016.01.27.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg, id=139,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg Gra
 phic file (type jpg)
@@ -1386,7 +1307,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.2
 7/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg, id=143,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg, id=140,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg Gra
 phic file (type jpg)
@@ -1400,9 +1321,7 @@ Overfull \hbox (66.51512pt too wide) in paragraph at lines 14--15
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.28/2016.01.28.tex"
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.28/2016.01.28.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1417,13 +1336,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[27 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.01.26/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.26/
-images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.01.26/images/04.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg, id=147,
+[26 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.01.26/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.01.26/images/03.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.01.26/images/04.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg, id=144,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg Gra
 phic file (type jpg)
@@ -1438,7 +1355,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg, id=148,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg, id=145,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg Gra
 phic file (type jpg)
@@ -1452,10 +1369,8 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.01.30/2016.01.30.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg, id=149,
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/2016.01.30.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg, id=146,
  866.23625pt x 733.74126pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg Gra
 phic file (type jpg)
@@ -1465,7 +1380,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
 0/images/01.jpg used on input line 10.
 (pdftex.def)             Requested size: 147.25821pt x 124.73436pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg, id=150,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg, id=147,
  1001.7425pt x 515.9275pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg Gra
 phic file (type jpg)
@@ -1475,7 +1390,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
 0/images/02.jpg used on input line 16.
 (pdftex.def)             Requested size: 200.34494pt x 103.18367pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg, id=151,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg, id=148,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg Gra
 phic file (type jpg)
@@ -1485,7 +1400,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
 0/images/03.jpg used on input line 22.
 (pdftex.def)             Requested size: 218.4131pt x 130.53595pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg, id=152,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg, id=149,
  1089.06876pt x 540.0175pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg Gra
 phic file (type jpg)
@@ -1510,13 +1425,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[28 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.01.27/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.28/
-images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.01.28/images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg, id=156,
+[27 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.01.27/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.01.28/images/01.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.01.28/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg, id=153,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg Gra
 phic file (type jpg)
@@ -1531,7 +1444,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 38--39
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg, id=157,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg, id=154,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/06.jpg Gra
 phic file (type jpg)
@@ -1546,7 +1459,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 44--45
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg, id=158,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg, id=155,
  3276.24pt x 2457.18pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg Gra
 phic file (type jpg)
@@ -1556,7 +1469,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.01.3
 0/images/07.jpg used on input line 54.
 (pdftex.def)             Requested size: 196.56592pt x 147.42444pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg, id=159,
+<3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg, id=156,
  2429.075pt x 2914.89pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg Gra
 phic file (type jpg)
@@ -1580,18 +1493,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[29 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.01.30/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.01.30/
-images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.01.30/images/04.jpg> <D:/tech book 2015-2016/Complex_ro
-bot/3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg> <D:/
-tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/
-2016.01.30/images/06.jpg>]
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.03/2016.02.03.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/01.jpg, id=163,
+[28 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.01.30/images/03.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.01.30/images/04.jpg> <./3Engineering/
+5Team_meetings/days_of_meetings/2016.01.30/images/05.jpg> <./3Engineering/5Team
+_meetings/days_of_meetings/2016.01.30/images/06.jpg>]
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.03/2016.02.03.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/01.jpg, id=160,
  1278.7775pt x 448.67625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/01.jpg Gra
 phic file (type jpg)
@@ -1601,7 +1510,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 3/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 255.75096pt x 89.73366pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/02.jpg, id=164,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/02.jpg, id=161,
  763.85374pt x 488.82625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/02.jpg Gra
 phic file (type jpg)
@@ -1611,7 +1520,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 3/images/02.jpg used on input line 20.
 (pdftex.def)             Requested size: 229.15788pt x 146.649pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/03.jpg, id=165,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/03.jpg, id=162,
  799.98875pt x 612.2875pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/03.jpg Gra
 phic file (type jpg)
@@ -1621,8 +1530,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 3/images/03.jpg used on input line 26.
 (pdftex.def)             Requested size: 199.99669pt x 153.0715pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.04/2016.02.04.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.04/2016.02.04.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -1634,14 +1542,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[30 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.01.30/images/07.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.03/
-images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.02.03/images/02.jpg> <D:/tech book 2015-2016/Complex_ro
-bot/3Engineering/5Team_meetings/days_of_meetings/2016.02.03/images/03.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/01.jpg, id=169,
+[29 <./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/07.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.01.30/images/08.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.03/images/01.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.02.03/images/02.jpg> <./3Engineering/
+5Team_meetings/days_of_meetings/2016.02.03/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/01.jpg, id=166,
  952.55875pt x 649.42625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/01.jpg Gra
 phic file (type jpg)
@@ -1651,7 +1557,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 4/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 190.50838pt x 129.88295pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/02.jpg, id=170,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/02.jpg, id=167,
  774.895pt x 607.26875pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/02.jpg Gra
 phic file (type jpg)
@@ -1661,7 +1567,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 4/images/02.jpg used on input line 14.
 (pdftex.def)             Requested size: 154.97626pt x 121.4516pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/03.jpg, id=171,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/03.jpg, id=168,
  1108.14pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/03.jpg Gra
 phic file (type jpg)
@@ -1671,9 +1577,8 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 4/images/03.jpg used on input line 24.
 (pdftex.def)             Requested size: 221.62407pt x 153.57103pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.05/2016.02.05.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/01.png, id=172,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.05/2016.02.05.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/01.png, id=169,
  1559.8275pt x 783.92876pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/01.png Gra
 phic file (type png)
@@ -1688,7 +1593,7 @@ Overfull \hbox (23.25269pt too wide) in paragraph at lines 8--9
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/02.png, id=173,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/02.png, id=170,
  1575.8875pt x 925.4575pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/02.png Gra
 phic file (type png)
@@ -1712,12 +1617,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[31 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.04/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.04/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.04/
-images/03.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/03.jpg, id=178,
+[30 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.04/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.04/images/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/03.jpg, id=174,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/03.jpg Gra
 phic file (type jpg)
@@ -1727,12 +1630,11 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 5/images/03.jpg used on input line 24.
 (pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-32.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ))
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.08/2016.02.08.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/02.jpg, id=179,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.08/2016.02.08.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/02.jpg, id=175,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/02.jpg Gra
 phic file (type jpg)
@@ -1742,7 +1644,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 8/images/02.jpg used on input line 10.
 (pdftex.def)             Requested size: 218.4131pt x 130.53595pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/01.jpg, id=180,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/01.jpg, id=176,
  879.285pt x 657.45625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/01.jpg Gra
 phic file (type jpg)
@@ -1752,8 +1654,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 8/images/01.jpg used on input line 16.
 (pdftex.def)             Requested size: 175.85388pt x 131.48892pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.09/2016.02.09.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.09/2016.02.09.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1768,12 +1669,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[32 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.05/images/01.png (PNG copy)> <D:/tech book 2015-2016/Complex_ro
-bot/3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/02.png (PNG 
-copy)> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_o
-f_meetings/2016.02.05/images/03.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.09/images/01.jpg, id=184,
+[31 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/01.png (P
+NG copy)> <./3Engineering/5Team_meetings/days_of_meetings/2016.02.05/images/02.
+png (PNG copy)> <./3Engineering/5Team_meetings/days_of_meetings/2016.02.05/imag
+es/03.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.09/images/01.jpg, id=181,
  783.92876pt x 431.6125pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.09/images/01.jpg Gra
 phic file (type jpg)
@@ -1783,7 +1683,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 9/images/01.jpg used on input line 10.
 (pdftex.def)             Requested size: 235.18044pt x 129.48474pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.09/images/02.jpg, id=185,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.09/images/02.jpg, id=182,
  638.385pt x 506.89375pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.09/images/02.jpg Gra
 phic file (type jpg)
@@ -1793,9 +1693,8 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.0
 9/images/02.jpg used on input line 16.
 (pdftex.def)             Requested size: 191.51697pt x 152.06929pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.10/2016.02.10.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/01.jpg, id=186,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.10/2016.02.10.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/01.jpg, id=183,
  648.4225pt x 793.96625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/01.jpg Gra
 phic file (type jpg)
@@ -1805,7 +1704,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.1
 0/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 129.68219pt x 158.79044pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/02.jpg, id=187,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/02.jpg, id=184,
  922.44624pt x 744.7825pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/02.jpg Gra
 phic file (type jpg)
@@ -1815,8 +1714,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.1
 0/images/02.jpg used on input line 14.
 (pdftex.def)             Requested size: 184.48598pt x 148.95386pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.12/2016.02.12.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.12/2016.02.12.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1831,13 +1729,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[33 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.08/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.08/images/01.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.09/
-images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.02.09/images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.12/images/01.jpg, id=191,
+[32 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/02.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.08/images/01.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.09/images/01.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.02.09/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.12/images/01.jpg, id=188,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.12/images/01.jpg Gra
 phic file (type jpg)
@@ -1852,7 +1748,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.12/images/02.jpg, id=192,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.12/images/02.jpg, id=189,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.12/images/02.jpg Gra
 phic file (type jpg)
@@ -1866,10 +1762,8 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.13/2016.02.13.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.13/images/02.jpg, id=193,
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.02.13/2016.02.13.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.13/images/02.jpg, id=190,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.13/images/02.jpg Gra
 phic file (type jpg)
@@ -1879,8 +1773,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.1
 3/images/02.jpg used on input line 14.
 (pdftex.def)             Requested size: 321.19922pt x 191.9667pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.15/2016.02.15.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.15/2016.02.15.tex
 Underfull \vbox (badness 6252) has occurred while \output is active []
 
 
@@ -1895,13 +1788,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[34 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.10/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.10/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.12/
-images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.02.12/images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/01.jpg, id=197,
+[33 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.10/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.12/images/01.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.02.12/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/01.jpg, id=194,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/01.jpg Gra
 phic file (type jpg)
@@ -1916,7 +1807,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/02.jpg, id=198,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/02.jpg, id=195,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/02.jpg Gra
 phic file (type jpg)
@@ -1930,11 +1821,8 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.16/2016.02.16.tex")
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.17/2016.02.17.tex"
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.02.16/2016.02.16.tex)
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.17/2016.02.17.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -1946,12 +1834,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[35 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.13/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.15/images/01.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.15/
-images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.17/images/01.jpg, id=202,
+[34 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.13/images/02.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.15/images/01.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.15/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.17/images/01.jpg, id=199,
  755.82375pt x 734.745pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.17/images/01.jpg Gra
 phic file (type jpg)
@@ -1961,9 +1847,8 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.1
 7/images/01.jpg used on input line 10.
 (pdftex.def)             Requested size: 226.74887pt x 220.42519pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.19/2016.02.19.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/01.jpg, id=203,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.19/2016.02.19.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/01.jpg, id=200,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/01.jpg Gra
 phic file (type jpg)
@@ -1978,7 +1863,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/02.jpg, id=204,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/02.jpg, id=201,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/02.jpg Gra
 phic file (type jpg)
@@ -1993,7 +1878,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/03.jpg, id=205,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/03.jpg, id=202,
  629.35126pt x 882.29625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/03.jpg Gra
 phic file (type jpg)
@@ -2003,7 +1888,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.1
 9/images/03.jpg used on input line 28.
 (pdftex.def)             Requested size: 125.86801pt x 176.45612pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/04.jpg, id=206,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/04.jpg, id=203,
  1196.47pt x 768.8725pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/04.jpg Gra
 phic file (type jpg)
@@ -2024,12 +1909,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[36 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.17/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.19/images/01.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.19/
-images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/05.jpg, id=210,
+[35 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.17/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/01.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.19/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/05.jpg, id=207,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/05.jpg Gra
 phic file (type jpg)
@@ -2044,7 +1927,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 46--47
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/06.jpg, id=211,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/06.jpg, id=208,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/06.jpg Gra
 phic file (type jpg)
@@ -2058,10 +1941,8 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 52--53
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.20/2016.02.20.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/01.png, id=212,
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.02.20/2016.02.20.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/01.png, id=209,
  1445.4pt x 779.91376pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/01.png Gra
 phic file (type png)
@@ -2076,7 +1957,7 @@ Overfull \hbox (3.80026pt too wide) in paragraph at lines 8--9
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/02.png, id=213,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/02.png, id=210,
  1445.4pt x 782.925pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/02.png Gra
 phic file (type png)
@@ -2105,15 +1986,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[37 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.19/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.19/images/04.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.19/
-images/05.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.02.19/images/06.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.21/2016.02.21.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.21/images/01.jpg, id=218,
+[36 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/03.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.19/images/04.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.19/images/05.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.02.19/images/06.jpg>])
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.21/2016.02.21.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.21/images/01.jpg, id=214,
  810.02625pt x 607.26875pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.21/images/01.jpg Gra
 phic file (type jpg)
@@ -2123,8 +2001,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.2
 1/images/01.jpg used on input line 10.
 (pdftex.def)             Requested size: 324.00475pt x 242.9032pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.25/2016.02.25.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.25/2016.02.25.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -2136,11 +2013,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[38 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.20/images/01.png> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.20/images/02.png> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.21/
-images/01.jpg>]
+[37 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/01.png> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.20/images/02.png> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.21/images/01.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
 []\T1/cmr/m/n/10.95 Problem
  []
@@ -2165,9 +2040,7 @@ Underfull \hbox (badness 1152) in paragraph at lines 22--22
 []\T1/cmr/m/n/10.95 Elevator pulls out be-cause of fast
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.27/2016.02.27.tex"
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.02.27/2016.02.27.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2182,7 +2055,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[39]
+[38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2197,8 +2070,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[40]
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/02.jpg, id=230,
+[39]
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/02.jpg, id=227,
  1154.3125pt x 166.6225pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/02.jpg Gra
 phic file (type jpg)
@@ -2208,7 +2081,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.2
 7/images/02.jpg used on input line 10.
 (pdftex.def)             Requested size: 346.29642pt x 49.98712pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/01.jpg, id=231,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/01.jpg, id=228,
  1160.335pt x 151.56625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/01.jpg Gra
 phic file (type jpg)
@@ -2218,7 +2091,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.2
 7/images/01.jpg used on input line 16.
 (pdftex.def)             Requested size: 348.10318pt x 45.47021pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/03.jpg, id=232,
+<3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/03.jpg, id=229,
  1155.31625pt x 167.62625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/03.jpg Gra
 phic file (type jpg)
@@ -2228,11 +2101,9 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.02.2
 7/images/03.jpg used on input line 22.
 (pdftex.def)             Requested size: 346.59755pt x 50.28825pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.02.29/2016.02.29.tex")
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.01/2016.03.01.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/01.jpg, id=233,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.02.29/2016.02.29.tex)
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.01/2016.03.01.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/01.jpg, id=230,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/01.jpg Gra
 phic file (type jpg)
@@ -2247,7 +2118,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 10--11
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/03.jpg, id=234,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/03.jpg, id=231,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/03.jpg Gra
 phic file (type jpg)
@@ -2262,7 +2133,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 16--17
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/02.jpg, id=235,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/02.jpg, id=232,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/02.jpg Gra
 phic file (type jpg)
@@ -2277,7 +2148,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 22--23
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/04.jpg, id=236,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/04.jpg, id=233,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/04.jpg Gra
 phic file (type jpg)
@@ -2306,14 +2177,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[41 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.02.27/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.02.27/images/01.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.02.27/
-images/03.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.02/2016.03.02.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.02/images/01.jpg, id=240,
+[40 <./3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/02.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.02.27/images/01.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.02.27/images/03.jpg>])
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.02/2016.03.02.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.02/images/01.jpg, id=237,
  1138.2525pt x 741.77126pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.02/images/01.jpg Gra
 phic file (type jpg)
@@ -2323,8 +2191,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.0
 2/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 227.64647pt x 148.35162pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.03/2016.03.03.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.03/2016.03.03.tex
 Underfull \vbox (badness 1400) has occurred while \output is active []
 
 
@@ -2339,14 +2206,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[42 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.03.01/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.03.01/images/03.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.03.01/
-images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.03.01/images/04.jpg> <D:/tech book 2015-2016/Complex_ro
-bot/3Engineering/5Team_meetings/days_of_meetings/2016.03.02/images/01.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/01.jpg, id=244,
+[41 <./3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.03.01/images/03.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.03.01/images/02.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.03.01/images/04.jpg> <./3Engineering/
+5Team_meetings/days_of_meetings/2016.03.02/images/01.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/01.jpg, id=241,
  1001.7425pt x 595.22375pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/01.jpg Gra
 phic file (type jpg)
@@ -2356,7 +2221,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.0
 3/images/01.jpg used on input line 11.
 (pdftex.def)             Requested size: 200.34494pt x 119.04263pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/02.jpg, id=245,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/02.jpg, id=242,
  1072.005pt x 632.3625pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/02.jpg Gra
 phic file (type jpg)
@@ -2366,9 +2231,8 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.0
 3/images/02.jpg used on input line 17.
 (pdftex.def)             Requested size: 214.3972pt x 126.47026pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.04/2016.03.04.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.04/images/01.jpg, id=246,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.04/2016.03.04.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.04/images/01.jpg, id=243,
  1191.45125pt x 373.395pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.04/images/01.jpg Gra
 phic file (type jpg)
@@ -2378,7 +2242,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.0
 4/images/01.jpg used on input line 8.
 (pdftex.def)             Requested size: 357.43813pt x 112.01936pt.
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.04/images/02.jpg, id=247,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.04/images/02.jpg, id=244,
  1190.4475pt x 252.945pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.04/images/02.jpg Gra
 phic file (type jpg)
@@ -2388,10 +2252,8 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.0
 4/images/02.jpg used on input line 14.
 (pdftex.def)             Requested size: 357.13701pt x 75.88408pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.08/2016.03.08.tex")
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.10/2016.03.10.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.08/2016.03.08.tex)
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.10/2016.03.10.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -2403,13 +2265,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[43 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.03.03/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.03.03/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.03.04/
-images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.03.04/images/02.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.10/images/01.jpg, id=253,
+[42 <./3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.03.03/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.03.04/images/01.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.03.04/images/02.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.10/images/01.jpg, id=249,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.10/images/01.jpg Gra
 phic file (type jpg)
@@ -2419,11 +2279,9 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.1
 0/images/01.jpg used on input line 10.
 (pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.14/2016.03.14.tex")
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.16/2016.03.16.tex"
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.16/images/01.jpg, id=254,
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.14/2016.03.14.tex)
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.16/2016.03.16.tex
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.16/images/01.jpg, id=250,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.16/images/01.jpg Gra
 phic file (type jpg)
@@ -2433,8 +2291,7 @@ Package pdftex.def Info: 3Engineering/5Team_meetings/days_of_meetings/2016.03.1
 6/images/01.jpg used on input line 11.
 (pdftex.def)             Requested size: 321.19922pt x 191.9667pt.
 )
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.19/2016.03.19.tex"
+(./3Engineering/5Team_meetings/days_of_meetings/2016.03.19/2016.03.19.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -2446,10 +2303,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[44 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.03.10/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.03.16/images/01.jpg>]
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/01.jpg, id=258,
+[43 <./3Engineering/5Team_meetings/days_of_meetings/2016.03.10/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.03.16/images/01.jpg>]
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/01.jpg, id=255,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/01.jpg Gra
 phic file (type jpg)
@@ -2464,7 +2320,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 14--15
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/02.jpg, id=259,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/02.jpg, id=256,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/02.jpg Gra
 phic file (type jpg)
@@ -2479,7 +2335,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 20--21
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/03.jpg, id=260,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/03.jpg, id=257,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/03.jpg Gra
 phic file (type jpg)
@@ -2494,7 +2350,7 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 26--27
  []
 
 
-<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/04.jpg, id=261,
+<3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/04.jpg, id=258,
  1284.8pt x 767.86874pt>
 File: 3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/04.jpg Gra
 phic file (type jpg)
@@ -2508,21 +2364,20 @@ Overfull \hbox (15.04095pt too wide) in paragraph at lines 32--33
  [] 
  []
 
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/5Team_meetings/days_of_meet
-ings/2016.03.22/2016.03.22.tex")
+) (./3Engineering/5Team_meetings/days_of_meetings/2016.03.22/2016.03.22.tex)
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 99.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
+
+<use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 99.
 (pdftex.def)             Requested size: 514.75555pt x 61.47827pt.
@@ -2542,28 +2397,25 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[45 <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_m
-eetings/2016.03.19/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engine
-ering/5Team_meetings/days_of_meetings/2016.03.19/images/02.jpg> <D:/tech book 2
-015-2016/Complex_robot/3Engineering/5Team_meetings/days_of_meetings/2016.03.19/
-images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/5Team_meeting
-s/days_of_meetings/2016.03.19/images/04.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/Specifications_for_modules_H.tex"
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/wheelbase/wheelbase_H.tex"
+[44 <./3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/01.jpg> <
+./3Engineering/5Team_meetings/days_of_meetings/2016.03.19/images/02.jpg> <./3En
+gineering/5Team_meetings/days_of_meetings/2016.03.19/images/03.jpg> <./3Enginee
+ring/5Team_meetings/days_of_meetings/2016.03.19/images/04.jpg>])
+(./3Engineering/6Specifications_for_modules/Specifications_for_modules_H.tex
+(./3Engineering/6Specifications_for_modules/wheelbase/wheelbase_H.tex
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
+
+<use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 27.
 (pdftex.def)             Requested size: 514.75555pt x 75.69986pt.
@@ -2583,10 +2435,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[46])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/gripper/gripper_H.tex"
-<3Engineering/6Specifications_for_modules/gripper/images/01.jpg, id=268, 1284.8
+[45]) (./3Engineering/6Specifications_for_modules/gripper/gripper_H.tex
+<3Engineering/6Specifications_for_modules/gripper/images/01.jpg, id=265, 1284.8
 pt x 951.555pt>
 File: 3Engineering/6Specifications_for_modules/gripper/images/01.jpg Graphic fi
 le (type jpg)
@@ -2596,7 +2446,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/gripper/image
 s/01.jpg used on input line 12.
 (pdftex.def)             Requested size: 256.95544pt x 190.30762pt.
 
-<3Engineering/6Specifications_for_modules/gripper/images/02.jpg, id=269, 1284.8
+<3Engineering/6Specifications_for_modules/gripper/images/02.jpg, id=266, 1284.8
 pt x 767.86874pt>
 File: 3Engineering/6Specifications_for_modules/gripper/images/02.jpg Graphic fi
 le (type jpg)
@@ -2606,7 +2456,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/gripper/image
 s/02.jpg used on input line 23.
 (pdftex.def)             Requested size: 256.95544pt x 153.57103pt.
 
-<3Engineering/6Specifications_for_modules/gripper/images/03.jpg, id=270, 778.91
+<3Engineering/6Specifications_for_modules/gripper/images/03.jpg, id=267, 778.91
 pt x 1051.93pt>
 File: 3Engineering/6Specifications_for_modules/gripper/images/03.jpg Graphic fi
 le (type jpg)
@@ -2627,10 +2477,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[47 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/gripper/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6
-Specifications_for_modules/gripper/images/02.jpg>]
-<3Engineering/6Specifications_for_modules/gripper/images/04.png, id=274, 1284.8
+[46 <./3Engineering/6Specifications_for_modules/gripper/images/01.jpg> <./3Engi
+neering/6Specifications_for_modules/gripper/images/02.jpg>]
+<3Engineering/6Specifications_for_modules/gripper/images/04.png, id=271, 1284.8
 pt x 803.0pt>
 File: 3Engineering/6Specifications_for_modules/gripper/images/04.png Graphic fi
 le (type png)
@@ -2640,7 +2489,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/gripper/image
 s/04.png used on input line 42.
 (pdftex.def)             Requested size: 256.95544pt x 160.59715pt.
 
-(C:\Users\User\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-4.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
 ! Undefined control sequence.
@@ -2655,13 +2504,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 55.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -2685,11 +2534,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[48 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/gripper/images/03.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6
-Specifications_for_modules/gripper/images/04.png>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/elevator/elevator_H.tex"
+[47 <./3Engineering/6Specifications_for_modules/gripper/images/03.jpg> <./3Engi
+neering/6Specifications_for_modules/gripper/images/04.png>])
+(./3Engineering/6Specifications_for_modules/elevator/elevator_H.tex
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
@@ -2701,8 +2548,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[49]
-<3Engineering/6Specifications_for_modules/elevator/images/01.png, id=283, 388.4
+[48]
+<3Engineering/6Specifications_for_modules/elevator/images/01.png, id=279, 388.4
 5125pt x 572.1375pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/01.png Graphic f
 ile (type png)
@@ -2712,7 +2559,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/01.png used on input line 53.
 (pdftex.def)             Requested size: 116.53627pt x 171.64256pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/04.png, id=284, 700.1
+<3Engineering/6Specifications_for_modules/elevator/images/04.png, id=280, 700.1
 1563pt x 632.3625pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/04.png Graphic f
 ile (type png)
@@ -2722,7 +2569,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/04.png used on input line 59.
 (pdftex.def)             Requested size: 210.0363pt x 189.7102pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/02.png, id=285, 1445.
+<3Engineering/6Specifications_for_modules/elevator/images/02.png, id=281, 1445.
 4pt x 813.0375pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/02.png Graphic f
 ile (type png)
@@ -2737,7 +2584,7 @@ Overfull \hbox (23.60565pt too wide) in paragraph at lines 67--68
  []
 
 
-<3Engineering/6Specifications_for_modules/elevator/images/03.png, id=286, 232.6
+<3Engineering/6Specifications_for_modules/elevator/images/03.png, id=282, 232.6
 1906pt x 391.4625pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/03.png Graphic f
 ile (type png)
@@ -2758,13 +2605,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[50 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/elevator/images/01.png> <D:/tech book 2015-2016/Complex_robot/3Engineering/
-6Specifications_for_modules/elevator/images/04.png> <D:/tech book 2015-2016/Com
-plex_robot/3Engineering/6Specifications_for_modules/elevator/images/02.png> <D:
-/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/ele
-vator/images/03.png>]
-<3Engineering/6Specifications_for_modules/elevator/images/05.jpg, id=294, 363.3
+[49 <./3Engineering/6Specifications_for_modules/elevator/images/01.png> <./3Eng
+ineering/6Specifications_for_modules/elevator/images/04.png> <./3Engineering/6S
+pecifications_for_modules/elevator/images/02.png> <./3Engineering/6Specificatio
+ns_for_modules/elevator/images/03.png>]
+<3Engineering/6Specifications_for_modules/elevator/images/05.jpg, id=292, 363.3
 575pt x 476.78125pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/05.jpg Graphic f
 ile (type jpg)
@@ -2774,7 +2619,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/05.jpg used on input line 100.
 (pdftex.def)             Requested size: 145.34041pt x 190.7091pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/06.jpg, id=295, 606.2
+<3Engineering/6Specifications_for_modules/elevator/images/06.jpg, id=293, 606.2
 65pt x 362.35374pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/06.jpg Graphic f
 ile (type jpg)
@@ -2789,7 +2634,7 @@ Overfull \hbox (0.5872pt too wide) in paragraph at lines 106--107
  []
 
 
-<3Engineering/6Specifications_for_modules/elevator/images/10.jpg, id=296, 606.2
+<3Engineering/6Specifications_for_modules/elevator/images/10.jpg, id=294, 606.2
 65pt x 362.35374pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/10.jpg Graphic f
 ile (type jpg)
@@ -2804,7 +2649,7 @@ Overfull \hbox (0.5872pt too wide) in paragraph at lines 129--130
  []
 
 
-<3Engineering/6Specifications_for_modules/elevator/images/11.jpg, id=297, 358.3
+<3Engineering/6Specifications_for_modules/elevator/images/11.jpg, id=295, 358.3
 3875pt x 496.85625pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/11.jpg Graphic f
 ile (type jpg)
@@ -2825,10 +2670,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[51 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/elevator/images/05.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/
-6Specifications_for_modules/elevator/images/06.jpg>]
-<3Engineering/6Specifications_for_modules/elevator/images/12.jpg, id=301, 606.2
+[50 <./3Engineering/6Specifications_for_modules/elevator/images/05.jpg> <./3Eng
+ineering/6Specifications_for_modules/elevator/images/06.jpg>]
+<3Engineering/6Specifications_for_modules/elevator/images/12.jpg, id=299, 606.2
 65pt x 362.35374pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/12.jpg Graphic f
 ile (type jpg)
@@ -2849,11 +2693,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[52 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/elevator/images/10.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/
-6Specifications_for_modules/elevator/images/11.jpg> <D:/tech book 2015-2016/Com
-plex_robot/3Engineering/6Specifications_for_modules/elevator/images/12.jpg>]
-<3Engineering/6Specifications_for_modules/elevator/images/13.jpg, id=305, 606.2
+[51 <./3Engineering/6Specifications_for_modules/elevator/images/10.jpg> <./3Eng
+ineering/6Specifications_for_modules/elevator/images/11.jpg> <./3Engineering/6S
+pecifications_for_modules/elevator/images/12.jpg>]
+<3Engineering/6Specifications_for_modules/elevator/images/13.jpg, id=303, 606.2
 65pt x 362.35374pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/13.jpg Graphic f
 ile (type jpg)
@@ -2863,7 +2706,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/13.jpg used on input line 174.
 (pdftex.def)             Requested size: 242.5017pt x 144.93892pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/09.png, id=306, 211.5
+<3Engineering/6Specifications_for_modules/elevator/images/09.png, id=304, 211.5
 4031pt x 391.4625pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/09.png Graphic f
 ile (type png)
@@ -2887,9 +2730,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[53 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/elevator/images/13.jpg>]
-<3Engineering/6Specifications_for_modules/elevator/images/15.jpg, id=310, 1256.
+[52 <./3Engineering/6Specifications_for_modules/elevator/images/13.jpg>]
+<3Engineering/6Specifications_for_modules/elevator/images/15.jpg, id=308, 1256.
 695pt x 436.63126pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/15.jpg Graphic f
 ile (type jpg)
@@ -2899,7 +2741,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/15.jpg used on input line 200.
 (pdftex.def)             Requested size: 251.33455pt x 87.32469pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/16.jpg, id=311, 415.5
+<3Engineering/6Specifications_for_modules/elevator/images/16.jpg, id=309, 415.5
 525pt x 437.635pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/16.jpg Graphic f
 ile (type jpg)
@@ -2909,7 +2751,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/16.jpg used on input line 206.
 (pdftex.def)             Requested size: 83.10902pt x 87.52544pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/07.jpg, id=312, 616.3
+<3Engineering/6Specifications_for_modules/elevator/images/07.jpg, id=310, 616.3
 025pt x 856.19875pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/07.jpg Graphic f
 ile (type jpg)
@@ -2919,7 +2761,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/elevator/imag
 es/07.jpg used on input line 222.
 (pdftex.def)             Requested size: 123.25832pt x 171.23671pt.
 
-<3Engineering/6Specifications_for_modules/elevator/images/08.jpg, id=313, 1089.
+<3Engineering/6Specifications_for_modules/elevator/images/08.jpg, id=311, 1089.
 06876pt x 540.0175pt>
 File: 3Engineering/6Specifications_for_modules/elevator/images/08.jpg Graphic f
 ile (type jpg)
@@ -2943,18 +2785,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[54 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/elevator/images/09.png> <D:/tech book 2015-2016/Complex_robot/3Engineering/
-6Specifications_for_modules/elevator/images/15.jpg> <D:/tech book 2015-2016/Com
-plex_robot/3Engineering/6Specifications_for_modules/elevator/images/16.jpg>]
+[53 <./3Engineering/6Specifications_for_modules/elevator/images/09.png> <./3Eng
+ineering/6Specifications_for_modules/elevator/images/15.jpg> <./3Engineering/6S
+pecifications_for_modules/elevator/images/16.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 236.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -2979,12 +2820,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[55 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/elevator/images/07.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/
-6Specifications_for_modules/elevator/images/08.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/bucket/TechDocBucketComplex.tex"
-<3Engineering/6Specifications_for_modules/bucket/images/01.png, id=322, 709.902
+[54 <./3Engineering/6Specifications_for_modules/elevator/images/07.jpg> <./3Eng
+ineering/6Specifications_for_modules/elevator/images/08.jpg>])
+(./3Engineering/6Specifications_for_modules/bucket/TechDocBucketComplex.tex
+<3Engineering/6Specifications_for_modules/bucket/images/01.png, id=319, 709.902
 19pt x 297.36093pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/01.png Graphic fil
 e (type png)
@@ -3005,9 +2844,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[56 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/01.png>]
-<3Engineering/6Specifications_for_modules/bucket/images/02.jpg, id=327, 3276.24
+[55 <./3Engineering/6Specifications_for_modules/bucket/images/01.png>]
+<3Engineering/6Specifications_for_modules/bucket/images/02.jpg, id=325, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/02.jpg Graphic fil
 e (type jpg)
@@ -3029,7 +2867,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-<3Engineering/6Specifications_for_modules/bucket/images/03.jpg, id=328, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/03.jpg, id=326, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/03.jpg Graphic fil
 e (type jpg)
@@ -3039,7 +2877,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /03.jpg used on input line 46.
 (pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/04.jpg, id=329, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/04.jpg, id=327, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/04.jpg Graphic fil
 e (type jpg)
@@ -3049,7 +2887,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /04.jpg used on input line 51.
 (pdftex.def)             Requested size: 131.02728pt x 98.27046pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/05.jpg, id=330, 2457.18
+<3Engineering/6Specifications_for_modules/bucket/images/05.jpg, id=328, 2457.18
 pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/05.jpg Graphic fil
 e (type jpg)
@@ -3059,7 +2897,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /05.jpg used on input line 56.
 (pdftex.def)             Requested size: 98.27046pt x 131.02728pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/06.jpg, id=331, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/06.jpg, id=329, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/06.jpg Graphic fil
 e (type jpg)
@@ -3069,7 +2907,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /06.jpg used on input line 65.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/07.jpg, id=332, 2457.18
+<3Engineering/6Specifications_for_modules/bucket/images/07.jpg, id=330, 2457.18
 pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/07.jpg Graphic fil
 e (type jpg)
@@ -3090,13 +2928,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[57 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/02.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/03.jpg> <D:/tech book 2015-2016/Complex
-_robot/3Engineering/6Specifications_for_modules/bucket/images/04.jpg> <D:/tech 
-book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/im
-ages/05.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/08.jpg, id=336, 2457.18
+[56 <./3Engineering/6Specifications_for_modules/bucket/images/02.jpg> <./3Engin
+eering/6Specifications_for_modules/bucket/images/03.jpg> <./3Engineering/6Speci
+fications_for_modules/bucket/images/04.jpg> <./3Engineering/6Specifications_for
+_modules/bucket/images/05.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/08.jpg, id=334, 2457.18
 pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/08.jpg Graphic fil
 e (type jpg)
@@ -3117,11 +2953,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[58 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/06.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/07.jpg> <D:/tech book 2015-2016/Complex
-_robot/3Engineering/6Specifications_for_modules/bucket/images/08.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/09.jpg, id=340, 3276.24
+[57 <./3Engineering/6Specifications_for_modules/bucket/images/06.jpg> <./3Engin
+eering/6Specifications_for_modules/bucket/images/07.jpg> <./3Engineering/6Speci
+fications_for_modules/bucket/images/08.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/09.jpg, id=338, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/09.jpg Graphic fil
 e (type jpg)
@@ -3131,7 +2966,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /09.jpg used on input line 93.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/10.jpg, id=341, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/10.jpg, id=339, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/10.jpg Graphic fil
 e (type jpg)
@@ -3141,7 +2976,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /10.jpg used on input line 97.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/11.jpg, id=342, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/11.jpg, id=340, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/11.jpg Graphic fil
 e (type jpg)
@@ -3151,7 +2986,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /11.jpg used on input line 108.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/12.jpg, id=343, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/12.jpg, id=341, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/12.jpg Graphic fil
 e (type jpg)
@@ -3161,7 +2996,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /12.jpg used on input line 112.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/13.jpg, id=344, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/13.jpg, id=342, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/13.jpg Graphic fil
 e (type jpg)
@@ -3171,7 +3006,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /13.jpg used on input line 128.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/14.jpg, id=345, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/14.jpg, id=343, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/14.jpg Graphic fil
 e (type jpg)
@@ -3192,13 +3027,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[59 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/09.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/10.jpg> <D:/tech book 2015-2016/Complex
-_robot/3Engineering/6Specifications_for_modules/bucket/images/11.jpg> <D:/tech 
-book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/im
-ages/12.jpg>]
-<3Engineering/6Specifications_for_modules/bucket/images/15.jpg, id=349, 3276.24
+[58 <./3Engineering/6Specifications_for_modules/bucket/images/09.jpg> <./3Engin
+eering/6Specifications_for_modules/bucket/images/10.jpg> <./3Engineering/6Speci
+fications_for_modules/bucket/images/11.jpg> <./3Engineering/6Specifications_for
+_modules/bucket/images/12.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/15.jpg, id=347, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/15.jpg Graphic fil
 e (type jpg)
@@ -3208,7 +3041,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /15.jpg used on input line 141.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/16.jpg, id=350, 2457.18
+<3Engineering/6Specifications_for_modules/bucket/images/16.jpg, id=348, 2457.18
 pt x 3276.24pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/16.jpg Graphic fil
 e (type jpg)
@@ -3218,7 +3051,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /16.jpg used on input line 145.
 (pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/17.jpg, id=351, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/17.jpg, id=349, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/17.jpg Graphic fil
 e (type jpg)
@@ -3228,7 +3061,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
 /17.jpg used on input line 159.
 (pdftex.def)             Requested size: 163.8216pt x 122.8662pt.
 
-<3Engineering/6Specifications_for_modules/bucket/images/18.jpg, id=352, 3276.24
+<3Engineering/6Specifications_for_modules/bucket/images/18.jpg, id=350, 3276.24
 pt x 2457.18pt>
 File: 3Engineering/6Specifications_for_modules/bucket/images/18.jpg Graphic fil
 e (type jpg)
@@ -3249,36 +3082,100 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[60 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/13.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/14.jpg> <D:/tech book 2015-2016/Complex
-_robot/3Engineering/6Specifications_for_modules/bucket/images/15.jpg> <D:/tech 
-book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modules/bucket/im
-ages/16.jpg>]
+[59 <./3Engineering/6Specifications_for_modules/bucket/images/13.jpg> <./3Engin
+eering/6Specifications_for_modules/bucket/images/14.jpg> <./3Engineering/6Speci
+fications_for_modules/bucket/images/15.jpg> <./3Engineering/6Specifications_for
+_modules/bucket/images/16.jpg>]
+<3Engineering/6Specifications_for_modules/bucket/images/19.jpg, id=354, 606.265
+pt x 362.35374pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/19.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/19.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/19.jpg used on input line 171.
+(pdftex.def)             Requested size: 181.8809pt x 108.70695pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/20.jpg, id=355, 606.265
+pt x 362.35374pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/20.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/20.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/20.jpg used on input line 175.
+(pdftex.def)             Requested size: 181.8809pt x 108.70695pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/21.jpg, id=356, 606.265
+pt x 362.35374pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/21.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/21.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/21.jpg used on input line 184.
+(pdftex.def)             Requested size: 181.8809pt x 108.70695pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/22.jpg, id=357, 606.265
+pt x 362.35374pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/22.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/22.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/22.jpg used on input line 193.
+(pdftex.def)             Requested size: 181.8809pt x 108.70695pt.
+
+<3Engineering/6Specifications_for_modules/bucket/images/23.jpg, id=358, 606.265
+pt x 362.35374pt>
+File: 3Engineering/6Specifications_for_modules/bucket/images/23.jpg Graphic fil
+e (type jpg)
+
+<use 3Engineering/6Specifications_for_modules/bucket/images/23.jpg>
+Package pdftex.def Info: 3Engineering/6Specifications_for_modules/bucket/images
+/23.jpg used on input line 197.
+(pdftex.def)             Requested size: 181.8809pt x 108.70695pt.
+
+! Undefined control sequence.
+\u-default-8470 #1->\textnumero 
+                                
+l.201 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[60 <./3Engineering/6Specifications_for_modules/bucket/images/17.jpg> <./3Engin
+eering/6Specifications_for_modules/bucket/images/18.jpg> <./3Engineering/6Speci
+fications_for_modules/bucket/images/19.jpg> <./3Engineering/6Specifications_for
+_modules/bucket/images/20.jpg> <./3Engineering/6Specifications_for_modules/buck
+et/images/21.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 170.
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
+(epstopdf)             \includegraphics on input line 204.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
  <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-170.
-(pdftex.def)             Requested size: 514.75555pt x 502.50143pt.
+204.
+(pdftex.def)             Requested size: 514.75555pt x 516.1265pt.
 
-Overfull \hbox (17.04518pt too wide) in paragraph at lines 170--170
+Overfull \hbox (17.04518pt too wide) in paragraph at lines 204--204
 [][] 
  []
 
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
-l.170 \fillpage
+l.204 \fillpage
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3286,12 +3183,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[61 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/bucket/images/17.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/bucket/images/18.jpg>])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/alpinists/alpinists_H.tex"
-<3Engineering/6Specifications_for_modules/alpinists/images/01.jpg, id=360, 606.
+[61 <./3Engineering/6Specifications_for_modules/bucket/images/22.jpg> <./3Engin
+eering/6Specifications_for_modules/bucket/images/23.jpg>])
+(./3Engineering/6Specifications_for_modules/alpinists/alpinists_H.tex
+<3Engineering/6Specifications_for_modules/alpinists/images/01.jpg, id=366, 606.
 265pt x 454.69875pt>
 File: 3Engineering/6Specifications_for_modules/alpinists/images/01.jpg Graphic 
 file (type jpg)
@@ -3300,23 +3195,21 @@ file (type jpg)
 Package pdftex.def Info: 3Engineering/6Specifications_for_modules/alpinists/ima
 ges/01.jpg used on input line 18.
 (pdftex.def)             Requested size: 242.5017pt x 181.87627pt.
-)
-("D:\tech book 2015-2016\Complex_robot\3Engineering/6Specifications_for_modules
-/button/button_H.tex"
+
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
-l.7 		\item  P
-              rogramming and debugging the mechanism
+l.25   \end{enumerate*}
+                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[62 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/alpinists/images/01.jpg>]
-<3Engineering/6Specifications_for_modules/button/images/01.jpg, id=364, 606.265
+[62 <./3Engineering/6Specifications_for_modules/alpinists/images/01.jpg>])
+(./3Engineering/6Specifications_for_modules/button/button_H.tex
+<3Engineering/6Specifications_for_modules/button/images/01.jpg, id=370, 606.265
 pt x 345.29pt>
 File: 3Engineering/6Specifications_for_modules/button/images/01.jpg Graphic fil
 e (type jpg)
@@ -3326,7 +3219,7 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/button/images
 /01.jpg used on input line 12.
 (pdftex.def)             Requested size: 303.13176pt x 172.64456pt.
 
-<3Engineering/6Specifications_for_modules/button/images/02.jpg, id=365, 606.265
+<3Engineering/6Specifications_for_modules/button/images/02.jpg, id=371, 606.265
 pt x 342.27875pt>
 File: 3Engineering/6Specifications_for_modules/button/images/02.jpg Graphic fil
 e (type jpg)
@@ -3359,7 +3252,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-<3Engineering/6Specifications_for_modules/button/images/04.png, id=366, 339.518
+<3Engineering/6Specifications_for_modules/button/images/04.png, id=372, 339.518
 43pt x 303.38344pt>
 File: 3Engineering/6Specifications_for_modules/button/images/04.png Graphic fil
 e (type png)
@@ -3372,25 +3265,24 @@ Package pdftex.def Info: 3Engineering/6Specifications_for_modules/button/images
 ! Undefined control sequence.
 \u-default-8470 #1->\textnumero 
                                 
-l.38 
-     
+l.37 	\end{figure}
+                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[63 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/button/images/01.jpg> <D:/tech book 2015-2016/Complex_robot/3Engineering/6S
-pecifications_for_modules/button/images/02.jpg>]
+[63 <./3Engineering/6Specifications_for_modules/button/images/01.jpg> <./3Engin
+eering/6Specifications_for_modules/button/images/02.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -3398,7 +3290,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 39.
-(pdftex.def)             Requested size: 514.75555pt x 417.49313pt.
+(pdftex.def)             Requested size: 514.75555pt x 336.9555pt.
 
 Overfull \hbox (17.04518pt too wide) in paragraph at lines 39--39
 [][] 
@@ -3415,25 +3307,23 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[64 <D:/tech book 2015-2016/Complex_robot/3Engineering/6Specifications_for_modu
-les/button/images/04.png>]))
-("D:\tech book 2015-2016\Complex_robot\3Engineering/7Specifications_for_program
-mes/Specifications_for_programmes_H.tex"
-("D:\tech book 2015-2016\Complex_robot\3Engineering/7Specifications_for_program
-mes/driver-control/driver-control.tex"
+[64 <./3Engineering/6Specifications_for_modules/button/images/04.png>]))
+(./3Engineering/7Specifications_for_programmes/Specifications_for_programmes_H.
+tex
+(./3Engineering/7Specifications_for_programmes/driver-control/driver-control.te
+x
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
-
-<use img/fill_page-eps-converted-to.pdf>
+ <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 18.
 (pdftex.def)             Requested size: 514.75555pt x 291.39662pt.
@@ -3453,25 +3343,23 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[65])
-("D:\tech book 2015-2016\Complex_robot\3Engineering/7Specifications_for_program
-mes/autonomous/autonomous.tex"
+[65]) (./3Engineering/7Specifications_for_programmes/autonomous/autonomous.tex
 Package epstopdf Info: Source file: <3Engineering/7Specifications_for_programme
 s/autonomous/images/1.eps>
-(epstopdf)                    date: 2016-03-28 15:25:16
+(epstopdf)                    date: 2016-04-17 14:31:02
 (epstopdf)                    size: 2417764 bytes
 (epstopdf)             Output file: <3Engineering/7Specifications_for_programme
 s/autonomous/images/1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-28 16:04:32
+(epstopdf)                    date: 2016-04-17 14:31:02
 (epstopdf)                    size: 125647 bytes
-(epstopdf)             Command: <epstopdf --outfile=3Engineering/7Specification
-s_for_programmes/autonomous/images/1-eps-converted-to.pdf 3Engineering/7Specifi
-cations_for_programmes/autonomous/images/1.eps>
+(epstopdf)             Command: <repstopdf --outfile=3Engineering/7Specificatio
+ns_for_programmes/autonomous/images/1-eps-converted-to.pdf 3Engineering/7Specif
+ications_for_programmes/autonomous/images/1.eps>
 (epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
 
 <3Engineering/7Specifications_for_programmes/autonomous/images/1-eps-converted-
-to.pdf, id=378, 630.355pt x 634.37pt>
+to.pdf, id=384, 630.355pt x 634.37pt>
 File: 3Engineering/7Specifications_for_programmes/autonomous/images/1-eps-conve
 rted-to.pdf Graphic file (type pdf)
 
@@ -3481,13 +3369,13 @@ Package pdftex.def Info: 3Engineering/7Specifications_for_programmes/autonomous
 /images/1-eps-converted-to.pdf used on input line 20.
 (pdftex.def)             Requested size: 378.21591pt x 380.62492pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 25.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -3507,10 +3395,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[66 <D:/tech book 2015-2016/Complex_robot/3Engineering/7Specifications_for_prog
-rammes/autonomous/images/1-eps-converted-to.pdf>]))
-("D:\tech book 2015-2016\Complex_robot\3Engineering/9Key_summary/Key_summary_H.
-tex"
+[66 <./3Engineering/7Specifications_for_programmes/autonomous/images/1-eps-conv
+erted-to.pdf>])) (./3Engineering/9Key_summary/Key_summary_H.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -3542,13 +3428,13 @@ and I'll forget about whatever was undefined.
 
 [67]
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -3572,9 +3458,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[68])
-("D:\tech book 2015-2016\Complex_robot\4Appendix/5List_of_materials/List_of_mat
-erials_H.tex"
+[68]) (./4Appendix/5List_of_materials/List_of_materials_H.tex
 ! Undefined control sequence.
 \u-default-1089 #1->\cyrs 
                           
@@ -3587,13 +3471,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package epstopdf Info: Source file: <img/fill_page.eps>
-(epstopdf)                    date: 2016-03-21 13:35:19
-(epstopdf)                    size: 35507 bytes
+(epstopdf)                    date: 2016-03-22 20:23:38
+(epstopdf)                    size: 34976 bytes
 (epstopdf)             Output file: <img/fill_page-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-21 13:35:19
+(epstopdf)                    date: 2016-03-22 20:23:38
 (epstopdf)                    size: 2504 bytes
-(epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
--to.pdf img/fill_page.eps>
+(epstopdf)             Command: <repstopdf --outfile=img/fill_page-eps-converte
+d-to.pdf img/fill_page.eps>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
@@ -3617,10 +3501,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[69])
-("D:\tech book 2015-2016\Complex_robot\4Appendix/7Leaflet_for_judges/Leaflet_fo
-r_judges_H.tex"
-<4Appendix/7Leaflet_for_judges/images/01.jpg, id=395, 486.81876pt x 362.35374pt
+[69]) (./4Appendix/7Leaflet_for_judges/Leaflet_for_judges_H.tex
+<4Appendix/7Leaflet_for_judges/images/01.jpg, id=401, 486.81876pt x 362.35374pt
 >
 File: 4Appendix/7Leaflet_for_judges/images/01.jpg Graphic file (type jpg)
  <use 4Appendix/7Leaflet_for_judges/images/01.jpg>
@@ -3628,7 +3510,7 @@ Package pdftex.def Info: 4Appendix/7Leaflet_for_judges/images/01.jpg used on in
 put line 41.
 (pdftex.def)             Requested size: 170.38911pt x 126.8257pt.
 
-<4Appendix/7Leaflet_for_judges/images/02.jpg, id=396, 486.81876pt x 362.35374pt
+<4Appendix/7Leaflet_for_judges/images/02.jpg, id=402, 486.81876pt x 362.35374pt
 >
 File: 4Appendix/7Leaflet_for_judges/images/02.jpg Graphic file (type jpg)
  <use 4Appendix/7Leaflet_for_judges/images/02.jpg>
@@ -3636,7 +3518,7 @@ Package pdftex.def Info: 4Appendix/7Leaflet_for_judges/images/02.jpg used on in
 put line 45.
 (pdftex.def)             Requested size: 170.38911pt x 126.8257pt.
 
-<4Appendix/7Leaflet_for_judges/images/03.jpg, id=397, 363.3575pt x 541.02126pt>
+<4Appendix/7Leaflet_for_judges/images/03.jpg, id=403, 363.3575pt x 541.02126pt>
 File: 4Appendix/7Leaflet_for_judges/images/03.jpg Graphic file (type jpg)
 <use 4Appendix/7Leaflet_for_judges/images/03.jpg>
 Package pdftex.def Info: 4Appendix/7Leaflet_for_judges/images/03.jpg used on in
@@ -3654,44 +3536,38 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[70 <D:/tech book 2015-2016/Complex_robot/4Appendix/7Leaflet_for_judges/images/
-01.jpg> <D:/tech book 2015-2016/Complex_robot/4Appendix/7Leaflet_for_judges/ima
-ges/02.jpg> <D:/tech book 2015-2016/Complex_robot/4Appendix/7Leaflet_for_judges
-/images/03.jpg>]) ("D:\tech book 2015-2016\Complex_robot\tech_doc_complex.aux")
- ) 
+[70 <./4Appendix/7Leaflet_for_judges/images/01.jpg> <./4Appendix/7Leaflet_for_j
+udges/images/02.jpg> <./4Appendix/7Leaflet_for_judges/images/03.jpg>])
+(./tech_doc_complex.aux) ) 
 Here is how much of TeX's memory you used:
- 6826 strings out of 493921
- 135376 string characters out of 3144879
- 162170 words of memory out of 3000000
- 9590 multiletter control sequences out of 15000+200000
- 28726 words of font info for 75 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 42i,11n,43p,1261b,885s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-crm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
-\dpi600\ecbx0800.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
-nappen\ec\dpi600\ecrm0800.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecxc1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk> <C:\Users\User\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\User\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Use
-r\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\
-Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi603\ecbx1095
-.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecbx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi603\ecrm1095.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi837\ecbx3583.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\Users\User\AppData\Local\MiKTeX\2.
-9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1728.pk><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tech_doc_complex.pdf (70 pages, 63622400 bytes).
+ 6881 strings out of 493085
+ 127580 string characters out of 6136918
+ 171565 words of memory out of 5000000
+ 9894 multiletter control sequences out of 15000+600000
+ 28726 words of font info for 75 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,11n,43p,1261b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t
+1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfbi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx080
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfti1728.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfxc1095.pfb>
+Output written on tech_doc_complex.pdf (70 pages, 63900806 bytes).
 PDF statistics:
- 1000 PDF objects out of 1000 (max. 8388607)
+ 472 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 706 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 731 words of extra memory for PDF output out of 10000 (max. 10000000)
 
